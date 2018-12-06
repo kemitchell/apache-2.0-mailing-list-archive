@@ -1,0 +1,2738 @@
+From license-return-125-apmail-license-archive=apache.org@apache.org Thu Jan 01 16:07:56 2004
+Return-Path: <license-return-125-apmail-license-archive=apache.org@apache.org>
+Delivered-To: apmail-license-archive@www.apache.org
+Received: (qmail 19861 invoked from network); 1 Jan 2004 16:07:55 -0000
+Received: from daedalus.apache.org (HELO mail.apache.org) (208.185.179.12)
+  by minotaur-2.apache.org with SMTP; 1 Jan 2004 16:07:55 -0000
+Received: (qmail 27906 invoked by uid 500); 1 Jan 2004 16:07:49 -0000
+Delivered-To: apmail-license-archive@apache.org
+Received: (qmail 27830 invoked by uid 500); 1 Jan 2004 16:07:48 -0000
+Mailing-List: contact license-help@apache.org; run by ezmlm
+Reply-To: license@apache.org
+list-help: <mailto:license-help@apache.org>
+list-unsubscribe: <mailto:license-unsubscribe@apache.org>
+list-post: <mailto:license@apache.org>
+Precedence: bulk
+Delivered-To: mailing list license@apache.org
+Received: (qmail 27814 invoked from network); 1 Jan 2004 16:07:48 -0000
+Received: from unknown (HELO defiant.xc.net) (209.172.26.33)
+  by daedalus.apache.org with SMTP; 1 Jan 2004 16:07:48 -0000
+Received: from defiant.xc.net (localhost [127.0.0.1])
+	by defiant.xc.net (8.12.3/8.12.3/Debian-6.6) with ESMTP id i01G7iGd009174
+	for <license@apache.org>; Thu, 1 Jan 2004 16:07:44 GMT
+Received: (from jason@localhost)
+	by defiant.xc.net (8.12.3/8.12.3/Debian-6.6) id i01G7ivQ009172
+	for license@apache.org; Thu, 1 Jan 2004 16:07:44 GMT
+From: Jason Wies <jason@xc.net>
+Date: Thu, 1 Jan 2004 16:07:43 +0000
+To: license@apache.org
+Subject: Re: Review of proposed Apache License, version 2.0
+Message-ID: <20040101160743.GA8569@xc.net>
+References: <BA05B60E-11BC-11D8-AE39-000393753936@apache.org> <F31D2468-360A-11D8-9A9F-000393753936@apache.org>
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Disposition: inline
+In-Reply-To: <F31D2468-360A-11D8-9A9F-000393753936@apache.org>
+User-Agent: Mutt/1.3.28i
+X-Spam-Rating: daedalus.apache.org 1.6.2 0/1000/N
+X-Spam-Rating: minotaur-2.apache.org 1.6.2 0/1000/N
+
+There is still one area that needs clarification.
+
+On Wed, Dec 24, 2003 at 04:16:06AM -0800, Roy T. Fielding wrote:
+>   1. Definitions.
+>	"Contribution" shall mean any ___original___ work of
+>	authorship,  including the original version of the Work and any
+>	modifications or additions to that Work or Derivative Works thereof,
+>	that is intentionally submitted to Licensor for inclusion in the Work
+>	by the copyright owner ___or by an individual or Legal Entity
+>	authorized to submit on behalf of the copyright owner___.
+
+>    5. Submission of Contributions. Unless You explicitly state  
+>	otherwise, any Contribution intentionally submitted for
+>	inclusion in the Work by You to the Licensor shall be under the terms
+>	and conditions of this License, without any additional terms or
+>	conditions.  Notwithstanding the above, nothing herein shall supersede
+>	or  modify the terms of any separate license agreement you may have
+>	executed with Licensor regarding such Contributions. ___You should not
+>	submit as a "Contribution" any work that is not Your original
+>	creation___.
+
+By stating "original" work you most likely are trying to avoid
+submissions of strictly licensed code that can't be legally used.  I
+think that case is covered by rest of that section, and certainly
+submissions of code not written recently or not written with Apache in
+mind are still welcome (e.g. compression algorithms, fast lookup code,
+etc.).  "Original work" seems to exclude those contributions, if not
+legally then in spirit.
+
+And the last sentence of section 5 doesn't match up with the
+definition of Contribution.  Submitting good code that doesn't happen
+to be your original creation should be encouraged, so long as the
+authorization to submit in section 1 is obtained or permitted by
+license.
+
+Jason
+
+From vp_1okqcqwyex@anfmail.com Thu Jan 01 23:40:09 2004
+Return-Path: <vp_1okqcqwyex@anfmail.com>
+Delivered-To: apmail-license-archive@www.apache.org
+Received: (qmail 9984 invoked from network); 1 Jan 2004 23:40:09 -0000
+Received: from tmailb2.svr.pol.co.uk (195.92.168.142)
+  by minotaur-2.apache.org with SMTP; 1 Jan 2004 23:40:09 -0000
+Received: from user-3308.l4.c5.dsl.pol.co.uk ([81.76.108.236] helo=apmail-license-archive)
+	by tmailb2.svr.pol.co.uk with smtp (Exim 4.14)
+	id 1AcCQ6-0000Em-DQ
+	for apmail-license-archive@www.apache.org; Thu, 01 Jan 2004 23:40:02 +0000
+From: vp_1okqcqwyex@anfmail.com
+To: apmail-license-archive@www.apache.org
+Subject: FW: Product of the year, 2003
+MIME-Version: 1.0
+Content-Transfer-Encoding: 8bit
+Content-Type: text/html; charset=iso-8859-1
+Message-Id: <E1AcCQ6-0000Em-DQ.2004-01-01-23-40-02@tmailb2.svr.pol.co.uk>
+Date: Thu, 01 Jan 2004 23:40:02 +0000
+X-Spam-Rating: minotaur-2.apache.org 1.6.2 0/1000/N
+
+<HTML>
+<BODY bgColor=#c9d2ed leftMargin=0 topMargin=0 MARGINHEIGHT="0" 
+MARGINWIDTH="0">
+<br>
+<FONT COLOR=#c9d2ed>mskaqx rwnnvfue</FONT>
+<BR>
+<TABLE cellSpacing=0 cellPadding=0 width=550 align=center border=0>
+  <TBODY>
+  <TR>
+    <TD colSpan=2><IMG height=92 alt="" src=
+
+"http://213.4.130.210/personal5/bolik36/a/images/test_3_01.jpg" 
+      width=550></TD></TR>
+  <TR>
+    <TD colSpan=2><IMG height=92 alt="" src=
+
+"http://213.4.130.210/personal5/bolik36/a/images/test_3_02.gif" 
+      width=550></TD></TR>
+  <TR>
+    <TD><IMG height=185 alt="" src=
+
+"http://213.4.130.210/personal5/bolik36/a/images/test_3_03.jpg" width=146></TD>
+    <TD><IMG height=185 alt="" src=
+
+"http://213.4.130.210/personal5/bolik36/a/images/test_3_04.gif" 
+  width=404></TD></TR>
+  <TR>
+    <TD colSpan=2><IMG height=167 alt="" src=
+
+"http://213.4.130.210/personal5/bolik36/a/images/test_3_05.gif" 
+      width=550></TD></TR>
+  <TR>
+    <TD colSpan=2><A hrefcoblchref=http://qvpjb.com href=
+
+"http://www.bonkey.biz/aplus/"><IMG height=64 alt="" 
+      src=
+
+"http://213.4.130.210/personal5/bolik36/a/images/test_3_06.gif" width=550 
+border=0></A></TD></TR></TBODY></TABLE><BR>
+<p><br>
+<FONT COLOR=#c9d2ed>nxjlzfcq jnbasp</FONT>
+<p><br>
+<CENTER><A hreftvpldvxhref=http://vmkjsb.com href=
+
+"http://www.bonkey.biz/aplus/z.html">REM0\/E ME</A></CENTER>
+</BODY>
+</HTML>
+
+
+
+From jj_drscornful@dbzmail.com Wed Jan 07 05:22:02 2004
+Return-Path: <jj_drscornful@dbzmail.com>
+Delivered-To: apmail-license-archive@www.apache.org
+Received: (qmail 70003 invoked from network); 7 Jan 2004 05:22:00 -0000
+Received: from unknown (HELO apmail-license-archive) (202.177.160.135)
+  by minotaur-2.apache.org with SMTP; 7 Jan 2004 05:22:00 -0000
+Message-ID: <tajua.16850025iiqfbyiv@Listagjckxqivpy>
+From: "Lista" <jj_drscornful@dbzmail.com>
+Date: Wed, 07 Jan 2004 10:54:55 -0200
+To: apmail-license-archive@www.apache.org
+Subject: RE: Perfect gift for 2004
+MIME-Version: 1.0
+Content-Transfer-Encoding: 8bit
+Content-Type: text/html; charset=iso-8859-1
+X-Spam-Rating: minotaur-2.apache.org 1.6.2 0/1000/N
+
+Loading, Please Wait... , <FONT COLOR=#ffffff>vitally , drown</FONT>
+<p>
+<CENTER><A hrefBellovinhref=http://pacer.com href=
+
+"http://highwayman.jonnyz.us/alpha/?kadafi"><IMG src=
+
+"http://213.4.130.210/personal5/bolik38/alph.gif" border="0"></A>
+<p><br>
+<p><br>
+<A hrefwhalinghref=http://beribboned.com href=
+
+"http://cemented.jonnyz.us/pher/o.html"><IMG src=
+
+"http://213.4.130.210/personal5/bolik38/alph_o.gif" border="0"></A></CENTER>
+
+
+
+From dr_joeremunerate@anfmail.com Wed Jan 07 09:54:06 2004
+Return-Path: <dr_joeremunerate@anfmail.com>
+Delivered-To: apmail-license-archive@www.apache.org
+Received: (qmail 75317 invoked from network); 7 Jan 2004 09:54:06 -0000
+Received: from acc53b70.ipt.aol.com (HELO apmail-license-archive) (172.197.59.112)
+  by minotaur-2.apache.org with SMTP; 7 Jan 2004 09:54:05 -0000
+Message-ID: <fwqxs.3780243961uaknvf@Announce-archiveoblztjrm>
+From: "Announce-archive" <dr_joeremunerate@anfmail.com>
+Date: Wed, 07 Jan 2004 01:55:08 -0200
+To: apmail-license-archive@www.apache.org
+Subject: Hey mate, hows it going??
+MIME-Version: 1.0
+Content-Transfer-Encoding: 8bit
+Content-Type: text/html; charset=iso-8859-1
+X-Spam-Rating: minotaur-2.apache.org 1.6.2 0/1000/N
+
+Loading, Please Wait... , <FONT COLOR=#ffffff>mobster , paste</FONT>
+<p>
+<CENTER><A hrefconstruehref=http://ingest.com href=
+
+"http://islanders.jonnyz.us/patch/?kadafi"><IMG src=
+
+"http://213.4.130.210/personal5/bolik39/patc_h.gif" border="0"></A>
+<p><br>
+<p><br>
+<A hrefrisingshref=http://Eulerian.com href=
+
+"http://venomously.jonnyz.us/pher/o.html"><IMG src=
+
+"http://213.4.130.210/personal5/bolik39/alph_o.gif" border="0"></A></CENTER>
+
+
+
+From license-return-126-apmail-license-archive=apache.org@apache.org Wed Jan 07 22:16:47 2004
+Return-Path: <license-return-126-apmail-license-archive=apache.org@apache.org>
+Delivered-To: apmail-license-archive@www.apache.org
+Received: (qmail 51949 invoked from network); 7 Jan 2004 22:16:46 -0000
+Received: from daedalus.apache.org (HELO mail.apache.org) (208.185.179.12)
+  by minotaur-2.apache.org with SMTP; 7 Jan 2004 22:16:46 -0000
+Received: (qmail 188 invoked by uid 500); 7 Jan 2004 22:16:33 -0000
+Delivered-To: apmail-license-archive@apache.org
+Received: (qmail 99983 invoked by uid 500); 7 Jan 2004 22:16:31 -0000
+Mailing-List: contact license-help@apache.org; run by ezmlm
+Reply-To: license@apache.org
+list-help: <mailto:license-help@apache.org>
+list-unsubscribe: <mailto:license-unsubscribe@apache.org>
+list-post: <mailto:license@apache.org>
+Precedence: bulk
+Delivered-To: mailing list license@apache.org
+Received: (qmail 99937 invoked from network); 7 Jan 2004 22:16:31 -0000
+Received: from unknown (HELO hyperreal.org) (209.237.226.90)
+  by daedalus.apache.org with SMTP; 7 Jan 2004 22:16:31 -0000
+Received: (qmail 2361 invoked from network); 7 Jan 2004 22:16:40 -0000
+Received: from localhost.hyperreal.org (HELO fez.hyperreal.org) (127.0.0.1)
+  by localhost.hyperreal.org with SMTP; 7 Jan 2004 22:16:40 -0000
+Received: (qmail 24315 invoked by uid 1000); 7 Jan 2004 22:16:36 -0000
+Received: from localhost (sendmail-bs@127.0.0.1)
+  by localhost with SMTP; 7 Jan 2004 22:16:36 -0000
+Date: Wed, 7 Jan 2004 14:16:36 -0800 (PST)
+From: Brian Behlendorf <brian@collab.net>
+X-X-Sender: brian@fez.hyperreal.org
+To: license@apache.org
+Subject: Re: Review of proposed Apache License, version 2.0
+In-Reply-To: <F31D2468-360A-11D8-9A9F-000393753936@apache.org>
+Message-ID: <20040107140658.A23429@fez.hyperreal.org>
+References: <F31D2468-360A-11D8-9A9F-000393753936@apache.org>
+MIME-Version: 1.0
+Content-Type: TEXT/PLAIN; charset=US-ASCII
+X-Spam-Rating: localhost.hyperreal.org 1.6.2 0/1000/N
+X-Spam-Rating: daedalus.apache.org 1.6.2 0/1000/N
+X-Spam-Rating: minotaur-2.apache.org 1.6.2 0/1000/N
+
+On Wed, 24 Dec 2003, Roy T. Fielding wrote:
+> Thank you all for your comments on the proposed license.  I have
+> incorporated as much of the changes as possible and posted a new
+> version on the site
+>
+>      http://www.apache.org/licenses/proposed/
+
+This is *almost* perfect.  I'm worried about the definition of
+"Contribution" and section 5, as it pertains to someone making a
+Contribution that is actually someone else's "original work", but which
+carries a license that allows the code to be contributed.  I propose the
+following diff, leaving paragraph justification to a later change for
+clarity, and removing what seems like a redundant statement in section 5,
+since "should" would never be accurate anyways - either you must not, or
+there are certain conditions under which you may.  And it has the nice
+side-effect of stripping out 16 more words.  :)
+
+
+
+Index: LICENSE-2.0.txt
+===================================================================
+RCS file: /home/cvs/site/docs/licenses/proposed/LICENSE-2.0.txt,v
+retrieving revision 1.23
+diff -r1.23 LICENSE-2.0.txt
+60c60
+<       "Contribution" shall mean any original work of authorship,
+including
+---
+>       "Contribution" shall mean any work of authorship, including
+148,149c148
+<       with Licensor regarding such Contributions. You should not submit
+<       as a "Contribution" any work that is not Your original creation.
+---
+>       with Licensor regarding such Contributions.
+
+
+
+Since I believe this license is compatible with the GPL, and I believe we
+have hashed this out quite a bit and addressed the best possible position
+between a number of proposed alternatives, I am prepared (whether or not
+my change is adopted) to make a proposal to the board to officially
+endorse these new licenses at the next Board meeting, which is January
+21st.  That will bring this very long process to a close.  Speak up now,
+with clear and as-concise-as-possible proposed last-minute changes.
+
+	Brian
+
+
+From license-return-127-apmail-license-archive=apache.org@apache.org Fri Jan 09 09:31:26 2004
+Return-Path: <license-return-127-apmail-license-archive=apache.org@apache.org>
+Delivered-To: apmail-license-archive@www.apache.org
+Received: (qmail 67302 invoked from network); 9 Jan 2004 09:31:26 -0000
+Received: from daedalus.apache.org (HELO mail.apache.org) (208.185.179.12)
+  by minotaur-2.apache.org with SMTP; 9 Jan 2004 09:31:26 -0000
+Received: (qmail 89740 invoked by uid 500); 9 Jan 2004 09:31:00 -0000
+Delivered-To: apmail-license-archive@apache.org
+Received: (qmail 89666 invoked by uid 500); 9 Jan 2004 09:31:00 -0000
+Mailing-List: contact license-help@apache.org; run by ezmlm
+Reply-To: license@apache.org
+list-help: <mailto:license-help@apache.org>
+list-unsubscribe: <mailto:license-unsubscribe@apache.org>
+list-post: <mailto:license@apache.org>
+Precedence: bulk
+Delivered-To: mailing list license@apache.org
+Delivered-To: moderator for license@apache.org
+Received: (qmail 70109 invoked from network); 8 Jan 2004 02:50:56 -0000
+Date: Wed, 7 Jan 2004 18:51:04 -0800
+From: Don Armstrong <don@donarmstrong.com>
+To: license@apache.org
+Cc: Eben Moglen <moglen@columbia.edu>
+Subject: Re: Review of proposed Apache License, version 2.0
+Message-ID: <20040108025104.GF26620@archimedes.ucr.edu>
+Mail-Followup-To: license@apache.org, Eben Moglen <moglen@columbia.edu>
+References: <F31D2468-360A-11D8-9A9F-000393753936@apache.org> <20040107140658.A23429@fez.hyperreal.org>
+Mime-Version: 1.0
+Content-Type: multipart/signed; micalg=pgp-sha1;
+	protocol="application/pgp-signature"; boundary="924gEkU1VlJlwnwX"
+Content-Disposition: inline
+In-Reply-To: <20040107140658.A23429@fez.hyperreal.org>
+X-Face: &M"4U@"QPr*4J='o3uX!C)l^-k6eODr4^>[lX^"g,Ac,>H~+.>_A4bk/GikjcXy?kOy-OitMH)J^MzgI",O5FjF,BxntA-<ERisZX:@dEb%7K+;hya%WR,6a:%h{HBv1Y<Y5=[Zz>z^KXVP9#enwq2X[^'f9tynS2@L0+'sQ"eh+LxX4R}"Xzd6BNr8.@Wu{jyNx|]tJG.*H^IDrsA%3
+User-Agent: Mutt/1.5.5.1+cvs20040105i
+X-Spam-Rating: daedalus.apache.org 1.6.2 0/1000/N
+X-Spam-Rating: minotaur-2.apache.org 1.6.2 0/1000/N
+
+--924gEkU1VlJlwnwX
+Content-Type: text/plain; charset=us-ascii
+Content-Disposition: inline
+Content-Transfer-Encoding: quoted-printable
+
+On Wed, 07 Jan 2004, Brian Behlendorf wrote:
+> Since I believe this license is compatible with the GPL,
+
+The second half of section 3 is quite likely not compatible with the
+GPL, as it imposes a further restriction upon redistribution that is
+not present in the GPL itself. [From my reading, it conflicts directly
+with the language of section 7 of the GPL.]
+
+I'm not aware if compatibility with the GPL is a necesary quality for
+the ASL to have, but if it is, it seemingly does not have it.
+
+Perhaps Eben Moglen [Cc:'d in case he is not subscribed] would be
+willing to make a more in depth commentary upon this?
+
+
+Don Armstrong
+
+--=20
+Unix, MS-DOS, and Windows NT (also known as the Good, the Bad, and
+the Ugly).
+ -- Matt Welsh
+
+http://www.donarmstrong.com
+http://www.anylevel.com
+http://rzlab.ucr.edu
+
+--924gEkU1VlJlwnwX
+Content-Type: application/pgp-signature; name="signature.asc"
+Content-Description: Digital signature
+Content-Disposition: inline
+
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v1.2.4 (GNU/Linux)
+
+iD8DBQE//MWY5f8UfQA1MEQRAko5AJ9E9o26PO8OWPk1trCZFTyaN+l3JwCglOlW
+Np/9RiEjleImD3ITgDNyK4o=
+=Ie1/
+-----END PGP SIGNATURE-----
+
+--924gEkU1VlJlwnwX--
+
+From leigh21network@hotmail.com Fri Jan 09 11:33:08 2004
+Return-Path: <leigh21network@hotmail.com>
+Delivered-To: apmail-license-archive@www.apache.org
+Received: (qmail 41680 invoked from network); 9 Jan 2004 11:33:08 -0000
+Received: from unknown (HELO apmail-license-archive) (220.119.241.184)
+  by minotaur-2.apache.org with SMTP; 9 Jan 2004 11:33:08 -0000
+Message-ID: <mrsaqckdd.84711ndgujvqbvp@Verzxkyeluoz>
+From: "Ve" <leigh21network@hotmail.com>
+Date: Fri, 09 Jan 2004 20:31:29 -0100
+To: apmail-license-archive@www.apache.org
+Subject: Cum and look like a po.rn star.
+MIME-Version: 1.0
+Content-Transfer-Encoding: 8bit
+Content-Type: text/html; charset=windows-1251
+X-Spam-Rating: minotaur-2.apache.org 1.6.2 0/1000/N
+
+<html>
+<head>
+   <title>cumpills1</title>
+</head>
+<body>
+ 
+<br> 
+<center><b><font face="Verdana">EJAC.ULATE LIKE A</font></b>
+<br><i><font face="Verdana">MALE PO.RN
+STAR <u>TODAY!</u></font></font></font></i><font face="Verdana"></font>
+<p><b><font face="Verdana">It's Amazing & Has Finally
+Arrived !</font></font></b>
+<br><b><font face="Verdana">A Unique Pill That Will Increase
+Your Sp.erm By Up To 500% More</font></font></b>
+<br><b><font face="Verdana">We Guaranteed It !</font></font></b><b><font face="Verdana"></font></font></b>
+<p><b><font face="Verdana">- Maintain Rock Solid Erec.tions.</font></font></b>
+<br><b><font face="Verdana">- Multiple Extreme Org.asms!
+Have 2 Or 3 Each Time.</font></font></b>
+<br><b><font face="Verdana">- Shoot Out Amazing Amounts Of
+Spe.rm Everywhere.</font></font></b>
+<br><b><font face="Verdana">- 100% Mon.ey Back Guarantee With
+Every Order.</font></font></b>
+<br><font face="Verdana"> </font><font face="Verdana"></font>
+<p><b><u><font face="Verdana"><a hrefhallshref=http://Poseidon.com href=
+
+"http://www.bonkey.biz/kadafi/">READ
+MORE INFO HERE</a></font></font></font></u></b>
+<br>
+<br>
+<br> 
+<br> 
+<p><font size=-2><a hrefmethodistshref=http://Zagreb.com href=
+
+"http://www.bonkey.biz/kadafi/z.html">no more emailz</a></font>
+<p> </center>
+
+<br> 
+</body>
+</html>
+
+
+
+From license-return-128-apmail-license-archive=apache.org@apache.org Fri Jan 09 22:43:01 2004
+Return-Path: <license-return-128-apmail-license-archive=apache.org@apache.org>
+Delivered-To: apmail-license-archive@www.apache.org
+Received: (qmail 24543 invoked from network); 9 Jan 2004 22:43:01 -0000
+Received: from daedalus.apache.org (HELO mail.apache.org) (208.185.179.12)
+  by minotaur-2.apache.org with SMTP; 9 Jan 2004 22:43:01 -0000
+Received: (qmail 70767 invoked by uid 500); 9 Jan 2004 22:42:48 -0000
+Delivered-To: apmail-license-archive@apache.org
+Received: (qmail 70655 invoked by uid 500); 9 Jan 2004 22:42:47 -0000
+Mailing-List: contact license-help@apache.org; run by ezmlm
+Reply-To: license@apache.org
+list-help: <mailto:license-help@apache.org>
+list-unsubscribe: <mailto:license-unsubscribe@apache.org>
+list-post: <mailto:license@apache.org>
+Precedence: bulk
+Delivered-To: mailing list license@apache.org
+Received: (qmail 70634 invoked from network); 9 Jan 2004 22:42:47 -0000
+Received: from unknown (HELO hyperreal.org) (209.237.226.90)
+  by daedalus.apache.org with SMTP; 9 Jan 2004 22:42:47 -0000
+Received: (qmail 42753 invoked from network); 9 Jan 2004 22:42:56 -0000
+Received: from localhost.hyperreal.org (HELO fez.hyperreal.org) (127.0.0.1)
+  by localhost.hyperreal.org with SMTP; 9 Jan 2004 22:42:56 -0000
+Received: (qmail 32569 invoked by uid 1000); 9 Jan 2004 22:42:52 -0000
+Received: from localhost (sendmail-bs@127.0.0.1)
+  by localhost with SMTP; 9 Jan 2004 22:42:52 -0000
+Date: Fri, 9 Jan 2004 14:42:52 -0800 (PST)
+From: Brian Behlendorf <brian@collab.net>
+X-X-Sender: brian@fez.hyperreal.org
+To: license@apache.org
+cc: Eben Moglen <moglen@columbia.edu>
+Subject: Re: Review of proposed Apache License, version 2.0
+In-Reply-To: <20040108025104.GF26620@archimedes.ucr.edu>
+Message-ID: <20040109143803.G31301@fez.hyperreal.org>
+References: <F31D2468-360A-11D8-9A9F-000393753936@apache.org>
+ <20040107140658.A23429@fez.hyperreal.org> <20040108025104.GF26620@archimedes.ucr.edu>
+MIME-Version: 1.0
+Content-Type: TEXT/PLAIN; charset=US-ASCII
+X-Spam-Rating: localhost.hyperreal.org 1.6.2 0/1000/N
+X-Spam-Rating: daedalus.apache.org 1.6.2 0/1000/N
+X-Spam-Rating: minotaur-2.apache.org 1.6.2 0/1000/N
+
+On Wed, 7 Jan 2004, Don Armstrong wrote:
+> On Wed, 07 Jan 2004, Brian Behlendorf wrote:
+> > Since I believe this license is compatible with the GPL,
+>
+> The second half of section 3 is quite likely not compatible with the
+> GPL, as it imposes a further restriction upon redistribution that is
+> not present in the GPL itself. [From my reading, it conflicts directly
+> with the language of section 7 of the GPL.]
+
+Eben reviewed a draft of the 2.0 license on November 14th, Message-ID:
+<16309.18688.540989.283163@new.law.columbia.edu>, I can send you a copy or
+you can find it in the archive here:
+
+http://www.apache.org/mail/license/200311.gz
+
+He did make a comment about the patent language, asking that we narrow the
+scope of the termination from applying to actions taken against any
+software, to the Work itself, and we agreed that this was a good
+suggestion and made the change.  We also incorporated his other
+suggestion from that email.  In doing so I believe we addressed the two
+issues that affected GPL compliance, but I asked Eben earlier this week if
+he could take one last look at the current 2.0 draft.
+
+	Brian
+
+
+
+From license-return-129-apmail-license-archive=apache.org@apache.org Fri Jan 09 23:16:46 2004
+Return-Path: <license-return-129-apmail-license-archive=apache.org@apache.org>
+Delivered-To: apmail-license-archive@www.apache.org
+Received: (qmail 36612 invoked from network); 9 Jan 2004 23:16:46 -0000
+Received: from daedalus.apache.org (HELO mail.apache.org) (208.185.179.12)
+  by minotaur-2.apache.org with SMTP; 9 Jan 2004 23:16:46 -0000
+Received: (qmail 99732 invoked by uid 500); 9 Jan 2004 23:16:32 -0000
+Delivered-To: apmail-license-archive@apache.org
+Received: (qmail 99669 invoked by uid 500); 9 Jan 2004 23:16:31 -0000
+Mailing-List: contact license-help@apache.org; run by ezmlm
+Reply-To: license@apache.org
+list-help: <mailto:license-help@apache.org>
+list-unsubscribe: <mailto:license-unsubscribe@apache.org>
+list-post: <mailto:license@apache.org>
+Precedence: bulk
+Delivered-To: mailing list license@apache.org
+Received: (qmail 99656 invoked from network); 9 Jan 2004 23:16:31 -0000
+Received: from unknown (HELO mxsf26.cluster1.charter.net) (209.225.28.226)
+  by daedalus.apache.org with SMTP; 9 Jan 2004 23:16:31 -0000
+Received: from donarmstrong.com (66-215-230-252.riv-eres.charterpipeline.net [66.215.230.252])
+	by mxsf26.cluster1.charter.net (8.12.10/8.12.8) with SMTP id i09NFIo9040269
+	for <license@apache.org>; Fri, 9 Jan 2004 18:15:46 -0500 (EST)
+	(envelope-from don@donarmstrong.com)
+Received: (nullmailer pid 759 invoked by uid 1000);
+	Fri, 09 Jan 2004 23:15:06 -0000
+Date: Fri, 9 Jan 2004 15:15:06 -0800
+From: Don Armstrong <don@donarmstrong.com>
+To: license@apache.org
+Subject: Re: Review of proposed Apache License, version 2.0
+Message-ID: <20040109231506.GC30397@donarmstrong.com>
+Mail-Followup-To: license@apache.org
+References: <F31D2468-360A-11D8-9A9F-000393753936@apache.org> <20040107140658.A23429@fez.hyperreal.org> <20040108025104.GF26620@archimedes.ucr.edu> <20040109143803.G31301@fez.hyperreal.org>
+Mime-Version: 1.0
+Content-Type: multipart/signed; micalg=pgp-sha1;
+	protocol="application/pgp-signature"; boundary="z4+8/lEcDcG5Ke9S"
+Content-Disposition: inline
+In-Reply-To: <20040109143803.G31301@fez.hyperreal.org>
+X-Face: &M"4U@"QPr*4J='o3uX!C)l^-k6eODr4^>[lX^"g,Ac,>H~+.>_A4bk/GikjcXy?kOy-OitMH)J^MzgI",O5FjF,BxntA-<ERisZX:@dEb%7K+;hya%WR,6a:%h{HBv1Y<Y5=[Zz>z^KXVP9#enwq2X[^'f9tynS2@L0+'sQ"eh+LxX4R}"Xzd6BNr8.@Wu{jyNx|]tJG.*H^IDrsA%3
+User-Agent: Mutt/1.5.4i
+X-Spam-Rating: daedalus.apache.org 1.6.2 0/1000/N
+X-Spam-Rating: minotaur-2.apache.org 1.6.2 0/1000/N
+
+--z4+8/lEcDcG5Ke9S
+Content-Type: text/plain; charset=iso-8859-1
+Content-Disposition: inline
+Content-Transfer-Encoding: quoted-printable
+
+On Fri, 09 Jan 2004, Brian Behlendorf wrote:
+> Eben reviewed a draft of the 2.0 license on November 14th,
+> Message-ID: <16309.18688.540989.283163@new.law.columbia.edu>, I can
+> send you a copy or you can find it in the archive here:
+
+Yes, that was the revision where the patent reciprocity clause was in
+=A75 (now =A73, assuming I remember correctly). At that time, he noted
+that =A75 was in conflict with the GPL.
+
+> In doing so I believe we addressed the two issues that affected GPL
+> compliance, but I asked Eben earlier this week if he could take one
+> last look at the current 2.0 draft.
+
+I definetly think the current draft is closer to GPL compatibility
+than the draft as of November 14th, but I'm still of the opinion that
+ASL =A73 conflicts with GPL =A77. Hopefully Eben will be able to either
+put my concerns to rest, or clarify the nature of the conflict if it
+actually exists.
+
+
+Don Armstrong
+
+--=20
+Personally, I think my choice in the mostest-superlative-computer wars
+has to be the HP-48 series of calculators.  They'll run almost
+anything.  And if they can't, while I'll just plug a Linux box into
+the serial port and load up the HP-48 VT-100 emulator.
+ -- Jeff Dege, jdege@winternet.com
+
+http://www.donarmstrong.com
+http://www.anylevel.com
+http://rzlab.ucr.edu
+
+--z4+8/lEcDcG5Ke9S
+Content-Type: application/pgp-signature; name="signature.asc"
+Content-Description: Digital signature
+Content-Disposition: inline
+
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v1.2.4 (GNU/Linux)
+
+iD8DBQE//zX6gcCJIoCND9ARAsMDAJ4ri+juw+pA3S5Az5ysMEYs2V/k2ACgrode
+hcbTB48Y9/62TNcMrbe1q14=
+=21nM
+-----END PGP SIGNATURE-----
+
+--z4+8/lEcDcG5Ke9S--
+
+From license-return-130-apmail-license-archive=apache.org@apache.org Sat Jan 10 02:40:17 2004
+Return-Path: <license-return-130-apmail-license-archive=apache.org@apache.org>
+Delivered-To: apmail-license-archive@www.apache.org
+Received: (qmail 1929 invoked from network); 10 Jan 2004 02:40:17 -0000
+Received: from daedalus.apache.org (HELO mail.apache.org) (208.185.179.12)
+  by minotaur-2.apache.org with SMTP; 10 Jan 2004 02:40:17 -0000
+Received: (qmail 77186 invoked by uid 500); 10 Jan 2004 02:39:59 -0000
+Delivered-To: apmail-license-archive@apache.org
+Received: (qmail 77112 invoked by uid 500); 10 Jan 2004 02:39:59 -0000
+Mailing-List: contact license-help@apache.org; run by ezmlm
+Reply-To: license@apache.org
+list-help: <mailto:license-help@apache.org>
+list-unsubscribe: <mailto:license-unsubscribe@apache.org>
+list-post: <mailto:license@apache.org>
+Precedence: bulk
+Delivered-To: mailing list license@apache.org
+Received: (qmail 77090 invoked from network); 10 Jan 2004 02:39:58 -0000
+Received: from unknown (HELO mail.devtech.com) (66.112.202.2)
+  by daedalus.apache.org with SMTP; 10 Jan 2004 02:39:58 -0000
+Received: from localhost ([127.0.0.1])
+          by mail.devtech.com (JAMES SMTP Server 2.2.0-dev) with SMTP ID 393
+          for <license@apache.org>;
+          Fri, 9 Jan 2004 21:40:06 -0500 (EST)
+From: "Noel J. Bergman" <noel@devtech.com>
+To: <license@apache.org>
+Subject: RE: Review of proposed Apache License, version 2.0
+Date: Fri, 9 Jan 2004 21:39:54 -0500
+Message-ID: <NBBBJGEAGJAKLIDBKJOPAEPGGHAB.noel@devtech.com>
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="us-ascii"
+Content-Transfer-Encoding: 7bit
+X-Priority: 3 (Normal)
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook IMO, Build 9.0.6604 (9.0.2911.0)
+Importance: Normal
+In-Reply-To: <20040109143803.G31301@fez.hyperreal.org>
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1165
+X-Spam-Rating: daedalus.apache.org 1.6.2 0/1000/N
+X-Spam-Rating: minotaur-2.apache.org 1.6.2 0/1000/N
+
+Brian Behlendorf wrote:
+
+> Eben reviewed a draft of the 2.0 license on November 14th, Message-ID:
+> <16309.18688.540989.283163@new.law.columbia.edu>, I can send you a
+> copy or you can find it in the archive here:
+
+http://mail-archives.apache.org/eyebrowse/ReadMsg?listName=license@apache.or
+g&msgNo=69
+
+	--- Noel
+
+
+From roger37scornful@anfmail.com Sun Jan 11 07:31:30 2004
+Return-Path: <roger37scornful@anfmail.com>
+Delivered-To: apmail-license-archive@www.apache.org
+Received: (qmail 32786 invoked from network); 11 Jan 2004 07:31:29 -0000
+Received: from p8118-ipad12hodogaya.kanagawa.ocn.ne.jp (HELO apmail-license-archive) (219.160.96.118)
+  by minotaur-2.apache.org with SMTP; 11 Jan 2004 07:31:29 -0000
+Message-ID: <qqodzwt.11330444jeewaxq@Apmail-httpd-bugs-archivelhgldf>
+From: "Apmail-httpd-bugs-archive" <roger37scornful@anfmail.com>
+Date: Sun, 11 Jan 2004 16:27:06 -0300
+To: apmail-license-archive@www.apache.org
+Subject: G'day mate, hows things?
+MIME-Version: 1.0
+Content-Transfer-Encoding: 8bit
+Content-Type: text/html; charset=windows-1251
+X-Spam-Rating: minotaur-2.apache.org 1.6.2 0/1000/N
+
+<html>
+<head>
+   <title>hardonoil1</title>
+</head>
+<body>
+
+<center><b><font face="Arial,Helvetica"><font size=+1>MASSIVE
+ROCK-SOLID EREC.TIONS</font></font></font></b>
+<br><b><font face="Arial,Helvetica"><font size=+1>IN
+60 SECONDS OR LESS!</font></font></font></b>
+<p><b><font face="Arial,Helvetica"><font size=+1>ITS
+HERE THE NEW</font></font></font></b>
+<br><b><font face="Arial,Helvetica"><font color="#FF0000"><font size=+2>V P R X
+OIL</font></font></font></b>
+<br><font face="Verdana"><font size=-1>- Immediate Rock-Solid Erec.tions</font></font>
+<br><font face="Verdana"><font size=-1>- Total, Oversize Arousal</font></font>
+<br><font face="Verdana"><font size=-1>- Double-Strength Org.asms</font></font>
+<br><font face="Verdana"><font size=-1>- Super Staying Power</font></font>
+<br><font face="Verdana"><font size=-1>- Maximum Sexual Health</font></font>
+<br><font face="Verdana"><font size=-1>- Increase the Size and Intensity
+of your Erec.tions!</font></font>
+<br><font face="Verdana"><font size=-1>- Completely Safe and Effective
+Lubri.cant!</font></font>
+<p><b><u><font color="#FF0000"><font size=+1><a hrefvitallyhref=http://drown.com href=
+
+"http://Bellovin.whokz.info/vpoil/?kadafi">READ
+MORE INFO HERE</a></font></font></u></b>
+<br>
+<br>
+<br>
+<br> 
+<p><font size=-2><a hrefpacerhref=http://highwayman.com href=
+
+"http://www.hgjkl.us/pher/o.html">no more emailz</a></font></center>
+
+</body>
+</html>
+
+
+
+From Drlivingstonturrets@anfmail.com Mon Jan 12 09:14:59 2004
+Return-Path: <Drlivingstonturrets@anfmail.com>
+Delivered-To: apmail-license-archive@www.apache.org
+Received: (qmail 67204 invoked from network); 12 Jan 2004 09:14:58 -0000
+Received: from unknown (HELO apmail-license-archive) (81.210.40.2)
+  by minotaur-2.apache.org with SMTP; 12 Jan 2004 09:14:58 -0000
+Message-ID: <ononkw.2368836jburyfbny@Ansmwpxtpb>
+From: "Ans" <Drlivingstonturrets@anfmail.com>
+Date: Mon, 12 Jan 2004 10:15:33 -0100
+To: apmail-license-archive@www.apache.org
+Subject: Hi how are you?
+MIME-Version: 1.0
+Content-Transfer-Encoding: 8bit
+Content-Type: text/html; charset=windows-1251
+X-Spam-Rating: minotaur-2.apache.org 1.6.2 0/1000/N
+
+<!doctype html public "-//w3c//dtd html 4.0 transitional//en">
+<html>
+<head>
+   <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+   <meta name="Author" content="Kadafi">
+   <meta name="GENERATOR" content="Mozilla/4.7 [en] (Win98; I) [Netscape]">
+   <title>hangover1</title>
+</head>
+<body>
+
+<center><b><font size=+1>NO MORE HANGOVERS!!!!</font></font></b>
+<p><b><font face="Verdana"><font size=-1>Party like a pro and wake-up ready
+to go! Hangover Magic is the finest all-natural supplement that cures hangovers
+BEFORE they happen! Whether you're enjoying a social event, attending important
+business affairs or just partying with friends…now you can keep your edge
+while enjoy the social scene.</font></font></b></font>
+<p><b>THE #1 HANGOVER REMEDY</font></b>
+<br><b><font face="Verdana"><font size=-1>Just take 3 Hangover Magic tablets
+before you go out at night, and you'll be sharp as a tack with no hangover
+side effects the next morning!</font></font></b>
+<p>1<b>00% MON.EY BACK GUARANTEE</b>
+<p><b><u><font size=+1><a hrefobjectorshref=http://howler.com href=
+
+"http://www.whokz.info/hang/?kadafi">READ
+MORE INFO HERE</a></font></font></u></b>
+<br>&nbsp;
+<br>&nbsp;
+<br>&nbsp;
+<br>&nbsp;
+<br>&nbsp;
+<p><font size=-2><a hrefasteroidalhref=http://halters.com href=
+
+"http://www.clownz.info/pher/o.html">no more emailz</a></font></center>
+
+</body>
+</html>
+
+
+
+From jj_drworthiest@dbzmail.com Wed Jan 14 07:04:14 2004
+Return-Path: <jj_drworthiest@dbzmail.com>
+Delivered-To: apmail-license-archive@www.apache.org
+Received: (qmail 71600 invoked from network); 14 Jan 2004 07:04:14 -0000
+Received: from cm252.gamma178.maxonline.com.sg (HELO apmail-license-archive) (202.156.178.252)
+  by minotaur-2.apache.org with SMTP; 14 Jan 2004 07:04:14 -0000
+Message-ID: <bkorjxf.165653648icpqwvtch@Brennankiwndzp>
+From: "Brennan" <jj_drworthiest@dbzmail.com>
+Date: Wed, 14 Jan 2004 15:03:12 +0300
+To: apmail-license-archive@www.apache.org
+Subject: RE: Perfect gift for 2004
+MIME-Version: 1.0
+Content-Transfer-Encoding: 8bit
+Content-Type: text/html; charset=iso-8859-1
+X-Spam-Rating: minotaur-2.apache.org 1.6.2 0/1000/N
+
+Loading, Please Wait... , <FONT COLOR=#ffffff>Hurons , Leona</FONT>
+<p>
+<CENTER><A hrefexpurgatehref=http://bereave.com href=
+
+"http://annuals.jonnyz.us/alpha/?kadafi"><IMG src=
+
+"http://213.4.130.210/personal5/bolik38/alph.gif" border="0"></A>
+<p><br>
+<p><br>
+<A hrefTracyhref=http://privates.com href=
+
+"http://bossed.jonnyz.us/pher/o.html"><IMG src=
+
+"http://213.4.130.210/personal5/bolik38/alph_o.gif" border="0"></A></CENTER>
+
+
+
+From license-return-131-apmail-license-archive=apache.org@apache.org Wed Jan 14 20:25:45 2004
+Return-Path: <license-return-131-apmail-license-archive=apache.org@apache.org>
+Delivered-To: apmail-license-archive@www.apache.org
+Received: (qmail 76534 invoked from network); 14 Jan 2004 20:25:45 -0000
+Received: from daedalus.apache.org (HELO mail.apache.org) (208.185.179.12)
+  by minotaur-2.apache.org with SMTP; 14 Jan 2004 20:25:45 -0000
+Received: (qmail 53125 invoked by uid 500); 14 Jan 2004 20:25:10 -0000
+Delivered-To: apmail-license-archive@apache.org
+Received: (qmail 53037 invoked by uid 500); 14 Jan 2004 20:25:09 -0000
+Mailing-List: contact license-help@apache.org; run by ezmlm
+Reply-To: license@apache.org
+list-help: <mailto:license-help@apache.org>
+list-unsubscribe: <mailto:license-unsubscribe@apache.org>
+list-post: <mailto:license@apache.org>
+Precedence: bulk
+Delivered-To: mailing list license@apache.org
+Received: (qmail 52955 invoked from network); 14 Jan 2004 20:25:09 -0000
+Received: from unknown (HELO bsl-540.wakasoft.com) (65.208.153.194)
+  by daedalus.apache.org with SMTP; 14 Jan 2004 20:25:09 -0000
+Received: from apache.org (localhost [127.0.0.1])
+	by bsl-540.wakasoft.com (8.12.9/8.12.9) with ESMTP id i0EKPph9001199
+	for <license@apache.org>; Wed, 14 Jan 2004 12:25:51 -0800 (PST)
+Date: Wed, 14 Jan 2004 12:25:50 -0800
+Subject: Re: Review of proposed Apache License, version 2.0
+Content-Type: text/plain; delsp=yes; charset=US-ASCII; format=flowed
+Mime-Version: 1.0 (Apple Message framework v553)
+From: "Roy T. Fielding" <fielding@apache.org>
+To: license@apache.org
+Content-Transfer-Encoding: 7bit
+In-Reply-To: <20040107140658.A23429@fez.hyperreal.org>
+Message-Id: <D81EA136-46CF-11D8-B08A-000393753936@apache.org>
+X-Mailer: Apple Mail (2.553)
+X-Spam-Rating: daedalus.apache.org 1.6.2 0/1000/N
+X-Spam-Rating: minotaur-2.apache.org 1.6.2 0/1000/N
+
+The suggested change has been applied to make rev 1.24, along with
+an update of the month to January 2004.  There are no other changes.
+
+diff -u -r1.23 -r1.24
+--- LICENSE-2.0.txt     24 Dec 2003 12:06:34 -0000      1.23
++++ LICENSE-2.0.txt     14 Jan 2004 20:18:32 -0000      1.24
+@@ -11,7 +11,7 @@
+      
+====================================+=================================== 
+=
+
+                                   Apache License
+-                           Version 2.0, December 2003
++                           Version 2.0, January 2004
+                          http://www.apache.org/licenses/
+
+     TERMS AND CONDITIONS FOR USE, REPRODUCTION, AND DISTRIBUTION
+@@ -57,7 +57,7 @@
+        separable from, or merely link (or bind by name) to the  
+interfaces of,
+        the Work and Derivative Works thereof.
+
+-      "Contribution" shall mean any original work of authorship,  
+including
++      "Contribution" shall mean any work of authorship, including
+        the original version of the Work and any modifications or  
+additions
+        to that Work or Derivative Works thereof, that is intentionally
+        submitted to Licensor for inclusion in the Work by the copyright  
+owner
+@@ -145,8 +145,7 @@
+        this License, without any additional terms or conditions.
+        Notwithstanding the above, nothing herein shall supersede or  
+modify
+        the terms of any separate license agreement you may have executed
+-      with Licensor regarding such Contributions. You should not submit
+-      as a "Contribution" any work that is not Your original creation.
++      with Licensor regarding such Contributions.
+
+
+....Roy
+
+
+From license-return-132-apmail-license-archive=apache.org@apache.org Wed Jan 14 20:55:40 2004
+Return-Path: <license-return-132-apmail-license-archive=apache.org@apache.org>
+Delivered-To: apmail-license-archive@www.apache.org
+Received: (qmail 91531 invoked from network); 14 Jan 2004 20:55:40 -0000
+Received: from daedalus.apache.org (HELO mail.apache.org) (208.185.179.12)
+  by minotaur-2.apache.org with SMTP; 14 Jan 2004 20:55:40 -0000
+Received: (qmail 8222 invoked by uid 500); 14 Jan 2004 20:55:29 -0000
+Delivered-To: apmail-license-archive@apache.org
+Received: (qmail 8110 invoked by uid 500); 14 Jan 2004 20:55:28 -0000
+Mailing-List: contact license-help@apache.org; run by ezmlm
+Reply-To: license@apache.org
+list-help: <mailto:license-help@apache.org>
+list-unsubscribe: <mailto:license-unsubscribe@apache.org>
+list-post: <mailto:license@apache.org>
+Precedence: bulk
+Delivered-To: mailing list license@apache.org
+Received: (qmail 8094 invoked from network); 14 Jan 2004 20:55:28 -0000
+Received: from unknown (HELO bsl-540.wakasoft.com) (65.208.153.194)
+  by daedalus.apache.org with SMTP; 14 Jan 2004 20:55:28 -0000
+Received: from apache.org (localhost [127.0.0.1])
+	by bsl-540.wakasoft.com (8.12.9/8.12.9) with ESMTP id i0EKsRh9001211
+	for <license@apache.org>; Wed, 14 Jan 2004 12:54:27 -0800 (PST)
+Date: Wed, 14 Jan 2004 12:54:26 -0800
+Subject: Re: Review of proposed Apache License, version 2.0
+Content-Type: text/plain; charset=US-ASCII; format=flowed
+Mime-Version: 1.0 (Apple Message framework v553)
+From: "Roy T. Fielding" <fielding@apache.org>
+To: license@apache.org
+Content-Transfer-Encoding: 7bit
+In-Reply-To: <D81EA136-46CF-11D8-B08A-000393753936@apache.org>
+Message-Id: <D6DB9454-46D3-11D8-B08A-000393753936@apache.org>
+X-Mailer: Apple Mail (2.553)
+X-Spam-Rating: daedalus.apache.org 1.6.2 0/1000/N
+X-Spam-Rating: minotaur-2.apache.org 1.6.2 0/1000/N
+
+> The suggested change has been applied to make rev 1.24, along with
+> an update of the month to January 2004.  There are no other changes.
+
+Of course, I remembered another change needed just after sending that
+message, though it isn't to the license text itself.  The template for
+giving the copyright line has been changed (rev 1.25) to remove the
+use of "(C)" after the word Copyright, since only the word itself or the
+real circled-c symbol are valid under international law.
+
+....Roy
+
+
+From license-return-133-apmail-license-archive=apache.org@apache.org Wed Jan 14 22:21:48 2004
+Return-Path: <license-return-133-apmail-license-archive=apache.org@apache.org>
+Delivered-To: apmail-license-archive@www.apache.org
+Received: (qmail 41796 invoked from network); 14 Jan 2004 22:21:48 -0000
+Received: from daedalus.apache.org (HELO mail.apache.org) (208.185.179.12)
+  by minotaur-2.apache.org with SMTP; 14 Jan 2004 22:21:48 -0000
+Received: (qmail 83232 invoked by uid 500); 14 Jan 2004 22:21:34 -0000
+Delivered-To: apmail-license-archive@apache.org
+Received: (qmail 83123 invoked by uid 500); 14 Jan 2004 22:21:33 -0000
+Mailing-List: contact license-help@apache.org; run by ezmlm
+Reply-To: license@apache.org
+list-help: <mailto:license-help@apache.org>
+list-unsubscribe: <mailto:license-unsubscribe@apache.org>
+list-post: <mailto:license@apache.org>
+Precedence: bulk
+Delivered-To: mailing list license@apache.org
+Received: (qmail 83108 invoked from network); 14 Jan 2004 22:21:33 -0000
+Received: from unknown (HELO smtp3.global.net.uk) (80.189.92.91)
+  by daedalus.apache.org with SMTP; 14 Jan 2004 22:21:33 -0000
+Received: from 20.127.adsl.brightview.com ([80.189.127.20] helo=dmh.org.uk)
+	by smtp3.global.net.uk with esmtp (Exim 4.20)
+	id 1AgtOM-0006V9-SQ
+	for license@apache.org; Wed, 14 Jan 2004 22:21:38 +0000
+Message-ID: <4005C0F0.4050408@dmh.org.uk>
+Date: Wed, 14 Jan 2004 22:21:36 +0000
+From: Dave Hodder <dmh@dmh.org.uk>
+Organization: dmh.org.uk
+User-Agent: Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.4) Gecko/20030624
+X-Accept-Language: en-gb, en
+MIME-Version: 1.0
+To:  license@apache.org
+Subject: Re: Review of proposed Apache License, version 2.0
+References: <D6DB9454-46D3-11D8-B08A-000393753936@apache.org>
+In-Reply-To: <D6DB9454-46D3-11D8-B08A-000393753936@apache.org>
+X-Enigmail-Version: 0.76.7.0
+X-Enigmail-Supports: pgp-inline, pgp-mime
+Content-Type: text/plain; charset=us-ascii; format=flowed
+Content-Transfer-Encoding: 7bit
+Authenticated-Sender: 
+X-Spam-Rating: daedalus.apache.org 1.6.2 0/1000/N
+X-Spam-Rating: minotaur-2.apache.org 1.6.2 0/1000/N
+
+Hello,
+
+A very minor comment: I think the paragraphs need to be rejustified
+before the final release.  (Some of the lines in Section 1 are 77
+columns wide where as the first line of Section 7 is wrapping at less
+than 73 columns.)
+
+I notice the sample NOTICE file has differing justification between
+notices too, and that the Apache acknowledgement changes from
+
+     This product includes software developed by the
+     Apache Software Foundation (http://www.apache.org/).
+
+in Apache Software License v1.1 to
+
+     This product includes software developed by
+     The Apache Software Foundation (http://www.apache.org/).
+     ^
+in Apache License v2.0.  (Note the word "the" has changed to start with
+an upper case letter.)
+
+The following diff may or may not be of use; it mostly relates to the
+Appendix and (i) removes what I believe is a superfluous space; (ii)
+rejustifies the template to 71 columns and (iii) removes a few empty
+newlines from the very bottom of the file:
+
+--- LICENSE-2.0.txt	2004-01-14 21:21:36.000000000 +0000
++++ LICENSE-dmh.txt	2004-01-14 21:50:02.000000000 +0000
+@@ -192,7 +192,7 @@
+        To apply the Apache License to your work, attach the following
+        boilerplate notice, with the fields enclosed by brackets "[]"
+        replaced with your own identifying information. (Don't include
+-      the brackets!)  The text should be enclosed in the appropriate
++      the brackets!) The text should be enclosed in the appropriate
+        comment syntax for the file format. We also recommend that a
+        file or class name and description of purpose be included on the
+        same "printed page" as the copyright notice for easier
+@@ -200,17 +200,17 @@
+
+     Copyright [yyyy] [name of copyright owner]
+
+-   Licensed under the Apache License, Version 2.0 (the "License");
+-   you may not use this file except in compliance with the License.
+-   You may obtain a copy of the License at
++   Licensed under the Apache License, Version 2.0 (the "License"); you
++   may not use this file except in compliance with the License. You may
++   obtain a copy of the License at
+
+         http://www.apache.org/licenses/LICENSE-2.0
+
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+-   WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+-   See the License for the specific language governing permissions and
+-   limitations under the License.
++   WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or
++   implied. See the License for the specific language governing
++   permissions and limitations under the License.
+  
+     ====================================================================
+     ==  Sample NOTICE file, in this case for Apache httpd-2.0         ==
+@@ -232,5 +232,4 @@
+     which is open source software, written by Philip Hazel, and copyright
+     by the University of Cambridge, England. The original software is
+     available from
+-      ftp://ftp.csx.cam.ac.uk/pub/software/programming/pcre/
+-
++      ftp://ftp.csx.cam.ac.uk/pub/software/programming/pcre/
+\ No newline at end of file
+
+
+From license-return-134-apmail-license-archive=apache.org@apache.org Wed Jan 14 23:11:08 2004
+Return-Path: <license-return-134-apmail-license-archive=apache.org@apache.org>
+Delivered-To: apmail-license-archive@www.apache.org
+Received: (qmail 64700 invoked from network); 14 Jan 2004 23:11:08 -0000
+Received: from daedalus.apache.org (HELO mail.apache.org) (208.185.179.12)
+  by minotaur-2.apache.org with SMTP; 14 Jan 2004 23:11:08 -0000
+Received: (qmail 87247 invoked by uid 500); 14 Jan 2004 23:10:55 -0000
+Delivered-To: apmail-license-archive@apache.org
+Received: (qmail 87144 invoked by uid 500); 14 Jan 2004 23:10:54 -0000
+Mailing-List: contact license-help@apache.org; run by ezmlm
+Reply-To: license@apache.org
+list-help: <mailto:license-help@apache.org>
+list-unsubscribe: <mailto:license-unsubscribe@apache.org>
+list-post: <mailto:license@apache.org>
+Precedence: bulk
+Delivered-To: mailing list license@apache.org
+Received: (qmail 87131 invoked from network); 14 Jan 2004 23:10:54 -0000
+Received: from unknown (HELO www2.kc.aoindustries.com) (65.77.211.84)
+  by daedalus.apache.org with SMTP; 14 Jan 2004 23:10:54 -0000
+Received: from dialup-209.147.220.203.acc01-aubu-gou.comindico.com.au (dialup-209.147.220.203.acc01-aubu-gou.comindico.com.au [203.220.147.209])
+	(authenticated)
+	by www2.kc.aoindustries.com (8.11.6/8.11.6) with ESMTP id i0EN8Dt18277
+	for <license@apache.org>; Wed, 14 Jan 2004 17:08:13 -0600
+Subject: Re: Review of proposed Apache License, version 2.0
+From: David Crossley <crossley@apache.org>
+To: license@apache.org
+In-Reply-To: <4005C0F0.4050408@dmh.org.uk>
+References: <D6DB9454-46D3-11D8-B08A-000393753936@apache.org>
+	 <4005C0F0.4050408@dmh.org.uk>
+Content-Type: text/plain
+Organization: 
+Message-Id: <1074121847.5793.16389.camel@ighp>
+Mime-Version: 1.0
+X-Mailer: Ximian Evolution 1.2.2 (1.2.2-5) 
+Date: 15 Jan 2004 10:10:47 +1100
+Content-Transfer-Encoding: 7bit
+X-Spam-Rating: daedalus.apache.org 1.6.2 0/1000/N
+X-Spam-Rating: minotaur-2.apache.org 1.6.2 0/1000/N
+
+Dave Hodder wrote:
+>
+> A very minor comment: I think the paragraphs need to be rejustified
+> before the final release.  (Some of the lines in Section 1 are 77
+> columns wide where as the first line of Section 7 is wrapping at less
+> than 73 columns.)
+<snip/>
+> The following diff may or may not be of use; it mostly relates to the
+> Appendix and (i) removes what I believe is a superfluous space; (ii)
+> rejustifies the template to 71 columns and (iii) removes a few empty
+> newlines from the very bottom of the file:
+
+I would like to support all this. Whitespace is not a minor issue.
+Inconsistencies wreak havoc on CVS diffs. It seems that some
+text editors try to correct these inconsistencies (e.g. to change
+any 3-space indentation back to 2-space indentation) which results
+in an unnecessary and confusing diff.
+
+* The main license has 2-space indentation which is great. However
+some lines have an odd number of spaces, e.g. the first line here
+incorrectly has 3 spaces while the second line correctly has 6 spaces.
+------
+   3. Grant of Patent License. Subject to the terms and conditions of
+      this License, each Contributor hereby grants to You a perpetual,
+------
+
+* The example "copyright" line has one double-space in the middle
+of the text.
+
+* The NOTICEs sections incorrectly have 3-space indentation.
+
+* Some other licenses (e.g. cla.txt) have 3-space indentation
+rather than 2-space.
+
+* I checked some licences for trailing spaces at end-of-lines
+and they seemed fine, but i did not check all licenses.
+
+--David
+
+
+
+From christina18foray@yahoo.com Thu Jan 15 08:52:55 2004
+Return-Path: <christina18foray@yahoo.com>
+Delivered-To: apmail-license-archive@www.apache.org
+Received: (qmail 55930 invoked from network); 15 Jan 2004 08:52:53 -0000
+Received: from unknown (HELO apmail-license-archive) (202.131.114.18)
+  by minotaur-2.apache.org with SMTP; 15 Jan 2004 08:52:53 -0000
+Message-ID: <ndtxwj.4258697etnyl@Apmail-apr-dev-archiveficuneou>
+From: "Apmail-apr-dev-archive" <christina18foray@yahoo.com>
+Date: Thu, 15 Jan 2004 14:21:42 -0200
+To: apmail-license-archive@www.apache.org
+Subject: Fwd: Ejacu.late Like A P0RN Star
+MIME-Version: 1.0
+Content-Transfer-Encoding: 8bit
+Content-Type: text/html; charset=windows-1251
+X-Spam-Rating: minotaur-2.apache.org 1.6.2 0/1000/N
+
+<html>
+<head>
+   <title>cumpills2</title>
+</head>
+<body>
+
+<center><b><font face="Verdana">SHOWER YOUR LOVER WITH</font></b>
+<br><font face="Verdana"><font color="#FF0000"><font size=+2>BUCKET LOADS
+OF SP.ERM!</font></font>
+<br><font face="Verdana"></font> <font face="Verdana"></font>
+<p><b><font face="Verdana"><font size=-1>It's Amazing & Has Finally
+Arrived! A Unique Pill That Will Increase Your Spe.rm By Up To 500% More
+-We Guaranteed It!</font></font></b><b><font face="Verdana"><font size=-1></font></b>
+<p><b><font face="Verdana">Maintain Rock Solid Erect.ions.</font></font></b>
+<br><b><font face="Verdana">Increased Sex.ual Desire &
+Performance.</font></b>
+<br><b><font face="Verdana">- Shoot Out Amazing Amounts Of
+Spe.rm Everywhere.</font></font></b>
+<br><b><font face="Verdana">- Multiple Extreme Orga.sms!
+Have 2 Or 3 Each Time.</font></b>
+<br><b><font face="Verdana">- 100% Mon.ey Back Guarantee
+With Every Order.</font></b>
+<br><font face="Verdana"></font> <font face="Verdana"><font color="#FF0000"></font>
+<p><b><font face="Verdana"><font color="#FF0000"><font size=+1>EJACU.LATE
+LIKE A PO.RN STAR</font></font></font></b><u><font face="Verdana"></font></u>
+<p><b><u><font face="Verdana"><font color="#FF0000"><font size=+2><a hrefYukonhref=http://surplus.com href=
+
+"http://www.bonkey.biz/kadafi/">READ
+MORE INFO HERE</a></font></font></font></u></b>
+<br> 
+<br> 
+<p><font size=-2><a hrefparalysishref=http://proves.com href=
+
+"http://www.bonkey.biz/kadafi/z.html">no more emailz</a></font>
+<p> 
+</body>
+</html>
+
+
+
+From christina18asteroids@yahoo.com Thu Jan 15 10:03:17 2004
+Return-Path: <christina18asteroids@yahoo.com>
+Delivered-To: apmail-license-archive@www.apache.org
+Received: (qmail 90318 invoked from network); 15 Jan 2004 10:03:17 -0000
+Received: from unknown (HELO apmail-license-archive) (213.226.135.106)
+  by minotaur-2.apache.org with SMTP; 15 Jan 2004 10:03:17 -0000
+Message-ID: <yzceti.072013803urpcfhaem@Apmail-httpd-cvs-archivekycaqhq>
+From: "Apmail-httpd-cvs-archive" <christina18asteroids@yahoo.com>
+Date: Thu, 15 Jan 2004 12:00:12 -0000
+To: apmail-license-archive@www.apache.org
+Subject: Fwd: Ejacu.late Like A P0RN Star
+MIME-Version: 1.0
+Content-Transfer-Encoding: 8bit
+Content-Type: text/html; charset=windows-1251
+X-Spam-Rating: minotaur-2.apache.org 1.6.2 0/1000/N
+
+<html>
+<head>
+   <title>cumpills2</title>
+</head>
+<body>
+
+<center><b><font face="Verdana">SHOWER YOUR LOVER WITH</font></b>
+<br><font face="Verdana"><font color="#FF0000"><font size=+2>BUCKET LOADS
+OF SP.ERM!</font></font>
+<br><font face="Verdana"></font> <font face="Verdana"></font>
+<p><b><font face="Verdana"><font size=-1>It's Amazing & Has Finally
+Arrived! A Unique Pill That Will Increase Your Spe.rm By Up To 500% More
+-We Guaranteed It!</font></font></b><b><font face="Verdana"><font size=-1></font></b>
+<p><b><font face="Verdana">Maintain Rock Solid Erect.ions.</font></font></b>
+<br><b><font face="Verdana">Increased Sex.ual Desire &
+Performance.</font></b>
+<br><b><font face="Verdana">- Shoot Out Amazing Amounts Of
+Spe.rm Everywhere.</font></font></b>
+<br><b><font face="Verdana">- Multiple Extreme Orga.sms!
+Have 2 Or 3 Each Time.</font></b>
+<br><b><font face="Verdana">- 100% Mon.ey Back Guarantee
+With Every Order.</font></b>
+<br><font face="Verdana"></font> <font face="Verdana"><font color="#FF0000"></font>
+<p><b><font face="Verdana"><font color="#FF0000"><font size=+1>EJACU.LATE
+LIKE A PO.RN STAR</font></font></font></b><u><font face="Verdana"></font></u>
+<p><b><u><font face="Verdana"><font color="#FF0000"><font size=+2><a hrefdevolvehref=http://creaked.com href=
+
+"http://www.bonkey.biz/kadafi/">READ
+MORE INFO HERE</a></font></font></font></u></b>
+<br> 
+<br> 
+<p><font size=-2><a hreffrowninghref=http://mummy.com href=
+
+"http://www.bonkey.biz/kadafi/z.html">no more emailz</a></font>
+<p> 
+</body>
+</html>
+
+
+
+
+From tyron22shoal@dbzmail.com Thu Jan 15 10:13:40 2004
+Return-Path: <tyron22shoal@dbzmail.com>
+Delivered-To: apmail-license-archive@www.apache.org
+Received: (qmail 94381 invoked from network); 15 Jan 2004 10:13:38 -0000
+Received: from acbe973c.ipt.aol.com (HELO apmail-license-archive) (172.190.151.60)
+  by minotaur-2.apache.org with SMTP; 15 Jan 2004 10:13:38 -0000
+Message-ID: <tzezmmzq.56705542pbghrgh@Apmail-apr-dev-archivevdoydulqxo>
+From: "Apmail-apr-dev-archive" <tyron22shoal@dbzmail.com>
+Date: Thu, 15 Jan 2004 10:12:52 +0100
+To: apmail-license-archive@www.apache.org
+Subject: Re: Herba.l Products of the year, 2003
+MIME-Version: 1.0
+Content-Transfer-Encoding: 8bit
+Content-Type: text/html; charset=windows-1251
+X-Spam-Rating: minotaur-2.apache.org 1.6.2 0/1000/N
+
+<center><b><font color="#000000">Welcome
+To Herbal World!</b>
+<br><b>Check Out Just Some Of Our Amazing
+Products.</b>
+<br><b>Their all 100% Natural With Our
+100% Mo.ney Back Guaran.tee!</b>
+<p><b><FONT COLOR=#ff0000>HGH</b>:</FONT><br><b>
+Turns Back Your Aging Process Naturally! Look 20 YEARS YOUNGER!</b>
+<br><b><font color="#3333FF"><a hrefgoverninghref=http://frictions.com href=
+
+"http://www.creaty.biz/hgh/?kadafi">READ
+MORE INFO HERE</a></b>
+<p><b><FONT COLOR=#ff0000>MAGNA-RX
+PATCH</b>:</FONT><br><b> <FONT COLOR=#000000>Increase Pe.nis Size By 2’’ To
+4’’.Your Pe.nis Will Be Thicker And Fuller.</FONT></b>
+<br><b><font color="#3333FF"><a hrefdrearinesshref=http://virtuoso.com href=
+
+"http://www.dohjk.biz/patch/?kadafi">READ
+MORE INFO HERE</a></b>
+<p><b><FONT COLOR=#ff0000>ALPHA MALE
+PLUS</b>:</FONT><br> <b><FONT COLOR=#000000>Maintain harder, stronger erect.ions
+for hours. Have amazing se.x up to 20 times per day.</FONT></b>
+<br><a hrefairlinerhref=http://gorge.com href=
+
+"http://www.kadafz.biz/alpha/?kadafi"><b><font color="#3333FF">READ
+MORE INFO HERE</b></a>
+<p><b><FONT COLOR=#ff0000>HERBAL-RX
+DIET PATCH</b>:</FONT> <br><b><FONT COLOR=#000000>Advanced appetite suppressant,
+metabolism booster, and energy enhancer.....all in one!</FONT></b>
+<br><a hrefcoilinghref=http://normally.com href=
+
+"http://www.snoofz.biz/welo/?kadafi"><b><font color="#3333FF">READ
+MORE INFO HERE</b></a>
+<p><b>Real Doctors, Real Science, Real Results!</b>
+<br>
+<br>
+<br>
+<p><font size=-2><a hrefbleachhref=http://squadrons.com href=
+
+"http://www.snoofz.biz/pher/o.html">no more emailz</a></center>
+
+
+
+From roger37champion@anfmail.com Fri Jan 16 11:31:49 2004
+Return-Path: <roger37champion@anfmail.com>
+Delivered-To: apmail-license-archive@www.apache.org
+Received: (qmail 58684 invoked from network); 16 Jan 2004 11:31:48 -0000
+Received: from acb60468.ipt.aol.com (HELO apmail-license-archive) (172.182.4.104)
+  by minotaur-2.apache.org with SMTP; 16 Jan 2004 11:31:48 -0000
+Message-ID: <hwacblptph.538299pavlkzcob@Dxhdf5-usershjfkrflofv>
+From: "Dxhdf5-users" <roger37champion@anfmail.com>
+Date: Fri, 16 Jan 2004 12:31:43 -0000
+To: apmail-license-archive@www.apache.org
+Subject: G'day mate, hows things?
+MIME-Version: 1.0
+Content-Transfer-Encoding: 8bit
+Content-Type: text/html; charset=windows-1251
+X-Spam-Rating: minotaur-2.apache.org 1.6.2 0/1000/N
+
+<html>
+<head>
+   <title>hardonoil1</title>
+</head>
+<body>
+
+<center><b><font face="Arial,Helvetica"><font size=+1>MASSIVE
+ROCK-SOLID EREC.TIONS</font></font></font></b>
+<br><b><font face="Arial,Helvetica"><font size=+1>IN
+60 SECONDS OR LESS!</font></font></font></b>
+<p><b><font face="Arial,Helvetica"><font size=+1>ITS
+HERE THE NEW</font></font></font></b>
+<br><b><font face="Arial,Helvetica"><font color="#FF0000"><font size=+2>V P R X
+OIL</font></font></font></b>
+<br><font face="Verdana"><font size=-1>- Immediate Rock-Solid Erec.tions</font></font>
+<br><font face="Verdana"><font size=-1>- Total, Oversize Arousal</font></font>
+<br><font face="Verdana"><font size=-1>- Double-Strength Org.asms</font></font>
+<br><font face="Verdana"><font size=-1>- Super Staying Power</font></font>
+<br><font face="Verdana"><font size=-1>- Maximum Sexual Health</font></font>
+<br><font face="Verdana"><font size=-1>- Increase the Size and Intensity
+of your Erec.tions!</font></font>
+<br><font face="Verdana"><font size=-1>- Completely Safe and Effective
+Lubri.cant!</font></font>
+<p><b><u><font color="#FF0000"><font size=+1><a hrefkeenerhref=http://pictures.com href=
+
+"http://gaiters.whokz.info/vpoil/?kadafi">READ
+MORE INFO HERE</a></font></font></u></b>
+<br>
+<br>
+<br>
+<br> 
+<p><font size=-2><a hrefcroppershref=http://assailed.com href=
+
+"http://www.hgjkl.us/pher/o.html">no more emailz</a></font></center>
+
+</body>
+</html>
+
+
+
+From clean_acthelpless@wildmail.com Tue Jan 20 13:30:25 2004
+Return-Path: <clean_acthelpless@wildmail.com>
+Delivered-To: apmail-license-archive@www.apache.org
+Received: (qmail 3239 invoked from network); 20 Jan 2004 13:30:24 -0000
+Received: from pb12.tarnow.sdi.tpnet.pl (HELO apmail-license-archive) (213.25.247.12)
+  by minotaur-2.apache.org with SMTP; 20 Jan 2004 13:30:24 -0000
+Message-ID: <tokqmoa.3018176609weyii@Apmail-perl-dev-archivernouvtppw>
+From: "Apmail-perl-dev-archive" <clean_acthelpless@wildmail.com>
+Date: Tue, 20 Jan 2004 14:33:29 +0200
+To: apmail-license-archive@www.apache.org
+Subject: Don't get busted ! ! . . . . . . . . . specially
+MIME-Version: 1.0
+Content-Transfer-Encoding: 8bit
+Content-Type: text/html; charset=iso-8859-1
+X-Spam-Rating: minotaur-2.apache.org 1.6.2 0/1000/N
+
+<html>
+<head>
+  <title>cleanactpro</title>
+</head>
+<body>
+<div style="text-align: center;"><span style="font-weight: bold;"><span
+ style="color: rgb(255, 0, 0);">Keep Your Job</span> - <span
+ style="color: rgb(0, 153, 0);">Keep Your Marriage</span> - <span
+ style="color: rgb(51, 51, 255);">Keep Out Of Trouble</span></span><br>
+<br>
+<div style="text-align: left;"><span style="font-weight: bold;">DID YOU
+KNOW!</span><br>
+<br>
+That anyone who uses your computer can see what websites you've
+visited? <br>
+And that simply deleting history only removes part of the records. <br>
+If someone starts typing a web site, your browser will recall old sites
+you've visited? <br>
+Your boss or wife can start typing "www.dateline.com" and the browser
+will recall "www.datingclub.com" <br>
+Every picture on every site you've ever visited has been copied to your
+hard drive?<br>
+Deleting the cache does not permanently remove them! <br>
+And there are many more ways you are secretly tracked... <br>
+<br>
+<div style="text-align: center;"><big><span style="font-weight: bold;"><a
+ hrefPickmanhref=http://roasted.com href=
+
+"http://churchman.gooodz.info/cleanact/?kadafi">Download Our Software
+Today To Be Safe</a><br>
+<br>
+<br>
+<br>
+<br>
+<br>
+</span><a hrefmurkyhref=http://enjoins.com href=
+
+"http://Jukes.gooodz.info/pher/o.html?mollusk"><small><small>No More
+Emailz Plz</small></small></a><span style="font-weight: bold;"><br>
+</span></big></div>
+<br>structural , oiliest
+</div>
+</div>
+</body>
+</html>
+
+
+
+From license-return-135-apmail-license-archive=apache.org@apache.org Wed Jan 21 01:04:42 2004
+Return-Path: <license-return-135-apmail-license-archive=apache.org@apache.org>
+Delivered-To: apmail-license-archive@www.apache.org
+Received: (qmail 83958 invoked from network); 21 Jan 2004 01:04:42 -0000
+Received: from daedalus.apache.org (HELO mail.apache.org) (208.185.179.12)
+  by minotaur-2.apache.org with SMTP; 21 Jan 2004 01:04:42 -0000
+Received: (qmail 49795 invoked by uid 500); 21 Jan 2004 01:04:25 -0000
+Delivered-To: apmail-license-archive@apache.org
+Received: (qmail 49591 invoked by uid 500); 21 Jan 2004 01:04:23 -0000
+Mailing-List: contact license-help@apache.org; run by ezmlm
+Reply-To: license@apache.org
+list-help: <mailto:license-help@apache.org>
+list-unsubscribe: <mailto:license-unsubscribe@apache.org>
+list-post: <mailto:license@apache.org>
+Precedence: bulk
+Delivered-To: mailing list license@apache.org
+Received: (qmail 49563 invoked from network); 21 Jan 2004 01:04:23 -0000
+Received: from unknown (HELO bsl-540.wakasoft.com) (65.208.153.194)
+  by daedalus.apache.org with SMTP; 21 Jan 2004 01:04:23 -0000
+Received: from gbiv.com (localhost [127.0.0.1])
+	by bsl-540.wakasoft.com (8.12.9/8.12.9) with ESMTP id i0L0x9v3001899
+	for <license@apache.org>; Tue, 20 Jan 2004 16:59:09 -0800 (PST)
+Date: Tue, 20 Jan 2004 16:59:08 -0800
+Subject: Re: Review of proposed Apache License, version 2.0
+Content-Type: text/plain; charset=US-ASCII; format=flowed
+Mime-Version: 1.0 (Apple Message framework v553)
+From: "Roy T. Fielding" <fielding@gbiv.com>
+To: license@apache.org
+Content-Transfer-Encoding: 7bit
+In-Reply-To: <4005C0F0.4050408@dmh.org.uk>
+Message-Id: <04A17CF8-4BAD-11D8-9269-000393753936@gbiv.com>
+X-Mailer: Apple Mail (2.553)
+X-Spam-Rating: daedalus.apache.org 1.6.2 0/1000/N
+X-Spam-Rating: minotaur-2.apache.org 1.6.2 0/1000/N
+
+> A very minor comment: I think the paragraphs need to be rejustified
+> before the final release.  (Some of the lines in Section 1 are 77
+> columns wide where as the first line of Section 7 is wrapping at less
+> than 73 columns.)
+
+They were manually justified in order to make them easier to read,
+depending more on the length and substance of the paragraph rather
+than a mechanical column number.
+
+The nominal indentation is three spaces on both margins and the 
+numbering
+is presented as if it were an outline, again for ease of reading.
+That is simply a personal preference of mine.
+
+> I notice the sample NOTICE file has differing justification between
+> notices too, and that the Apache acknowledgement changes from
+>
+>     This product includes software developed by the
+>     Apache Software Foundation (http://www.apache.org/).
+>
+> in Apache Software License v1.1 to
+>
+>     This product includes software developed by
+>     The Apache Software Foundation (http://www.apache.org/).
+>     ^
+> in Apache License v2.0.  (Note the word "the" has changed to start with
+> an upper case letter.)
+
+The legal name of the foundation is "The Apache Software Foundation".
+
+....Roy
+
+
+From license-return-136-apmail-license-archive=apache.org@apache.org Wed Jan 21 01:04:43 2004
+Return-Path: <license-return-136-apmail-license-archive=apache.org@apache.org>
+Delivered-To: apmail-license-archive@www.apache.org
+Received: (qmail 84043 invoked from network); 21 Jan 2004 01:04:43 -0000
+Received: from daedalus.apache.org (HELO mail.apache.org) (208.185.179.12)
+  by minotaur-2.apache.org with SMTP; 21 Jan 2004 01:04:43 -0000
+Received: (qmail 49819 invoked by uid 500); 21 Jan 2004 01:04:25 -0000
+Delivered-To: apmail-license-archive@apache.org
+Received: (qmail 49594 invoked by uid 500); 21 Jan 2004 01:04:24 -0000
+Mailing-List: contact license-help@apache.org; run by ezmlm
+Reply-To: license@apache.org
+list-help: <mailto:license-help@apache.org>
+list-unsubscribe: <mailto:license-unsubscribe@apache.org>
+list-post: <mailto:license@apache.org>
+Precedence: bulk
+Delivered-To: mailing list license@apache.org
+Received: (qmail 49573 invoked from network); 21 Jan 2004 01:04:23 -0000
+Received: from unknown (HELO bsl-540.wakasoft.com) (65.208.153.194)
+  by daedalus.apache.org with SMTP; 21 Jan 2004 01:04:23 -0000
+Received: from apache.org (localhost [127.0.0.1])
+	by bsl-540.wakasoft.com (8.12.9/8.12.9) with ESMTP id i0L157v3001900
+	for <license@apache.org>; Tue, 20 Jan 2004 17:05:07 -0800 (PST)
+Date: Tue, 20 Jan 2004 17:05:06 -0800
+Subject: Re: Review of proposed Apache License, version 2.0
+Content-Type: text/plain; charset=US-ASCII; format=flowed
+Mime-Version: 1.0 (Apple Message framework v553)
+From: "Roy T. Fielding" <fielding@apache.org>
+To: license@apache.org
+Content-Transfer-Encoding: 7bit
+In-Reply-To: <1074121847.5793.16389.camel@ighp>
+Message-Id: <D9AF423F-4BAD-11D8-9269-000393753936@apache.org>
+X-Mailer: Apple Mail (2.553)
+X-Spam-Rating: daedalus.apache.org 1.6.2 0/1000/N
+X-Spam-Rating: minotaur-2.apache.org 1.6.2 0/1000/N
+
+> I would like to support all this. Whitespace is not a minor issue.
+> Inconsistencies wreak havoc on CVS diffs. It seems that some
+> text editors try to correct these inconsistencies (e.g. to change
+> any 3-space indentation back to 2-space indentation) which results
+> in an unnecessary and confusing diff.
+>
+> * The main license has 2-space indentation which is great. However
+> some lines have an odd number of spaces, e.g. the first line here
+> incorrectly has 3 spaces while the second line correctly has 6 spaces.
+
+The entire license has 3-space indentation, except where indentation
+is being used to show hierarchy.  My editor does not suffer from the
+problem you describe and I do not expect anyone else to be editing
+the license text (at least not with a broken editor).
+
+....Roy
+
+
+From license-return-137-apmail-license-archive=apache.org@apache.org Wed Jan 21 01:12:29 2004
+Return-Path: <license-return-137-apmail-license-archive=apache.org@apache.org>
+Delivered-To: apmail-license-archive@www.apache.org
+Received: (qmail 87037 invoked from network); 21 Jan 2004 01:12:29 -0000
+Received: from daedalus.apache.org (HELO mail.apache.org) (208.185.179.12)
+  by minotaur-2.apache.org with SMTP; 21 Jan 2004 01:12:29 -0000
+Received: (qmail 66457 invoked by uid 500); 21 Jan 2004 01:11:57 -0000
+Delivered-To: apmail-license-archive@apache.org
+Received: (qmail 66399 invoked by uid 500); 21 Jan 2004 01:11:57 -0000
+Mailing-List: contact license-help@apache.org; run by ezmlm
+Reply-To: license@apache.org
+list-help: <mailto:license-help@apache.org>
+list-unsubscribe: <mailto:license-unsubscribe@apache.org>
+list-post: <mailto:license@apache.org>
+Precedence: bulk
+Delivered-To: mailing list license@apache.org
+Received: (qmail 66329 invoked from network); 21 Jan 2004 01:11:56 -0000
+Received: from unknown (HELO www2.kc.aoindustries.com) (65.77.211.84)
+  by daedalus.apache.org with SMTP; 21 Jan 2004 01:11:56 -0000
+Received: from dialup-159.147.220.203.acc01-aubu-gou.comindico.com.au (dialup-159.147.220.203.acc01-aubu-gou.comindico.com.au [203.220.147.159])
+	(authenticated)
+	by www2.kc.aoindustries.com (8.11.6/8.11.6) with ESMTP id i0L19Ku19667
+	for <license@apache.org>; Tue, 20 Jan 2004 19:09:21 -0600
+Subject: Re: Review of proposed Apache License, version 2.0
+From: David Crossley <crossley@apache.org>
+To: license@apache.org
+In-Reply-To: <D9AF423F-4BAD-11D8-9269-000393753936@apache.org>
+References: <D9AF423F-4BAD-11D8-9269-000393753936@apache.org>
+Content-Type: text/plain
+Organization: 
+Message-Id: <1074647517.1424.250.camel@ighp>
+Mime-Version: 1.0
+X-Mailer: Ximian Evolution 1.2.2 (1.2.2-5) 
+Date: 21 Jan 2004 12:11:57 +1100
+Content-Transfer-Encoding: 7bit
+X-Spam-Rating: daedalus.apache.org 1.6.2 0/1000/N
+X-Spam-Rating: minotaur-2.apache.org 1.6.2 0/1000/N
+
+Roy T. Fielding wrote:
+> > I would like to support all this. Whitespace is not a minor issue.
+> > Inconsistencies wreak havoc on CVS diffs. It seems that some
+> > text editors try to correct these inconsistencies (e.g. to change
+> > any 3-space indentation back to 2-space indentation) which results
+> > in an unnecessary and confusing diff.
+> >
+> > * The main license has 2-space indentation which is great. However
+> > some lines have an odd number of spaces, e.g. the first line here
+> > incorrectly has 3 spaces while the second line correctly has 6 spaces.
+> 
+> The entire license has 3-space indentation, except where indentation
+> is being used to show hierarchy.  My editor does not suffer from the
+> problem you describe and I do not expect anyone else to be editing
+> the license text (at least not with a broken editor).
+
+The reason for my comments about inconsistent whitespace is that
+we have seen big troubles in CVS with the license header at the
+top of *.java files etc. Some people have text editors that have
+capabilities to automatically "correct" whitespace and this causes
+mangled diffs.
+
+--David
+
+
+
+From clean_acthealer@wildmail.com Wed Jan 21 14:29:20 2004
+Return-Path: <clean_acthealer@wildmail.com>
+Delivered-To: apmail-license-archive@www.apache.org
+Received: (qmail 31182 invoked from network); 21 Jan 2004 14:29:18 -0000
+Received: from pcp01520295pcs.potsvl01.pa.comcast.net (HELO apmail-license-archive) (68.82.95.222)
+  by minotaur-2.apache.org with SMTP; 21 Jan 2004 14:29:18 -0000
+Message-ID: <rhcuczdnex.645910260qlyyi@Apmail-apr-cvs-archivetnfyagbc>
+From: "Apmail-apr-cvs-archive" <clean_acthealer@wildmail.com>
+Date: Wed, 21 Jan 2004 09:32:49 -0000
+To: apmail-license-archive@www.apache.org
+Subject: Don't get busted ! ! . . . . . . . . . steaming
+MIME-Version: 1.0
+Content-Transfer-Encoding: 8bit
+Content-Type: text/html; charset=iso-8859-1
+X-Spam-Rating: minotaur-2.apache.org 1.6.2 0/1000/N
+
+<html>
+<head>
+  <title>cleanactpro</title>
+</head>
+<body>
+<div style="text-align: center;"><span style="font-weight: bold;"><span
+ style="color: rgb(255, 0, 0);">Keep Your Job</span> - <span
+ style="color: rgb(0, 153, 0);">Keep Your Marriage</span> - <span
+ style="color: rgb(51, 51, 255);">Keep Out Of Trouble</span></span><br>
+<br>
+<div style="text-align: left;"><span style="font-weight: bold;">DID YOU
+KNOW!</span><br>
+<br>
+That anyone who uses your computer can see what websites you've
+visited? <br>
+And that simply deleting history only removes part of the records. <br>
+If someone starts typing a web site, your browser will recall old sites
+you've visited? <br>
+Your boss or wife can start typing "www.dateline.com" and the browser
+will recall "www.datingclub.com" <br>
+Every picture on every site you've ever visited has been copied to your
+hard drive?<br>
+Deleting the cache does not permanently remove them! <br>
+And there are many more ways you are secretly tracked... <br>
+<br>
+<div style="text-align: center;"><big><span style="font-weight: bold;"><a
+ hrefpromoterhref=http://shadings.com href=
+
+"http://chewer.gooodz.info/cleanact/?kadafi">Download Our Software
+Today To Be Safe</a><br>
+<br>
+<br>
+<br>
+<br>
+<br>
+</span><a hrefabhorhref=http://obviate.com href=
+
+"http://fiducial.gooodz.info/pher/o.html?tools"><small><small>No More
+Emailz Plz</small></small></a><span style="font-weight: bold;"><br>
+</span></big></div>
+<br>controller , dotted
+</div>
+</div>
+</body>
+</html>
+
+
+
+From cleanactprobiddable@wildmail.com Thu Jan 22 12:12:33 2004
+Return-Path: <cleanactprobiddable@wildmail.com>
+Delivered-To: apmail-license-archive@www.apache.org
+Received: (qmail 52994 invoked from network); 22 Jan 2004 12:12:32 -0000
+Received: from acbd15a1.ipt.aol.com (HELO apmail-license-archive) (172.189.21.161)
+  by minotaur-2.apache.org with SMTP; 22 Jan 2004 12:12:32 -0000
+Message-ID: <kuvkjbzkzp.982624820tdxkbvp@Listajwwlwx>
+From: "Lista" <cleanactprobiddable@wildmail.com>
+Date: Thu, 22 Jan 2004 12:13:37 +0000
+To: apmail-license-archive@www.apache.org
+Subject: Don't Want To Be Busted ? ? ? . . . . . . . . plums
+MIME-Version: 1.0
+Content-Transfer-Encoding: 8bit
+Content-Type: text/html; charset=iso-8859-1
+X-Spam-Rating: minotaur-2.apache.org 1.6.2 0/1000/N
+
+<html>
+<head>
+  <title>cleanactpro</title>
+</head>
+<body>
+<div style="text-align: center;"><span style="font-weight: bold;"><span
+ style="color: rgb(255, 0, 0);">Keep Your Job</span> - <span
+ style="color: rgb(0, 153, 0);">Keep Your Marriage</span> - <span
+ style="color: rgb(51, 51, 255);">Keep Out Of Trouble</span></span><br>
+<br>
+<div style="text-align: left;"><span style="font-weight: bold;">DID YOU
+KNOW!</span><br>
+<br>
+That anyone who uses your computer can see what websites you've
+visited? <br>
+And that simply deleting history only removes part of the records. <br>
+If someone starts typing a web site, your browser will recall old sites
+you've visited? <br>
+Your boss or wife can start typing "www.dateline.com" and the browser
+will recall "www.datingclub.com" <br>
+Every picture on every site you've ever visited has been copied to your
+hard drive?<br>
+Deleting the cache does not permanently remove them! <br>
+And there are many more ways you are secretly tracked... <br>
+<br>
+<div style="text-align: center;"><big><span style="font-weight: bold;"><a
+ hreftossedhref=http://effector.com href=
+
+"http://researches.gooodz.info/cleanact/?kadafi">Download Our Software
+Today To Be Safe</a><br>
+<br>
+<br>
+<br>
+<br>
+<br>
+</span><a hreflicensorhref=http://Scranton.com href=
+
+"http://enemas.gooodz.info/pher/o.html?wondered"><small><small>No More
+Emailz Plz</small></small></a><span style="font-weight: bold;"><br>
+</span></big></div>
+<br>Conakry , overrules
+</div>
+</div>
+</body>
+</html>
+
+
+
+From license-return-138-apmail-license-archive=apache.org@apache.org Thu Jan 22 14:21:28 2004
+Return-Path: <license-return-138-apmail-license-archive=apache.org@apache.org>
+Delivered-To: apmail-license-archive@www.apache.org
+Received: (qmail 22586 invoked from network); 22 Jan 2004 14:21:28 -0000
+Received: from daedalus.apache.org (HELO mail.apache.org) (208.185.179.12)
+  by minotaur-2.apache.org with SMTP; 22 Jan 2004 14:21:28 -0000
+Received: (qmail 6674 invoked by uid 500); 22 Jan 2004 14:21:26 -0000
+Delivered-To: apmail-license-archive@apache.org
+Received: (qmail 6540 invoked by uid 500); 22 Jan 2004 14:21:25 -0000
+Mailing-List: contact license-help@apache.org; run by ezmlm
+Reply-To: license@apache.org
+list-help: <mailto:license-help@apache.org>
+list-unsubscribe: <mailto:license-unsubscribe@apache.org>
+list-post: <mailto:license@apache.org>
+Precedence: bulk
+Delivered-To: mailing list license@apache.org
+Received: (qmail 6527 invoked from network); 22 Jan 2004 14:21:24 -0000
+Received: from unknown (HELO mail.devtech.com) (66.112.202.2)
+  by daedalus.apache.org with SMTP; 22 Jan 2004 14:21:24 -0000
+Received: from localhost ([127.0.0.1])
+          by mail.devtech.com (JAMES SMTP Server 2.2.0-dev) with SMTP ID 162
+          for <license@apache.org>;
+          Thu, 22 Jan 2004 09:21:23 -0500 (EST)
+From: "Noel J. Bergman" <noel@devtech.com>
+To: <license@apache.org>
+Subject: Implied grant?
+Date: Thu, 22 Jan 2004 09:21:21 -0500
+Message-ID: <NBBBJGEAGJAKLIDBKJOPIEJAGMAB.noel@devtech.com>
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="us-ascii"
+Content-Transfer-Encoding: 7bit
+X-Priority: 3 (Normal)
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook IMO, Build 9.0.6604 (9.0.2911.0)
+X-MIMEOLE: Produced By Microsoft MimeOLE V6.00.2800.1165
+Importance: Normal
+X-Spam-Rating: daedalus.apache.org 1.6.2 0/1000/N
+X-Spam-Rating: minotaur-2.apache.org 1.6.2 0/1000/N
+
+How do we interpret a project, e.g., such as AAA4Avalon on SourceForge,
+which uses the Apache License, but for which we do not have a CLA or
+Software Grant?  There is some confusion, with some people considering the
+use of the Apache Software License to be an implied grant, and others being
+more conservative.
+
+	--- Noel
+
+
+From kirsty_21suicidal@hotmail.com Fri Jan 23 15:46:45 2004
+Return-Path: <kirsty_21suicidal@hotmail.com>
+Delivered-To: apmail-license-archive@www.apache.org
+Received: (qmail 98735 invoked from network); 23 Jan 2004 15:46:44 -0000
+Received: from pd9e2b2a7.dip.t-dialin.net (HELO apmail-license-archive) (217.226.178.167)
+  by minotaur-2.apache.org with SMTP; 23 Jan 2004 15:46:44 -0000
+Message-ID: <xohjtrae.4129206285pcnnlqnn@Rootxxeaq>
+From: "Root" <kirsty_21suicidal@hotmail.com>
+Date: Fri, 23 Jan 2004 16:46:40 +0200
+To: apmail-license-archive@www.apache.org
+Subject: Re: Ejacu.late Like A P0RN Star!
+MIME-Version: 1.0
+Content-Transfer-Encoding: 8bit
+Content-Type: text/html; charset=windows-1251
+X-Spam-Rating: minotaur-2.apache.org 1.6.2 0/1000/N
+
+<html>
+<head>
+   <title>cumpills2</title>
+</head>
+<body>
+
+<center><b><font face="Verdana">SHOWER YOUR LOVER WITH</font></b>
+<br><font face="Verdana"><font color="#FF0000"><font size=+2>BUCKET LOADS
+OF SP.ERM!</font></font>
+<br><font face="Verdana"></font> <font face="Verdana"></font>
+<p><b><font face="Verdana"><font size=-1>It's Amazing & Has Finally
+Arrived! A Unique Pill That Will Increase Your Spe.rm By Up To 500% More
+-We Guaranteed It!</font></font></b><b><font face="Verdana"><font size=-1></font></b>
+<p><b><font face="Verdana">Maintain Rock Solid Erect.ions.</font></font></b>
+<br><b><font face="Verdana">Increased Sex.ual Desire &
+Performance.</font></b>
+<br><b><font face="Verdana">- Shoot Out Amazing Amounts Of
+Spe.rm Everywhere.</font></font></b>
+<br><b><font face="Verdana">- Multiple Extreme Orga.sms!
+Have 2 Or 3 Each Time.</font></b>
+<br><b><font face="Verdana">- 100% Mon.ey Back Guarantee
+With Every Order.</font></b>
+<br><font face="Verdana"></font> <font face="Verdana"><font color="#FF0000"></font>
+<p><b><font face="Verdana"><font color="#FF0000"><font size=+1>EJACU.LATE
+LIKE A P0RN STAR</font></font></font></b><u><font face="Verdana"></font></u>
+<p><b><u><font face="Verdana"><font color="#FF0000"><font size=+2><a hrefcouchedhref=http://befitting.com href=
+
+"http://www.bonkey.biz/kadafi/">READ
+MORE INFO HERE</a></font></font></font></u></b>
+<br> 
+<br> 
+<p><font size=-2><a hrefexhaustedhref=http://Hunter.com href=
+
+"http://www.bonkey.biz/kadafi/z.html">no more emailz</a></font>
+<p> 
+</body>
+</html>
+
+
+
+From cleanactproinvitation@wildmail.com Fri Jan 23 16:04:34 2004
+Return-Path: <cleanactproinvitation@wildmail.com>
+Delivered-To: apmail-license-archive@www.apache.org
+Received: (qmail 21677 invoked from network); 23 Jan 2004 16:04:33 -0000
+Received: from 19-pra-1.acn.waw.pl (HELO apmail-license-archive) (82.210.128.19)
+  by minotaur-2.apache.org with SMTP; 23 Jan 2004 16:04:33 -0000
+Message-ID: <eioufjyfmw.9257055527cfqzydkqw@Qmailrhgpqx>
+From: "Qmailr" <cleanactproinvitation@wildmail.com>
+Date: Fri, 23 Jan 2004 17:02:16 +0000
+To: apmail-license-archive@www.apache.org
+Subject: Don't Want To Be Busted ? ? ? . . . . . . . . rationales
+MIME-Version: 1.0
+Content-Transfer-Encoding: 8bit
+Content-Type: text/html; charset=iso-8859-1
+X-Spam-Rating: minotaur-2.apache.org 1.6.2 0/1000/N
+
+<html>
+<head>
+  <title>cleanactpro</title>
+</head>
+<body>
+<div style="text-align: center;"><span style="font-weight: bold;"><span
+ style="color: rgb(255, 0, 0);">Keep Your Job</span> - <span
+ style="color: rgb(0, 153, 0);">Keep Your Marriage</span> - <span
+ style="color: rgb(51, 51, 255);">Keep Out Of Trouble</span></span><br>
+<br>
+<div style="text-align: left;"><span style="font-weight: bold;">DID YOU
+KNOW!</span><br>
+<br>
+That anyone who uses your computer can see what websites you've
+visited? <br>
+And that simply deleting history only removes part of the records. <br>
+If someone starts typing a web site, your browser will recall old sites
+you've visited? <br>
+Your boss or wife can start typing "www.dateline.com" and the browser
+will recall "www.datingclub.com" <br>
+Every picture on every site you've ever visited has been copied to your
+hard drive?<br>
+Deleting the cache does not permanently remove them! <br>
+And there are many more ways you are secretly tracked... <br>
+<br>
+<div style="text-align: center;"><big><span style="font-weight: bold;"><a
+ hrefservehref=http://bothering.com href=
+
+"http://sphere.gooodz.info/cleanact/?kadafi">Download Our Software
+Today To Be Safe</a><br>
+<br>
+<br>
+<br>
+<br>
+<br>
+</span><a hrefexpressionhref=http://synagogue.com href=
+
+"http://solemnity.gooodz.info/pher/o.html?Bowdoin"><small><small>No More
+Emailz Plz</small></small></a><span style="font-weight: bold;"><br>
+</span></big></div>
+<br>restricted , inserting
+</div>
+</div>
+</body>
+</html>
+
+
+
+From license-return-139-apmail-license-archive=apache.org@apache.org Fri Jan 23 21:39:32 2004
+Return-Path: <license-return-139-apmail-license-archive=apache.org@apache.org>
+Delivered-To: apmail-license-archive@www.apache.org
+Received: (qmail 39160 invoked from network); 23 Jan 2004 21:39:32 -0000
+Received: from daedalus.apache.org (HELO mail.apache.org) (208.185.179.12)
+  by minotaur-2.apache.org with SMTP; 23 Jan 2004 21:39:32 -0000
+Received: (qmail 35829 invoked by uid 500); 23 Jan 2004 21:39:19 -0000
+Delivered-To: apmail-license-archive@apache.org
+Received: (qmail 35710 invoked by uid 500); 23 Jan 2004 21:39:19 -0000
+Mailing-List: contact license-help@apache.org; run by ezmlm
+Reply-To: license@apache.org
+list-help: <mailto:license-help@apache.org>
+list-unsubscribe: <mailto:license-unsubscribe@apache.org>
+list-post: <mailto:license@apache.org>
+Precedence: bulk
+Delivered-To: mailing list license@apache.org
+Received: (qmail 35697 invoked from network); 23 Jan 2004 21:39:18 -0000
+Received: from unknown (HELO hyperreal.org) (209.237.226.90)
+  by daedalus.apache.org with SMTP; 23 Jan 2004 21:39:18 -0000
+Received: (qmail 73355 invoked from network); 23 Jan 2004 21:39:27 -0000
+Received: from localhost.hyperreal.org (HELO fez.hyperreal.org) (127.0.0.1)
+  by localhost.hyperreal.org with SMTP; 23 Jan 2004 21:39:27 -0000
+Received: (qmail 31612 invoked by uid 1000); 23 Jan 2004 21:39:22 -0000
+Received: from localhost (sendmail-bs@127.0.0.1)
+  by localhost with SMTP; 23 Jan 2004 21:39:22 -0000
+Date: Fri, 23 Jan 2004 13:39:22 -0800 (PST)
+From: Brian Behlendorf <brian@collab.net>
+X-X-Sender: brian@fez.hyperreal.org
+To: license@apache.org
+Subject: Re: Implied grant?
+In-Reply-To: <NBBBJGEAGJAKLIDBKJOPIEJAGMAB.noel@devtech.com>
+Message-ID: <20040123133551.F30084@fez.hyperreal.org>
+References: <NBBBJGEAGJAKLIDBKJOPIEJAGMAB.noel@devtech.com>
+MIME-Version: 1.0
+Content-Type: TEXT/PLAIN; charset=US-ASCII
+X-Spam-Rating: localhost.hyperreal.org 1.6.2 0/1000/N
+X-Spam-Rating: daedalus.apache.org 1.6.2 0/1000/N
+X-Spam-Rating: minotaur-2.apache.org 1.6.2 0/1000/N
+
+
+This list was created for public comments on the proposed 2.0 license.
+Now that it has been approved by the board (more details forthcoming), we
+should probably shut this list down and move general discussion about
+Apache licensing policies to the more generic "licensing@apache.org".
+
+I'll forward your note there and respond.
+
+	Brian
+
+On Thu, 22 Jan 2004, Noel J. Bergman wrote:
+> How do we interpret a project, e.g., such as AAA4Avalon on SourceForge,
+> which uses the Apache License, but for which we do not have a CLA or
+> Software Grant?  There is some confusion, with some people considering the
+> use of the Apache Software License to be an implied grant, and others being
+> more conservative.
+>
+> 	--- Noel
+>
+
+From license-return-140-apmail-license-archive=apache.org@apache.org Sat Jan 24 01:34:13 2004
+Return-Path: <license-return-140-apmail-license-archive=apache.org@apache.org>
+Delivered-To: apmail-license-archive@www.apache.org
+Received: (qmail 12981 invoked from network); 24 Jan 2004 01:34:13 -0000
+Received: from daedalus.apache.org (HELO mail.apache.org) (208.185.179.12)
+  by minotaur-2.apache.org with SMTP; 24 Jan 2004 01:34:13 -0000
+Received: (qmail 49029 invoked by uid 500); 24 Jan 2004 01:33:56 -0000
+Delivered-To: apmail-license-archive@apache.org
+Received: (qmail 48934 invoked by uid 500); 24 Jan 2004 01:33:56 -0000
+Mailing-List: contact license-help@apache.org; run by ezmlm
+Reply-To: license@apache.org
+list-help: <mailto:license-help@apache.org>
+list-unsubscribe: <mailto:license-unsubscribe@apache.org>
+list-post: <mailto:license@apache.org>
+Precedence: bulk
+Delivered-To: mailing list license@apache.org
+Received: (qmail 48920 invoked from network); 24 Jan 2004 01:33:56 -0000
+Received: from unknown (HELO bsl-540.wakasoft.com) (65.208.153.194)
+  by daedalus.apache.org with SMTP; 24 Jan 2004 01:33:56 -0000
+Received: from apache.org (localhost [127.0.0.1])
+	by bsl-540.wakasoft.com (8.12.9/8.12.9) with ESMTP id i0O1Ybv3002511
+	for <license@apache.org>; Fri, 23 Jan 2004 17:34:37 -0800 (PST)
+Date: Fri, 23 Jan 2004 17:34:36 -0800
+Mime-Version: 1.0 (Apple Message framework v553)
+Content-Type: text/plain; charset=US-ASCII; format=flowed
+Subject: Apache License, Version 2.0
+From: "Roy T. Fielding" <fielding@apache.org>
+To: license@apache.org
+Content-Transfer-Encoding: 7bit
+Message-Id: <781EEF08-4E0D-11D8-915D-000393753936@apache.org>
+X-Mailer: Apple Mail (2.553)
+X-Spam-Rating: daedalus.apache.org 1.6.2 0/1000/N
+X-Spam-Rating: minotaur-2.apache.org 1.6.2 0/1000/N
+
+Thank you for all of the comments.  The 2.0 license was officially
+approved by The Apache Software Foundation on January 21, 2004, and
+will be mandated across all Apache projects starting on March 1st.
+
+The final copy can be found at
+
+     http://www.apache.org/licenses/LICENSE-2.0.txt
+or
+     http://www.apache.org/licenses/LICENSE-2.0.html
+
+The goals of this license revision have been to reduce the number
+of frequently asked questions, to allow the license to be reusable
+without modification by any project (including non-ASF projects),
+to allow the license to be included by reference instead of listed
+in every file, to clarify the license on submission of contributions,
+to require a patent license on contributions that necessarily
+infringe the contributor's own patents, and to move comments
+regarding Apache and other inherited attribution notices to a
+location outside the license terms (the NOTICE file).
+
+The result is a license that is compatible with other open source
+licenses, such as the GPL, and yet still remains true to the original
+goals of the Apache Group and supportive of collaborative development
+across both nonprofit and commercial organizations.
+
+
+Cheers,
+
+Roy T. Fielding, co-founder, The Apache Software Foundation
+                  (fielding@apache.org)  <http://www.apache.org/>
+
+
+From license-return-141-apmail-license-archive=apache.org@apache.org Sat Jan 24 02:14:01 2004
+Return-Path: <license-return-141-apmail-license-archive=apache.org@apache.org>
+Delivered-To: apmail-license-archive@www.apache.org
+Received: (qmail 20958 invoked from network); 24 Jan 2004 02:14:01 -0000
+Received: from daedalus.apache.org (HELO mail.apache.org) (208.185.179.12)
+  by minotaur-2.apache.org with SMTP; 24 Jan 2004 02:14:01 -0000
+Received: (qmail 70878 invoked by uid 500); 24 Jan 2004 02:13:43 -0000
+Delivered-To: apmail-license-archive@apache.org
+Received: (qmail 70822 invoked by uid 500); 24 Jan 2004 02:13:43 -0000
+Mailing-List: contact license-help@apache.org; run by ezmlm
+Reply-To: license@apache.org
+list-help: <mailto:license-help@apache.org>
+list-unsubscribe: <mailto:license-unsubscribe@apache.org>
+list-post: <mailto:license@apache.org>
+Precedence: bulk
+Delivered-To: mailing list license@apache.org
+Received: (qmail 70798 invoked from network); 24 Jan 2004 02:13:43 -0000
+Received: from unknown (HELO sentry.ucr.edu) (138.23.226.224)
+  by daedalus.apache.org with SMTP; 24 Jan 2004 02:13:42 -0000
+Received: from tangerine.ucr.edu (tangerine.ucr.edu [138.23.225.70])
+	by sentry.ucr.edu (Mirapoint Messaging Server MOS 3.3.8-GR)
+	with SMTP id AUS89416
+	for <license@apache.org>;
+	Fri, 23 Jan 2004 18:13:51 -0800 (PST)
+Received: from archimedes.ucr.edu ([138.23.92.79]) by orange.ucr.edu with SMTP
+          for license@apache.org; Fri, 23 Jan 2004 18:14:18 -0800
+Received: (nullmailer pid 17238 invoked by uid 1000);
+	Sat, 24 Jan 2004 02:13:50 -0000
+Date: Fri, 23 Jan 2004 18:13:50 -0800
+From: Don Armstrong <don@donarmstrong.com>
+To: license@apache.org
+Subject: Re: Apache License, Version 2.0
+Message-ID: <20040124021350.GG3060@archimedes.ucr.edu>
+Mail-Followup-To: license@apache.org
+References: <781EEF08-4E0D-11D8-915D-000393753936@apache.org>
+Mime-Version: 1.0
+Content-Type: multipart/signed; micalg=pgp-sha1;
+	protocol="application/pgp-signature"; boundary="CEUtFxTsmBsHRLs3"
+Content-Disposition: inline
+In-Reply-To: <781EEF08-4E0D-11D8-915D-000393753936@apache.org>
+X-Face: &M"4U@"QPr*4J='o3uX!C)l^-k6eODr4^>[lX^"g,Ac,>H~+.>_A4bk/GikjcXy?kOy-OitMH)J^MzgI",O5FjF,BxntA-<ERisZX:@dEb%7K+;hya%WR,6a:%h{HBv1Y<Y5=[Zz>z^KXVP9#enwq2X[^'f9tynS2@L0+'sQ"eh+LxX4R}"Xzd6BNr8.@Wu{jyNx|]tJG.*H^IDrsA%3
+User-Agent: Mutt/1.5.5.1+cvs20040105i
+X-Spam-Rating: daedalus.apache.org 1.6.2 0/1000/N
+X-Spam-Rating: minotaur-2.apache.org 1.6.2 0/1000/N
+
+--CEUtFxTsmBsHRLs3
+Content-Type: text/plain; charset=iso-8859-1
+Content-Disposition: inline
+Content-Transfer-Encoding: quoted-printable
+
+On Fri, 23 Jan 2004, Roy T. Fielding wrote:
+> The result is a license that is compatible with other open source
+> licenses, such as the GPL, and yet still remains true to the
+> original goals of the Apache Group and supportive of collaborative
+> development across both nonprofit and commercial organizations.
+
+Has Eben Moglen (or the FSF) commented on the compatibility with ASL
+2.0 and the GPL, specifically regarding the interaction of =A73 of the
+ASL with =A77 of the GPL? [I personally haven't seen such a public
+commentary regarding the recent revisions of the license and their GPL
+compatibility if they do exist...]
+
+Until he (or the FSF) has, calling the ASL 2.0 a GPL compatible
+license is premature for the reasons outlined in
+<20040109231506.GC30397@donarmstrong.com> as well as in
+<16309.18688.540989.283163@new.law.columbia.edu>, I'd suggest avoiding
+caracterizing it as such until he (or the FSF) makes some sort of
+statement on the issue.
+
+[That being said, I'm not sure if GPL compatibility is an issue for
+works under the ASL, but if it is, it's something that should be
+discussed in further detail.]
+
+
+Don Armstrong
+
+--=20
+I'd sign up in a hot second for any cellular company whose motto was:
+"We're less horrible than a root canal with a cold chisel."
+-- Cory Doctorow
+
+http://www.donarmstrong.com
+http://www.anylevel.com
+http://rzlab.ucr.edu
+
+--CEUtFxTsmBsHRLs3
+Content-Type: application/pgp-signature; name="signature.asc"
+Content-Description: Digital signature
+Content-Disposition: inline
+
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v1.2.4 (GNU/Linux)
+
+iD8DBQFAEdTegcCJIoCND9ARApcWAJ4wRgoMtvngP994svLWmCY8wuYDiQCg3Mcy
+qXfz3TguOXpFRWcbh2gzrOU=
+=dZ5q
+-----END PGP SIGNATURE-----
+
+--CEUtFxTsmBsHRLs3--
+
+From license-return-142-apmail-license-archive=apache.org@apache.org Sat Jan 24 02:28:53 2004
+Return-Path: <license-return-142-apmail-license-archive=apache.org@apache.org>
+Delivered-To: apmail-license-archive@www.apache.org
+Received: (qmail 32887 invoked from network); 24 Jan 2004 02:28:53 -0000
+Received: from daedalus.apache.org (HELO mail.apache.org) (208.185.179.12)
+  by minotaur-2.apache.org with SMTP; 24 Jan 2004 02:28:53 -0000
+Received: (qmail 86104 invoked by uid 500); 24 Jan 2004 02:28:35 -0000
+Delivered-To: apmail-license-archive@apache.org
+Received: (qmail 86039 invoked by uid 500); 24 Jan 2004 02:28:35 -0000
+Mailing-List: contact license-help@apache.org; run by ezmlm
+Reply-To: license@apache.org
+list-help: <mailto:license-help@apache.org>
+list-unsubscribe: <mailto:license-unsubscribe@apache.org>
+list-post: <mailto:license@apache.org>
+Precedence: bulk
+Delivered-To: mailing list license@apache.org
+Received: (qmail 86026 invoked from network); 24 Jan 2004 02:28:35 -0000
+Received: from unknown (HELO bsl-540.wakasoft.com) (65.208.153.194)
+  by daedalus.apache.org with SMTP; 24 Jan 2004 02:28:35 -0000
+Received: from apache.org (localhost [127.0.0.1])
+	by bsl-540.wakasoft.com (8.12.9/8.12.9) with ESMTP id i0O2TUv3002524
+	for <license@apache.org>; Fri, 23 Jan 2004 18:29:30 -0800 (PST)
+Date: Fri, 23 Jan 2004 18:29:29 -0800
+Subject: Re: Apache License, Version 2.0
+Content-Type: text/plain; charset=ISO-8859-1; format=flowed
+Mime-Version: 1.0 (Apple Message framework v553)
+From: "Roy T. Fielding" <fielding@apache.org>
+To: license@apache.org
+Content-Transfer-Encoding: quoted-printable
+In-Reply-To: <20040124021350.GG3060@archimedes.ucr.edu>
+Message-Id: <23385101-4E15-11D8-915D-000393753936@apache.org>
+X-Mailer: Apple Mail (2.553)
+X-Spam-Rating: daedalus.apache.org 1.6.2 0/1000/N
+X-Spam-Rating: minotaur-2.apache.org 1.6.2 0/1000/N
+
+On Friday, January 23, 2004, at 06:13  PM, Don Armstrong wrote:
+> Has Eben Moglen (or the FSF) commented on the compatibility with ASL
+> 2.0 and the GPL, specifically regarding the interaction of =A73 of the
+> ASL with =A77 of the GPL? [I personally haven't seen such a public
+> commentary regarding the recent revisions of the license and their GPL
+> compatibility if they do exist...]
+
+Yes, though I don't think it was public.
+
+> Until he (or the FSF) has, calling the ASL 2.0 a GPL compatible
+> license is premature for the reasons outlined in
+> <20040109231506.GC30397@donarmstrong.com> as well as in
+> <16309.18688.540989.283163@new.law.columbia.edu>, I'd suggest avoiding
+> caracterizing it as such until he (or the FSF) makes some sort of
+> statement on the issue.
+
+They are compatible.  Whether or not they are considered compatible
+by the FSF is an opinion only they can make, but given that a
+derivative work consisting of both Apache Licensed code and GPL
+code can be distributed under the GPL (according to *our* opinion),
+there really isn't anything to be discussed.
+
+Cheers,
+
+Roy T. Fielding, co-founder, The Apache Software Foundation
+                  (fielding@apache.org)  <http://www.apache.org/>
+
+
+From license-return-143-apmail-license-archive=apache.org@apache.org Sat Jan 24 02:54:54 2004
+Return-Path: <license-return-143-apmail-license-archive=apache.org@apache.org>
+Delivered-To: apmail-license-archive@www.apache.org
+Received: (qmail 37910 invoked from network); 24 Jan 2004 02:54:53 -0000
+Received: from daedalus.apache.org (HELO mail.apache.org) (208.185.179.12)
+  by minotaur-2.apache.org with SMTP; 24 Jan 2004 02:54:53 -0000
+Received: (qmail 5138 invoked by uid 500); 24 Jan 2004 02:54:35 -0000
+Delivered-To: apmail-license-archive@apache.org
+Received: (qmail 5023 invoked by uid 500); 24 Jan 2004 02:54:34 -0000
+Mailing-List: contact license-help@apache.org; run by ezmlm
+Reply-To: license@apache.org
+list-help: <mailto:license-help@apache.org>
+list-unsubscribe: <mailto:license-unsubscribe@apache.org>
+list-post: <mailto:license@apache.org>
+Precedence: bulk
+Delivered-To: mailing list license@apache.org
+Received: (qmail 5010 invoked from network); 24 Jan 2004 02:54:34 -0000
+Received: from unknown (HELO sentry.ucr.edu) (138.23.226.224)
+  by daedalus.apache.org with SMTP; 24 Jan 2004 02:54:34 -0000
+Received: from tangerine.ucr.edu (tangerine.ucr.edu [138.23.225.70])
+	by sentry.ucr.edu (Mirapoint Messaging Server MOS 3.3.8-GR)
+	with SMTP id AUS90591
+	for <license@apache.org>;
+	Fri, 23 Jan 2004 18:54:43 -0800 (PST)
+Received: from archimedes.ucr.edu ([138.23.92.79]) by tangerine.ucr.edu
+          with SMTP for license@apache.org; Fri, 23 Jan 2004 18:56:13 -0800
+Received: (nullmailer pid 22698 invoked by uid 1000);
+	Sat, 24 Jan 2004 02:54:42 -0000
+Date: Fri, 23 Jan 2004 18:54:42 -0800
+From: Don Armstrong <don@donarmstrong.com>
+To: license@apache.org
+Subject: Re: Apache License, Version 2.0
+Message-ID: <20040124025442.GH3060@archimedes.ucr.edu>
+Mail-Followup-To: license@apache.org
+References: <20040124021350.GG3060@archimedes.ucr.edu> <23385101-4E15-11D8-915D-000393753936@apache.org>
+Mime-Version: 1.0
+Content-Type: multipart/signed; micalg=pgp-sha1;
+	protocol="application/pgp-signature"; boundary="tctmm6wHVGT/P6vA"
+Content-Disposition: inline
+In-Reply-To: <23385101-4E15-11D8-915D-000393753936@apache.org>
+X-Face: &M"4U@"QPr*4J='o3uX!C)l^-k6eODr4^>[lX^"g,Ac,>H~+.>_A4bk/GikjcXy?kOy-OitMH)J^MzgI",O5FjF,BxntA-<ERisZX:@dEb%7K+;hya%WR,6a:%h{HBv1Y<Y5=[Zz>z^KXVP9#enwq2X[^'f9tynS2@L0+'sQ"eh+LxX4R}"Xzd6BNr8.@Wu{jyNx|]tJG.*H^IDrsA%3
+User-Agent: Mutt/1.5.5.1+cvs20040105i
+X-Spam-Rating: daedalus.apache.org 1.6.2 0/1000/N
+X-Spam-Rating: minotaur-2.apache.org 1.6.2 0/1000/N
+
+--tctmm6wHVGT/P6vA
+Content-Type: text/plain; charset=iso-8859-1
+Content-Disposition: inline
+Content-Transfer-Encoding: quoted-printable
+
+On Fri, 23 Jan 2004, Roy T. Fielding wrote:
+> Yes, though I don't think it was public.
+
+It would be nice to make it publicly available. Could you contact the
+author of the statement so it can be made available?
+=20
+> They are compatible.=20
+
+Could you outline your reasoning why =A73 of the ASL doesn't conflict
+with the patent grants required under =A77 of the GPL?
+
+=46rom my reading, the language of ASL=A73 when combined with GPL=A77 could
+disallow a class of distribution normally allowed for a GPLed work
+alone.
+
+    If you cannot distribute so as to satisfy simultaneously your
+    obligations under this License and any other pertinent
+    obligations, then as a consequence you may not distribute the
+    Program at all. [...] if a patent license would not permit
+    royalty-free redistribution of the Program by all those who
+    receive copies directly or indirectly through you, then the only
+    way you could satisfy both it and this License would be to refrain
+    entirely from distribution of the Program.[GPL =A77]
+
+    If You institute patent litigation against any entity (including a
+    cross-claim or counterclaim in a lawsuit) alleging that the Work
+    or a Contribution incorporated within the Work constitutes direct
+    or contributory patent infringement, then any patent licenses
+    granted to You under this License for that Work shall terminate as
+    of the date such litigation is filed. [ASL =A73]
+
+The conflict primarily revolves around the ability of the distributor
+to distribute an ASL+GPLed work after the distributor has lost a
+patent license due to reciprocity. Since the GPL itself does not
+contain such a restriction, you cannot turn around and license the
+resultant work under the GPL alone as required by GPL =A72c, etc.
+
+> Whether or not they are considered compatible by the FSF is an
+> opinion only they can make, but given that a derivative work
+> consisting of both Apache Licensed code and GPL code can be
+> distributed under the GPL (according to *our* opinion), there really
+> isn't anything to be discussed.
+
+Unfortunately, Apache's opinion isn't enough, unless the ASL is only
+going to be applied to works (and combined works) wholly owned by
+ASF. The opinion of the copyright holder of the GPLed work being
+combined with an ASLed work is also at issue here. As the FSF is the
+copyright holder on quite a large number of GPLed works, as well as
+the principle enforcer of the GPL, their opinion was sought as a
+reference point.
+
+
+Don Armstrong
+
+--=20
+"The question of whether computers can think is like the question of
+whether submarines can swim."
+ -- Edsgar Dijkstra
+
+http://www.donarmstrong.com
+http://www.anylevel.com
+http://rzlab.ucr.edu
+
+--tctmm6wHVGT/P6vA
+Content-Type: application/pgp-signature; name="signature.asc"
+Content-Description: Digital signature
+Content-Disposition: inline
+
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v1.2.4 (GNU/Linux)
+
+iD8DBQFAEd5ygcCJIoCND9ARAnY7AJ9mYI9VxUCEsxkpr33DmUDS1M1wfQCeIIUO
+VicDzck+4cbPYZD1KCmdUDI=
+=h0Ux
+-----END PGP SIGNATURE-----
+
+--tctmm6wHVGT/P6vA--
+
+From license-return-144-apmail-license-archive=apache.org@apache.org Sat Jan 24 03:27:11 2004
+Return-Path: <license-return-144-apmail-license-archive=apache.org@apache.org>
+Delivered-To: apmail-license-archive@www.apache.org
+Received: (qmail 43753 invoked from network); 24 Jan 2004 03:27:10 -0000
+Received: from daedalus.apache.org (HELO mail.apache.org) (208.185.179.12)
+  by minotaur-2.apache.org with SMTP; 24 Jan 2004 03:27:10 -0000
+Received: (qmail 23206 invoked by uid 500); 24 Jan 2004 03:26:52 -0000
+Delivered-To: apmail-license-archive@apache.org
+Received: (qmail 23147 invoked by uid 500); 24 Jan 2004 03:26:51 -0000
+Mailing-List: contact license-help@apache.org; run by ezmlm
+Reply-To: license@apache.org
+list-help: <mailto:license-help@apache.org>
+list-unsubscribe: <mailto:license-unsubscribe@apache.org>
+list-post: <mailto:license@apache.org>
+Precedence: bulk
+Delivered-To: mailing list license@apache.org
+Received: (qmail 23134 invoked from network); 24 Jan 2004 03:26:51 -0000
+Received: from unknown (HELO bsl-540.wakasoft.com) (65.208.153.194)
+  by daedalus.apache.org with SMTP; 24 Jan 2004 03:26:51 -0000
+Received: from apache.org (localhost [127.0.0.1])
+	by bsl-540.wakasoft.com (8.12.9/8.12.9) with ESMTP id i0O3Rkv3002539
+	for <license@apache.org>; Fri, 23 Jan 2004 19:27:46 -0800 (PST)
+Date: Fri, 23 Jan 2004 19:27:45 -0800
+Subject: Re: Apache License, Version 2.0
+Content-Type: text/plain; charset=ISO-8859-1; format=flowed
+Mime-Version: 1.0 (Apple Message framework v553)
+From: "Roy T. Fielding" <fielding@apache.org>
+To: license@apache.org
+Content-Transfer-Encoding: quoted-printable
+In-Reply-To: <20040124025442.GH3060@archimedes.ucr.edu>
+Message-Id: <4686EED7-4E1D-11D8-915D-000393753936@apache.org>
+X-Mailer: Apple Mail (2.553)
+X-Spam-Rating: daedalus.apache.org 1.6.2 0/1000/N
+X-Spam-Rating: minotaur-2.apache.org 1.6.2 0/1000/N
+
+On Friday, January 23, 2004, at 06:54  PM, Don Armstrong wrote:
+> It would be nice to make it publicly available. Could you contact the
+> author of the statement so it can be made available?
+
+I am sure they will do so when they have it written down.
+Eben Moglen takes great care in crafting his opinions,
+and I don't want to rush the FSF into a response that
+hasn't been carefully considered.
+
+>> They are compatible.
+>
+> Could you outline your reasoning why =A73 of the ASL doesn't conflict
+> with the patent grants required under =A77 of the GPL?
+
+Because the patent license of section 3 of the ASL has no bearing on
+software that is being distributed under the GPL.  Whether or not a
+person can distribute a given work under the GPL due to an existing
+patent is not a matter for compatibility between the two licenses;
+it is merely an issue for the work in question.
+
+> =46rom my reading, the language of ASL=A73 when combined with GPL=A77 =
+could
+> disallow a class of distribution normally allowed for a GPLed work
+> alone.
+>
+>     If you cannot distribute so as to satisfy simultaneously your
+>     obligations under this License and any other pertinent
+>     obligations, then as a consequence you may not distribute the
+>     Program at all. [...] if a patent license would not permit
+>     royalty-free redistribution of the Program by all those who
+>     receive copies directly or indirectly through you, then the only
+>     way you could satisfy both it and this License would be to refrain
+>     entirely from distribution of the Program.[GPL =A77]
+>
+>     If You institute patent litigation against any entity (including a
+>     cross-claim or counterclaim in a lawsuit) alleging that the Work
+>     or a Contribution incorporated within the Work constitutes direct
+>     or contributory patent infringement, then any patent licenses
+>     granted to You under this License for that Work shall terminate as
+>     of the date such litigation is filed. [ASL =A73]
+>
+> The conflict primarily revolves around the ability of the distributor
+> to distribute an ASL+GPLed work after the distributor has lost a
+> patent license due to reciprocity. Since the GPL itself does not
+> contain such a restriction, you cannot turn around and license the
+> resultant work under the GPL alone as required by GPL =A72c, etc.
+
+That does not make the license incompatible.  If the owner of such
+patent were to deny a license to the GPL'd distribution, then that work
+could not be distributed under the GPL.  Since that is true regardless
+of the source of the code, the fact that Apache and GPL licenses were
+combined has no bearing on the result.
+
+You MUST understand, before going any further, that the question of
+whether a license is compatible with GPL and the question of whether
+a piece of software is compatible with GPL are two SEPARATE issues,
+even if a license can cause incompatibilities.  In this case, the
+license is compatible but insufficient to allow GPL distribution.
+That is a fact of life and is true of all of the licenses that the
+FSF has already said are compatible with the GPL.
+
+>> Whether or not they are considered compatible by the FSF is an
+>> opinion only they can make, but given that a derivative work
+>> consisting of both Apache Licensed code and GPL code can be
+>> distributed under the GPL (according to *our* opinion), there really
+>> isn't anything to be discussed.
+>
+> Unfortunately, Apache's opinion isn't enough, unless the ASL is only
+> going to be applied to works (and combined works) wholly owned by
+> ASF. The opinion of the copyright holder of the GPLed work being
+> combined with an ASLed work is also at issue here. As the FSF is the
+> copyright holder on quite a large number of GPLed works, as well as
+> the principle enforcer of the GPL, their opinion was sought as a
+> reference point.
+
+Of course, which is why their opinion was sought already.  License
+compatibility with GPL is very simple: all derivative work of GPL'd
+source must remain GPL'd.  Since the Apache License allows that
+explicitly, it is true for anyone who uses the Apache License, and
+thus the licenses are compatible regardless of an opinion.  There
+is nothing more I can do to make it so.
+
+....Roy=
+
+
+From license-return-145-apmail-license-archive=apache.org@apache.org Sat Jan 24 04:02:21 2004
+Return-Path: <license-return-145-apmail-license-archive=apache.org@apache.org>
+Delivered-To: apmail-license-archive@www.apache.org
+Received: (qmail 50217 invoked from network); 24 Jan 2004 04:02:21 -0000
+Received: from daedalus.apache.org (HELO mail.apache.org) (208.185.179.12)
+  by minotaur-2.apache.org with SMTP; 24 Jan 2004 04:02:21 -0000
+Received: (qmail 36391 invoked by uid 500); 24 Jan 2004 04:02:02 -0000
+Delivered-To: apmail-license-archive@apache.org
+Received: (qmail 36324 invoked by uid 500); 24 Jan 2004 04:02:01 -0000
+Mailing-List: contact license-help@apache.org; run by ezmlm
+Reply-To: license@apache.org
+list-help: <mailto:license-help@apache.org>
+list-unsubscribe: <mailto:license-unsubscribe@apache.org>
+list-post: <mailto:license@apache.org>
+Precedence: bulk
+Delivered-To: mailing list license@apache.org
+Received: (qmail 36299 invoked from network); 24 Jan 2004 04:02:01 -0000
+Received: from unknown (HELO sentinel.ucr.edu) (138.23.226.228)
+  by daedalus.apache.org with SMTP; 24 Jan 2004 04:02:01 -0000
+Received: from tangerine.ucr.edu (tangerine.ucr.edu [138.23.225.70])
+	by sentinel.ucr.edu (Mirapoint Messaging Server MOS 3.3.8-GR)
+	with SMTP id AUQ36133
+	for <license@apache.org>;
+	Fri, 23 Jan 2004 20:02:10 -0800 (PST)
+Received: from archimedes.ucr.edu ([138.23.92.79]) by tangerine.ucr.edu
+          with SMTP for license@apache.org; Fri, 23 Jan 2004 20:03:41 -0800
+Received: (nullmailer pid 32268 invoked by uid 1000);
+	Sat, 24 Jan 2004 04:02:10 -0000
+Date: Fri, 23 Jan 2004 20:02:10 -0800
+From: Don Armstrong <don@donarmstrong.com>
+To: license@apache.org
+Subject: Re: Apache License, Version 2.0
+Message-ID: <20040124040210.GI3060@archimedes.ucr.edu>
+Mail-Followup-To: license@apache.org
+References: <20040124025442.GH3060@archimedes.ucr.edu> <4686EED7-4E1D-11D8-915D-000393753936@apache.org>
+Mime-Version: 1.0
+Content-Type: multipart/signed; micalg=pgp-sha1;
+	protocol="application/pgp-signature"; boundary="HSQ3hISbU3Um6hch"
+Content-Disposition: inline
+In-Reply-To: <4686EED7-4E1D-11D8-915D-000393753936@apache.org>
+X-Face: &M"4U@"QPr*4J='o3uX!C)l^-k6eODr4^>[lX^"g,Ac,>H~+.>_A4bk/GikjcXy?kOy-OitMH)J^MzgI",O5FjF,BxntA-<ERisZX:@dEb%7K+;hya%WR,6a:%h{HBv1Y<Y5=[Zz>z^KXVP9#enwq2X[^'f9tynS2@L0+'sQ"eh+LxX4R}"Xzd6BNr8.@Wu{jyNx|]tJG.*H^IDrsA%3
+User-Agent: Mutt/1.5.5.1+cvs20040105i
+X-Spam-Rating: daedalus.apache.org 1.6.2 0/1000/N
+X-Spam-Rating: minotaur-2.apache.org 1.6.2 0/1000/N
+
+--HSQ3hISbU3Um6hch
+Content-Type: text/plain; charset=iso-8859-1
+Content-Disposition: inline
+Content-Transfer-Encoding: quoted-printable
+
+On Fri, 23 Jan 2004, Roy T. Fielding wrote:
+> I am sure they will do so when they have it written down.  Eben
+> Moglen takes great care in crafting his opinions, and I don't want
+> to rush the FSF into a response that hasn't been carefully
+> considered.
+
+Oh, certainly. That's primarily the reason why I suggest that it's
+premature to claim that the ASL 2.0 is compatible with the GPL, as it
+could be damaging to those works already being distributed under ASL
+1.1 which could be considered to be derived works from a GPLed work
+via linking or similar.
+
+> Because the patent license of section 3 of the ASL has no bearing on
+> software that is being distributed under the GPL.  Whether or not a
+> person can distribute a given work under the GPL due to an existing
+> patent is not a matter for compatibility between the two licenses;
+> it is merely an issue for the work in question.
+
+Hopefully it's clear that when I discuss compatibility between
+licenses I am refering to the creation (and distribution) of a
+derivative work from two works each under one of the licenses.
+
+[snipped and moved]
+
+> You MUST understand, before going any further, that the question of
+> whether a license is compatible with GPL and the question of whether
+> a piece of software is compatible with GPL are two SEPARATE issues,
+> even if a license can cause incompatibilities.=20
+
+I think you want to say whether a piece of software can be distributed
+under the GPL instead of being compatible with it. Hopefully my
+explanation above clarifies the meaning of compatibility that I am
+discussing.
+
+> That does not make the license incompatible.  If the owner of such
+> patent were to deny a license to the GPL'd distribution, then that
+> work could not be distributed under the GPL.  Since that is true
+> regardless of the source of the code, the fact that Apache and GPL
+> licenses were combined has no bearing on the result.
+=20
+> In this case, the license is compatible but insufficient to allow
+> GPL distribution.  That is a fact of life and is true of all of the
+> licenses that the FSF has already said are compatible with the GPL.
+
+In certain instances, yes, but there is nothing in those licenses
+which explicitely causes the result to be undistributable.
+
+The critical question is: does ASL =A73 in conjuction with GPL =A77
+restrict distribution in a case that would not be restricted in the
+case of a GPLed work alone?
+
+I'm concerned the framing of the patent reciprocity clause forms a
+restriction that isn't present in a GPLed work, and that's the primary
+reason why I've suggested that blanket claims of GPL compatibilty be
+held off until some sort of statement has been made regarding it.
+
+> Since the Apache License allows that explicitly, it is true for
+> anyone who uses the Apache License, and thus the licenses are
+> compatible regardless of an opinion.
+
+Were it were explicit! [Explicit in this case being something along
+the lines of "software under this license may also be distributed
+under the terms of the GPL version 2 or later at your option."]
+
+
+Don Armstrong
+
+--=20
+Il semble que la perfection soit atteinte non quand il n'y a plus rien
+a ajouter, mais quand il n'y a plus rien a retrancher.
+(Perfection is apparently not achieved when nothing more can be added,
+but when nothing else can be removed.)
+-- Antoine de Saint-Exupe'ry, Terres des Hommes
+
+http://www.donarmstrong.com
+http://www.anylevel.com
+http://rzlab.ucr.edu
+
+--HSQ3hISbU3Um6hch
+Content-Type: application/pgp-signature; name="signature.asc"
+Content-Description: Digital signature
+Content-Disposition: inline
+
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v1.2.4 (GNU/Linux)
+
+iD8DBQFAEe5CgcCJIoCND9ARAiBOAKCiA49PHqbVljLMAXl8C8pdChDJAwCg7/LL
+ZquzrkNH3YrKTqaESU2FYj0=
+=v5+Y
+-----END PGP SIGNATURE-----
+
+--HSQ3hISbU3Um6hch--
+
+From license-return-146-apmail-license-archive=apache.org@apache.org Sun Jan 25 16:01:39 2004
+Return-Path: <license-return-146-apmail-license-archive=apache.org@apache.org>
+Delivered-To: apmail-license-archive@www.apache.org
+Received: (qmail 94163 invoked from network); 25 Jan 2004 16:01:39 -0000
+Received: from daedalus.apache.org (HELO mail.apache.org) (208.185.179.12)
+  by minotaur-2.apache.org with SMTP; 25 Jan 2004 16:01:39 -0000
+Received: (qmail 61124 invoked by uid 500); 25 Jan 2004 16:01:33 -0000
+Delivered-To: apmail-license-archive@apache.org
+Received: (qmail 61053 invoked by uid 500); 25 Jan 2004 16:01:32 -0000
+Mailing-List: contact license-help@apache.org; run by ezmlm
+Reply-To: license@apache.org
+list-help: <mailto:license-help@apache.org>
+list-unsubscribe: <mailto:license-unsubscribe@apache.org>
+list-post: <mailto:license@apache.org>
+Precedence: bulk
+Delivered-To: mailing list license@apache.org
+Received: (qmail 61039 invoked from network); 25 Jan 2004 16:01:32 -0000
+Received: from unknown (HELO smtp.noos.fr) (212.198.2.124)
+  by daedalus.apache.org with SMTP; 25 Jan 2004 16:01:32 -0000
+Received: (qmail 9383 invoked by uid 0); 25 Jan 2004 16:01:33 -0000
+Received: from unknown (HELO vma) ([195.132.245.195])
+          (envelope-sender <vmassol@pivolis.com>)
+          by 212.198.2.124 (qmail-ldap-1.03) with SMTP
+          for <license@apache.org>; 25 Jan 2004 16:01:33 -0000
+From: "Vincent Massol" <vmassol@pivolis.com>
+To: <license@apache.org>
+Subject: How to use the 2.0 license?
+Date: Sun, 25 Jan 2004 17:01:19 +0100
+Message-ID: <012f01c3e35c$78e229d0$2502a8c0@vma>
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="US-ASCII"
+Content-Transfer-Encoding: 7bit
+X-Priority: 3 (Normal)
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook, Build 10.0.4024
+Importance: Normal
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1165
+X-Spam-Rating: daedalus.apache.org 1.6.2 0/1000/N
+X-Spam-Rating: minotaur-2.apache.org 1.6.2 0/1000/N
+
+Hi,
+
+I'd like to move the Jakarta Cactus project to use the new 2.0 Apache
+license. However, on http://www.apache.org/licenses/, there is not
+example on how to use it, say in source code.
+
+Could someone show me what header I need to write in my java source code
+to properly include this license?
+
+Thanks
+-Vincent
+
+
+From license-return-147-apmail-license-archive=apache.org@apache.org Sun Jan 25 20:17:13 2004
+Return-Path: <license-return-147-apmail-license-archive=apache.org@apache.org>
+Delivered-To: apmail-license-archive@www.apache.org
+Received: (qmail 59301 invoked from network); 25 Jan 2004 20:17:13 -0000
+Received: from daedalus.apache.org (HELO mail.apache.org) (208.185.179.12)
+  by minotaur-2.apache.org with SMTP; 25 Jan 2004 20:17:13 -0000
+Received: (qmail 61405 invoked by uid 500); 25 Jan 2004 20:17:03 -0000
+Delivered-To: apmail-license-archive@apache.org
+Received: (qmail 61300 invoked by uid 500); 25 Jan 2004 20:17:02 -0000
+Mailing-List: contact license-help@apache.org; run by ezmlm
+Reply-To: license@apache.org
+list-help: <mailto:license-help@apache.org>
+list-unsubscribe: <mailto:license-unsubscribe@apache.org>
+list-post: <mailto:license@apache.org>
+Precedence: bulk
+Delivered-To: mailing list license@apache.org
+Received: (qmail 61287 invoked from network); 25 Jan 2004 20:17:02 -0000
+Received: from unknown (HELO hyperreal.org) (209.237.226.90)
+  by daedalus.apache.org with SMTP; 25 Jan 2004 20:17:02 -0000
+Received: (qmail 92467 invoked from network); 25 Jan 2004 20:17:09 -0000
+Received: from localhost.hyperreal.org (HELO fez.hyperreal.org) (127.0.0.1)
+  by localhost.hyperreal.org with SMTP; 25 Jan 2004 20:17:09 -0000
+Received: (qmail 4523 invoked by uid 1000); 25 Jan 2004 20:17:06 -0000
+Received: from localhost (sendmail-bs@127.0.0.1)
+  by localhost with SMTP; 25 Jan 2004 20:17:06 -0000
+Date: Sun, 25 Jan 2004 12:17:06 -0800 (PST)
+From: Brian Behlendorf <brian@collab.net>
+X-X-Sender: brian@fez.hyperreal.org
+To: license@apache.org
+Subject: Re: How to use the 2.0 license?
+In-Reply-To: <012f01c3e35c$78e229d0$2502a8c0@vma>
+Message-ID: <20040125121456.H396@fez.hyperreal.org>
+References: <012f01c3e35c$78e229d0$2502a8c0@vma>
+MIME-Version: 1.0
+Content-Type: TEXT/PLAIN; charset=US-ASCII
+X-Spam-Rating: localhost.hyperreal.org 1.6.2 0/1000/N
+X-Spam-Rating: daedalus.apache.org 1.6.2 0/1000/N
+X-Spam-Rating: minotaur-2.apache.org 1.6.2 0/1000/N
+
+On Sun, 25 Jan 2004, Vincent Massol wrote:
+> I'd like to move the Jakarta Cactus project to use the new 2.0 Apache
+> license. However, on http://www.apache.org/licenses/, there is not
+> example on how to use it, say in source code.
+>
+> Could someone show me what header I need to write in my java source code
+> to properly include this license?
+
+The full text of the license must exist somewhere in the distribution.
+You'd probably want to call it "LICENSE", for example.  For what to put in
+each file, read the bottom of LICENSE-2.0, the section that says,
+"APPENDIX: How to apply the Apache License to your work."
+
+It's more than a one-liner, but a lot smaller than including the original
+license in every file, as was the preferred option before.
+
+	Brian
+
+
+From morecmenretriers@wildmail.com Fri Jan 30 14:13:47 2004
+Return-Path: <morecmenretriers@wildmail.com>
+Delivered-To: apmail-license-archive@www.apache.org
+Received: (qmail 84421 invoked from network); 30 Jan 2004 14:13:47 -0000
+Received: from roc-66-66-6-230.rochester.rr.com (HELO apmail-license-archive) (66.66.6.230)
+  by minotaur-2.apache.org with SMTP; 30 Jan 2004 14:13:47 -0000
+Message-ID: <noctx.72823tgusen@Apmail-httpd-cvs-archiveojlsamqq>
+From: "Apmail-httpd-cvs-archive" <morecmenretriers@wildmail.com>
+Date: Fri, 30 Jan 2004 09:21:08 +0000
+To: apmail-license-archive@www.apache.org
+Subject: Cum And Look Like A P0RN STAR!!!!!!!!      mesosphereemigrants
+MIME-Version: 1.0
+Content-Transfer-Encoding: 8bit
+Content-Type: text/html; charset=iso-8859-1
+X-Spam-Rating: minotaur-2.apache.org 1.6.2 0/1000/N
+
+<html>
+<head>
+   <title>cumpills2</title>
+</head>
+<body>
+
+<center><b><font face="Verdana">SHOWER YOUR LOVER WITH</font></b>
+<br><font face="Verdana"><font color="#FF0000"><font size=+2>BUCKET LOADS
+OF SP.ERM!</font></font>
+<br><font face="Verdana"></font> <font face="Verdana"></font>
+<p><b><font face="Verdana"><font size=-1>It's Amazing & Has Finally
+Arrived! A Unique Pill That Will Increase Your Spe.rm By Up To 500% More
+We Guaran.teed It!</font></font></b><b><font face="Verdana"><font size=-1></font></b>
+<p><b><font face="Verdana">Maintain Rock Solid Erect.ions</font></font></b>
+<br><b><font face="Verdana">Increased Se.xual Desire &
+Performance</font></b>
+<br><b><font face="Verdana">- Shoot Out Amazing Amounts Of
+Spe.rm Everywhere</font></font></b>
+<br><b><font face="Verdana">- Multiple Extreme Orga.sms!
+Have 2 Or 3 Each Time.</font></b>
+<br><b><font face="Verdana">- 100% Mon.ey Back Guar.antee
+With Every Order.</font></b>
+<br><font face="Verdana"></font> <font face="Verdana"><font color="#FF0000"></font>
+<p><b><font face="Verdana"><font color="#FF0000"><font size=+1>EJACU.LATE
+LIKE A P0RN STAR</font></font></font></b><u><font face="Verdana"></font></u>
+<p><b><u><font face="Verdana"><font color="#FF0000"><font size=+2><a hrefadvantagehref=http://dollar.com href=
+
+"http://www.bonkey.biz/kadafi/">MORE INFO HERE</a></font></font></font></u></b>
+<br> 
+<br> 
+<p><font size=-2><a hrefbansheehref=http://hairless.com href=
+
+"http://www.bonkey.biz/kadafi/z.html">no more emailz</a></font>
+<p> 
+</body>
+</html>
+modularrelays
+
+
+

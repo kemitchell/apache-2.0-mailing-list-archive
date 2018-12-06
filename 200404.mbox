@@ -1,0 +1,287 @@
+From license-return-159-apmail-license-archive=apache.org@apache.org Fri Apr 02 14:11:20 2004
+Return-Path: <license-return-159-apmail-license-archive=apache.org@apache.org>
+Delivered-To: apmail-license-archive@www.apache.org
+Received: (qmail 22353 invoked from network); 2 Apr 2004 14:11:20 -0000
+Received: from daedalus.apache.org (HELO mail.apache.org) (208.185.179.12)
+  by minotaur-2.apache.org with SMTP; 2 Apr 2004 14:11:20 -0000
+Received: (qmail 89118 invoked by uid 500); 2 Apr 2004 14:11:06 -0000
+Delivered-To: apmail-license-archive@apache.org
+Received: (qmail 89004 invoked by uid 500); 2 Apr 2004 14:11:05 -0000
+Mailing-List: contact license-help@apache.org; run by ezmlm
+Reply-To: license@apache.org
+list-help: <mailto:license-help@apache.org>
+list-unsubscribe: <mailto:license-unsubscribe@apache.org>
+list-post: <mailto:license@apache.org>
+Precedence: bulk
+Delivered-To: mailing list license@apache.org
+Received: (qmail 88889 invoked from network); 2 Apr 2004 14:11:04 -0000
+Received: from unknown (HELO mail.iinet.net.au) (203.59.3.34)
+  by daedalus.apache.org with SMTP; 2 Apr 2004 14:11:04 -0000
+Received: (qmail 16668 invoked from network); 2 Apr 2004 14:11:04 -0000
+Received: from unknown (HELO turnip) (203.217.17.173)
+  by mail.iinet.net.au with SMTP; 2 Apr 2004 14:11:04 -0000
+Message-ID: <406D7474.7040606@backstagetech.com.au>
+Date: Sat, 03 Apr 2004 00:11:00 +1000
+From: Scott Eade <seade@backstagetech.com.au>
+User-Agent: Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.6) Gecko/20040113
+X-Accept-Language: en-us, en
+MIME-Version: 1.0
+To:  license@apache.org
+Subject: Importing SourceForge code that uses ASL
+Content-Type: text/plain; charset=ISO-8859-1; format=flowed
+Content-Transfer-Encoding: 7bit
+X-Antivirus: avast! (VPS 0403-23, 03/31/2004), Outbound message
+X-Antivirus-Status: Clean
+X-Spam-Rating: daedalus.apache.org 1.6.2 0/1000/N
+X-Spam-Rating: minotaur-2.apache.org 1.6.2 0/1000/N
+
+A while back someone apparently forked the Jakarta Turbine JCS project 
+to a SourceForge project (http://ehcache.sourceforge.net/) to fix some 
+bugs and to simplify the code base by reducing the scope of the 
+functionality it provides. 
+
+The SF project is listed as being ASL.  The LICENSE.txt file in the most 
+recent release (0.7) is ASL 1.1 (Jakarta commons variation), but about 2 
+weeks ago this was updated in cvs [1] to assign the copyright to a 
+specific individual (Greg Luck) and the attribution to:
+
+ *       "This product includes software developed by Greg Luck
+ *       (http://sourceforge.net/users/gregluck) and contributors.
+ *       See http://sourceforge.net/project/memberlist.php?group_id=93232
+ *       for a list of contributors"
+
+
+The license included in the source files was updated at the same time.
+
+There is renewed interest in JCS and someone has offered a patch [2] 
+that ports all of the bug fixes in Ehcache back to JCS but I am 
+wondering if there is anything special we need to do to legitimise this 
+code.
+
+I am suggesting we do the following:
+1. Update JCS to use ASL 2.0, as is required anyway.
+2. Apply the patches and note the Ehcache attribution in NOTICES.txt
+
+Is this the correct approach?
+
+References:
+[1] 
+http://cvs.sourceforge.net/viewcvs.py/*checkout*/ehcache/ehcache/LICENSE.txt?content-type=text%2Fplain&rev=1.3
+[2] 
+http://nagoya.apache.org/eyebrowse/ReadMsg?listName=turbine-jcs-user@jakarta.apache.org&msgNo=403
+
+Thanks,
+
+Scott
+
+-- 
+Scott Eade
+Backstage Technologies Pty. Ltd.
+http://www.backstagetech.com.au
+
+
+From license-return-160-apmail-license-archive=apache.org@apache.org Tue Apr 13 20:35:02 2004
+Return-Path: <license-return-160-apmail-license-archive=apache.org@apache.org>
+Delivered-To: apmail-license-archive@www.apache.org
+Received: (qmail 49006 invoked from network); 13 Apr 2004 20:35:02 -0000
+Received: from daedalus.apache.org (HELO mail.apache.org) (208.185.179.12)
+  by minotaur-2.apache.org with SMTP; 13 Apr 2004 20:35:02 -0000
+Received: (qmail 87786 invoked by uid 500); 13 Apr 2004 20:34:49 -0000
+Delivered-To: apmail-license-archive@apache.org
+Received: (qmail 87646 invoked by uid 500); 13 Apr 2004 20:34:48 -0000
+Mailing-List: contact license-help@apache.org; run by ezmlm
+Reply-To: license@apache.org
+list-help: <mailto:license-help@apache.org>
+list-unsubscribe: <mailto:license-unsubscribe@apache.org>
+list-post: <mailto:license@apache.org>
+Precedence: bulk
+Delivered-To: mailing list license@apache.org
+Delivered-To: moderator for license@apache.org
+Received: (qmail 6994 invoked from network); 13 Apr 2004 15:30:46 -0000
+Message-ID: <BFB44293CE13C9419B7AFE7CBC35B93904699A5B@sottmxs08.entrust.com>
+From: Bruce McHaffie <bruce.mchaffie@entrust.com>
+To: "'license@apache.org'" <license@apache.org>
+Subject: Apache license, httpclient, and applets
+Date: Tue, 13 Apr 2004 11:30:40 -0400
+MIME-Version: 1.0
+X-Mailer: Internet Mail Service (5.5.2657.72)
+Content-Type: multipart/alternative;
+	boundary="----_=_NextPart_001_01C4216C.471C284E"
+X-Spam-Rating: daedalus.apache.org 1.6.2 0/1000/N
+X-Spam-Rating: minotaur-2.apache.org 1.6.2 0/1000/N
+
+------_=_NextPart_001_01C4216C.471C284E
+Content-Type: text/plain;
+	charset="iso-8859-1"
+
+Hi, I'd like to use HttpClient (one of the Jakarta commons projects --
+http://jakarta.apache.org/commons/httpclient/ ) in an applet as part of a
+product feature for the company I work for. The legal department though is
+stuck on the provision in the Apache license that says we have to "...give
+any other recipients of the Work or Derivative Works a copy of this
+License".
+
+Since the product is an applet there's no client-side distribution so legal
+is not sure how to get the license to the end user. Would you be able to
+clarify what measures, if any, are expected to be taken to get the license
+document to end users in an applet/browser environment (with no installed
+client software)?
+
+Bruce.
+
+
+------_=_NextPart_001_01C4216C.471C284E--
+
+From license-return-161-apmail-license-archive=apache.org@apache.org Tue Apr 13 20:57:02 2004
+Return-Path: <license-return-161-apmail-license-archive=apache.org@apache.org>
+Delivered-To: apmail-license-archive@www.apache.org
+Received: (qmail 63301 invoked from network); 13 Apr 2004 20:57:01 -0000
+Received: from daedalus.apache.org (HELO mail.apache.org) (208.185.179.12)
+  by minotaur-2.apache.org with SMTP; 13 Apr 2004 20:57:01 -0000
+Received: (qmail 58656 invoked by uid 500); 13 Apr 2004 20:56:48 -0000
+Delivered-To: apmail-license-archive@apache.org
+Received: (qmail 58576 invoked by uid 500); 13 Apr 2004 20:56:47 -0000
+Mailing-List: contact license-help@apache.org; run by ezmlm
+Reply-To: license@apache.org
+list-help: <mailto:license-help@apache.org>
+list-unsubscribe: <mailto:license-unsubscribe@apache.org>
+list-post: <mailto:license@apache.org>
+Precedence: bulk
+Delivered-To: mailing list license@apache.org
+Received: (qmail 58489 invoked from network); 13 Apr 2004 20:56:47 -0000
+Received: from unknown (HELO smtp-out1.blueyonder.co.uk) (195.188.213.4)
+  by daedalus.apache.org with SMTP; 13 Apr 2004 20:56:47 -0000
+Received: from [10.0.0.2] ([82.38.65.173]) by smtp-out1.blueyonder.co.uk with Microsoft SMTPSVC(5.0.2195.5600);
+	 Tue, 13 Apr 2004 21:56:54 +0100
+Mime-Version: 1.0 (Apple Message framework v613)
+In-Reply-To: <BFB44293CE13C9419B7AFE7CBC35B93904699A5B@sottmxs08.entrust.com>
+References: <BFB44293CE13C9419B7AFE7CBC35B93904699A5B@sottmxs08.entrust.com>
+Content-Type: text/plain; charset=US-ASCII; format=flowed
+Message-Id: <15CF9061-8D8D-11D8-A57E-003065DC754C@apache.org>
+Content-Transfer-Encoding: 7bit
+From: robert burrell donkin <rdonkin@apache.org>
+Subject: Re: Apache license, httpclient, and applets
+Date: Tue, 13 Apr 2004 21:56:50 +0100
+To: license@apache.org
+X-Mailer: Apple Mail (2.613)
+X-OriginalArrivalTime: 13 Apr 2004 20:56:54.0161 (UTC) FILETIME=[D9D60010:01C42199]
+X-Spam-Rating: daedalus.apache.org 1.6.2 0/1000/N
+X-Spam-Rating: minotaur-2.apache.org 1.6.2 0/1000/N
+
+(IANAL and so this is a just a technical note) but doesn't the 
+httpclient jar include the license within it's manifest?
+
+if so (and you're using the standard httpclient jar) when you run in an 
+applet then the client will download the httpclient.jar containing the 
+license before the code can execute, won't it?
+
+- robert
+
+On 13 Apr 2004, at 16:30, Bruce McHaffie wrote:
+
+> Hi, I'd like to use HttpClient (one of the Jakarta commons projects --
+> http://jakarta.apache.org/commons/httpclient/ ) in an applet as part 
+> of a
+> product feature for the company I work for. The legal department 
+> though is
+> stuck on the provision in the Apache license that says we have to 
+> "...give
+> any other recipients of the Work or Derivative Works a copy of this
+> License".
+>
+> Since the product is an applet there's no client-side distribution so 
+> legal
+> is not sure how to get the license to the end user. Would you be able 
+> to
+> clarify what measures, if any, are expected to be taken to get the 
+> license
+> document to end users in an applet/browser environment (with no 
+> installed
+> client software)?
+>
+> Bruce.
+>
+
+
+From license-return-162-apmail-license-archive=apache.org@apache.org Wed Apr 14 02:27:00 2004
+Return-Path: <license-return-162-apmail-license-archive=apache.org@apache.org>
+Delivered-To: apmail-license-archive@www.apache.org
+Received: (qmail 24741 invoked from network); 14 Apr 2004 02:26:59 -0000
+Received: from daedalus.apache.org (HELO mail.apache.org) (208.185.179.12)
+  by minotaur-2.apache.org with SMTP; 14 Apr 2004 02:26:59 -0000
+Received: (qmail 91635 invoked by uid 500); 14 Apr 2004 02:26:40 -0000
+Delivered-To: apmail-license-archive@apache.org
+Received: (qmail 91507 invoked by uid 500); 14 Apr 2004 02:26:39 -0000
+Mailing-List: contact license-help@apache.org; run by ezmlm
+Reply-To: license@apache.org
+list-help: <mailto:license-help@apache.org>
+list-unsubscribe: <mailto:license-unsubscribe@apache.org>
+list-post: <mailto:license@apache.org>
+Precedence: bulk
+Delivered-To: mailing list license@apache.org
+Received: (qmail 91494 invoked from network); 14 Apr 2004 02:26:39 -0000
+Received: from unknown (HELO Boron.MeepZor.Com) (204.146.167.214)
+  by daedalus.apache.org with SMTP; 14 Apr 2004 02:26:39 -0000
+Received: from golux.com (cpe-024-211-177-082.nc.rr.com [24.211.177.82])
+	by Boron.MeepZor.Com (8.11.6/8.11.6) with ESMTP id i3E2Qp705507
+	for <license@apache.org>; Tue, 13 Apr 2004 22:26:51 -0400
+Message-ID: <407CA162.9030303@golux.com>
+Date: Tue, 13 Apr 2004 22:26:42 -0400
+From: Jennifer Machovec <jennifermp@golux.com>
+User-Agent: Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.5) Gecko/20031013 Thunderbird/0.3
+X-Accept-Language: en-us, en
+MIME-Version: 1.0
+To: license@apache.org
+Subject: Re: Importing SourceForge code that uses ASL
+References: <406D7474.7040606@backstagetech.com.au>
+In-Reply-To: <406D7474.7040606@backstagetech.com.au>
+Content-Type: text/plain; charset=ISO-8859-1; format=flowed
+Content-Transfer-Encoding: 7bit
+X-Spam-Rating: daedalus.apache.org 1.6.2 0/1000/N
+X-Spam-Rating: minotaur-2.apache.org 1.6.2 0/1000/N
+
+Scott Eade wrote:
+
+> A while back someone apparently forked the Jakarta Turbine JCS project 
+> to a SourceForge project (http://ehcache.sourceforge.net/) to fix some 
+> bugs and to simplify the code base by reducing the scope of the 
+> functionality it provides.
+> The SF project is listed as being ASL.  The LICENSE.txt file in the 
+> most recent release (0.7) is ASL 1.1 (Jakarta commons variation), but 
+> about 2 weeks ago this was updated in cvs [1] to assign the copyright 
+> to a specific individual (Greg Luck) and the attribution to:
+>
+> *       "This product includes software developed by Greg Luck
+> *       (http://sourceforge.net/users/gregluck) and contributors.
+> *       See http://sourceforge.net/project/memberlist.php?group_id=93232
+> *       for a list of contributors"
+>
+Greg's EHCache program appears to be a derivative work of JCS, and as 
+such the copyright attribution should not simply have been changed to 
+him.  I would recommend that ASF contact him to ensure that the original 
+copyright notices are remaining intact in the work.
+
+> The license included in the source files was updated at the same time.
+>
+> There is renewed interest in JCS and someone has offered a patch [2] 
+> that ports all of the bug fixes in Ehcache back to JCS but I am 
+> wondering if there is anything special we need to do to legitimise 
+> this code.
+>
+Based on the information available in SourceForge and the postings on 
+the jakarta list, this looks like considerably more than a patch IMHO.
+
+> I am suggesting we do the following:
+> 1. Update JCS to use ASL 2.0, as is required anyway.
+> 2. Apply the patches and note the Ehcache attribution in NOTICES.txt
+>
+> Is this the correct approach? 
+
+I think the best option might be to ask Greg and the other SF 
+contributors to sign a CLA (and the project committee would then perform 
+the review and due diligence ordinarily conducted on contributions).   
+The SF notice would be unnecessary if the CLAs were executed.
+
+
+
+

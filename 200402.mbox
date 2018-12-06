@@ -1,0 +1,785 @@
+From license-return-148-apmail-license-archive=apache.org@apache.org Tue Feb 03 03:18:06 2004
+Return-Path: <license-return-148-apmail-license-archive=apache.org@apache.org>
+Delivered-To: apmail-license-archive@www.apache.org
+Received: (qmail 47535 invoked from network); 3 Feb 2004 03:18:06 -0000
+Received: from daedalus.apache.org (HELO mail.apache.org) (208.185.179.12)
+  by minotaur-2.apache.org with SMTP; 3 Feb 2004 03:18:06 -0000
+Received: (qmail 11942 invoked by uid 500); 3 Feb 2004 03:17:47 -0000
+Delivered-To: apmail-license-archive@apache.org
+Received: (qmail 11853 invoked by uid 500); 3 Feb 2004 03:17:47 -0000
+Mailing-List: contact license-help@apache.org; run by ezmlm
+Reply-To: license@apache.org
+list-help: <mailto:license-help@apache.org>
+list-unsubscribe: <mailto:license-unsubscribe@apache.org>
+list-post: <mailto:license@apache.org>
+Precedence: bulk
+Delivered-To: mailing list license@apache.org
+Received: (qmail 11830 invoked from network); 3 Feb 2004 03:17:46 -0000
+Received: from unknown (HELO minotaur.apache.org) (209.237.227.194)
+  by daedalus.apache.org with SMTP; 3 Feb 2004 03:17:46 -0000
+Received: (qmail 47454 invoked by uid 1339); 3 Feb 2004 03:18:04 -0000
+Received: from localhost (sendmail-bs@127.0.0.1)
+  by localhost with SMTP; 3 Feb 2004 03:18:04 -0000
+Date: Mon, 2 Feb 2004 19:18:04 -0800 (PST)
+From: Martin Cooper <martinc@apache.org>
+To: license@apache.org
+Subject: New license and copyright dates
+Message-ID: <20040202190734.F42170@minotaur.apache.org>
+MIME-Version: 1.0
+Content-Type: TEXT/PLAIN; charset=US-ASCII
+X-Spam-Rating: localhost 1.6.2 0/1000/N
+X-Spam-Rating: daedalus.apache.org 1.6.2 0/1000/N
+X-Spam-Rating: minotaur-2.apache.org 1.6.2 0/1000/N
+
+Hello,
+
+One of the things that has been drilled into me over 25+ years as a
+software developer is the importance of keeping the correct copyright
+years in the source code. In particular, I have repeatedly heard from
+corporate lawyers that it is *very* important to keep the original
+copyright year on each file, in addition to the years of subsequent
+modification. The reasons have to do with demonstration of "prior art" in
+intellectual property law and patent litigation.
+
+The reason I am bringing this up here is because I am seeing committers
+across numerous Jakarta projects ignoring this. The problem is spreading
+as people start switching to the new 2.0 license, overwriting the old
+license with the new one using scripts, and thus losing the original
+copyright year.
+
+Rather than try to correct this each time I see it, and wonder how many
+places I'm not catching, I think it would be a good idea if a message was
+sent to committers@ pointing out the importance of this. Unless all those
+corporate lawyers are wrong and / or it doesn't matter to the ASF, that
+is... ;-)
+
+Thanks.
+
+--
+Martin Cooper
+
+From license-return-149-apmail-license-archive=apache.org@apache.org Tue Feb 03 06:05:58 2004
+Return-Path: <license-return-149-apmail-license-archive=apache.org@apache.org>
+Delivered-To: apmail-license-archive@www.apache.org
+Received: (qmail 9213 invoked from network); 3 Feb 2004 06:05:58 -0000
+Received: from daedalus.apache.org (HELO mail.apache.org) (208.185.179.12)
+  by minotaur-2.apache.org with SMTP; 3 Feb 2004 06:05:58 -0000
+Received: (qmail 99788 invoked by uid 500); 3 Feb 2004 06:05:36 -0000
+Delivered-To: apmail-license-archive@apache.org
+Received: (qmail 99669 invoked by uid 500); 3 Feb 2004 06:05:35 -0000
+Mailing-List: contact license-help@apache.org; run by ezmlm
+Reply-To: license@apache.org
+list-help: <mailto:license-help@apache.org>
+list-unsubscribe: <mailto:license-unsubscribe@apache.org>
+list-post: <mailto:license@apache.org>
+Precedence: bulk
+Delivered-To: mailing list license@apache.org
+Received: (qmail 99654 invoked from network); 3 Feb 2004 06:05:35 -0000
+Received: from unknown (HELO hyperreal.org) (209.237.226.90)
+  by daedalus.apache.org with SMTP; 3 Feb 2004 06:05:35 -0000
+Received: (qmail 40877 invoked from network); 3 Feb 2004 06:05:50 -0000
+Received: from localhost.hyperreal.org (HELO fez.hyperreal.org) (127.0.0.1)
+  by localhost.hyperreal.org with SMTP; 3 Feb 2004 06:05:50 -0000
+Received: (qmail 24919 invoked by uid 1000); 3 Feb 2004 06:05:44 -0000
+Received: from localhost (sendmail-bs@127.0.0.1)
+  by localhost with SMTP; 3 Feb 2004 06:05:44 -0000
+Date: Mon, 2 Feb 2004 22:05:44 -0800 (PST)
+From: Brian Behlendorf <brian@collab.net>
+X-X-Sender: brian@fez.hyperreal.org
+To: license@apache.org
+Subject: Re: New license and copyright dates
+In-Reply-To: <20040202190734.F42170@minotaur.apache.org>
+Message-ID: <20040202220414.W23203@fez.hyperreal.org>
+References: <20040202190734.F42170@minotaur.apache.org>
+MIME-Version: 1.0
+Content-Type: TEXT/PLAIN; charset=US-ASCII
+X-Spam-Rating: localhost.hyperreal.org 1.6.2 0/1000/N
+X-Spam-Rating: daedalus.apache.org 1.6.2 0/1000/N
+X-Spam-Rating: minotaur-2.apache.org 1.6.2 0/1000/N
+
+
+I personally don't see why a file with "Copyright 1999-2004" is going to
+be materially more or less effective than having a CVS tree with time
+stamps going that far back.  For the purposes of anyone trying to follow
+the terms of the license, the most recent date is all that matters.
+
+So I wouldn't worry too much about it, is my sense - others?
+
+	Brian
+
+On Mon, 2 Feb 2004, Martin Cooper wrote:
+> Hello,
+>
+> One of the things that has been drilled into me over 25+ years as a
+> software developer is the importance of keeping the correct copyright
+> years in the source code. In particular, I have repeatedly heard from
+> corporate lawyers that it is *very* important to keep the original
+> copyright year on each file, in addition to the years of subsequent
+> modification. The reasons have to do with demonstration of "prior art" in
+> intellectual property law and patent litigation.
+>
+> The reason I am bringing this up here is because I am seeing committers
+> across numerous Jakarta projects ignoring this. The problem is spreading
+> as people start switching to the new 2.0 license, overwriting the old
+> license with the new one using scripts, and thus losing the original
+> copyright year.
+>
+> Rather than try to correct this each time I see it, and wonder how many
+> places I'm not catching, I think it would be a good idea if a message was
+> sent to committers@ pointing out the importance of this. Unless all those
+> corporate lawyers are wrong and / or it doesn't matter to the ASF, that
+> is... ;-)
+>
+> Thanks.
+>
+> --
+> Martin Cooper
+>
+
+From license-return-150-apmail-license-archive=apache.org@apache.org Wed Feb 04 03:19:17 2004
+Return-Path: <license-return-150-apmail-license-archive=apache.org@apache.org>
+Delivered-To: apmail-license-archive@www.apache.org
+Received: (qmail 51226 invoked from network); 4 Feb 2004 03:19:17 -0000
+Received: from daedalus.apache.org (HELO mail.apache.org) (208.185.179.12)
+  by minotaur-2.apache.org with SMTP; 4 Feb 2004 03:19:17 -0000
+Received: (qmail 45531 invoked by uid 500); 4 Feb 2004 03:18:59 -0000
+Delivered-To: apmail-license-archive@apache.org
+Received: (qmail 45434 invoked by uid 500); 4 Feb 2004 03:18:58 -0000
+Mailing-List: contact license-help@apache.org; run by ezmlm
+Reply-To: license@apache.org
+list-help: <mailto:license-help@apache.org>
+list-unsubscribe: <mailto:license-unsubscribe@apache.org>
+list-post: <mailto:license@apache.org>
+Precedence: bulk
+Delivered-To: mailing list license@apache.org
+Received: (qmail 45376 invoked from network); 4 Feb 2004 03:18:57 -0000
+Received: from unknown (HELO nandini) (61.1.242.196)
+  by daedalus.apache.org with SMTP; 4 Feb 2004 03:18:57 -0000
+Received: from paivakil by nandini with local (Exim 4.30)
+	id 1AoBr7-0000Ky-93
+	for license@apache.org; Wed, 04 Feb 2004 06:59:29 +0530
+Date: Wed, 4 Feb 2004 06:59:29 +0530
+From: "Mahesh T. Pai" <paivakil@vsnl.net>
+To: license@apache.org
+Subject: Re: New license and copyright dates
+Message-ID: <20040204012929.GA1259@localhost>
+Mail-Followup-To: license@apache.org
+References: <20040202190734.F42170@minotaur.apache.org> <20040202220414.W23203@fez.hyperreal.org>
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Disposition: inline
+In-Reply-To: <20040202220414.W23203@fez.hyperreal.org>
+Sender: "Mahesh T. Pai" <paivakil@vsnl.net>
+X-Spam-Rating: daedalus.apache.org 1.6.2 0/1000/N
+X-Spam-Rating: minotaur-2.apache.org 1.6.2 0/1000/N
+
+Brian Behlendorf said on Mon, Feb 02, 2004 at 10:05:44PM -0800,:
+
+ > I personally  don't see  why a file  with "Copyright  1999-2004" is
+ > going to be materially more or less effective
+
+You are  disabled from saying `I  published that before  you did' when
+faced  wiah a  suit by  somebody saying  that your  code  infringes on
+theirs. 
+ 
+ >  than having a CVS tree with time stamps going that far back.
+
+The most important record of publication of a document is the document
+itself,  here  the source  code.   Remember  the  copyright /  version
+histories somewhere in the first pages of a book?
+ 
+ > For  the purposes of anyone trying to follow 
+ > the terms of the license, the most recent date is all that matters.
+
+Terms of license, yes. But when it comes to copyright ownerhship and
+infringement claims, it is a different story.
+
+
+-- 
++~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~+
+                                          
+  Mahesh T. Pai, LL.M.,                   
+  'NANDINI', S. R. M. Road,               
+  Ernakulam, Cochin-682018,               
+  Kerala, India.                          
+                                          
+  http://in.geocities.com/paivakil         
+                                          
++~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~+
+
+From license-return-151-apmail-license-archive=apache.org@apache.org Wed Feb 04 05:04:56 2004
+Return-Path: <license-return-151-apmail-license-archive=apache.org@apache.org>
+Delivered-To: apmail-license-archive@www.apache.org
+Received: (qmail 91876 invoked from network); 4 Feb 2004 05:04:56 -0000
+Received: from daedalus.apache.org (HELO mail.apache.org) (208.185.179.12)
+  by minotaur-2.apache.org with SMTP; 4 Feb 2004 05:04:56 -0000
+Received: (qmail 97959 invoked by uid 500); 4 Feb 2004 05:04:35 -0000
+Delivered-To: apmail-license-archive@apache.org
+Received: (qmail 97895 invoked by uid 500); 4 Feb 2004 05:04:35 -0000
+Mailing-List: contact license-help@apache.org; run by ezmlm
+Reply-To: license@apache.org
+list-help: <mailto:license-help@apache.org>
+list-unsubscribe: <mailto:license-unsubscribe@apache.org>
+list-post: <mailto:license@apache.org>
+Precedence: bulk
+Delivered-To: mailing list license@apache.org
+Received: (qmail 97881 invoked from network); 4 Feb 2004 05:04:34 -0000
+Received: from unknown (HELO hyperreal.org) (209.237.226.90)
+  by daedalus.apache.org with SMTP; 4 Feb 2004 05:04:34 -0000
+Received: (qmail 73806 invoked from network); 4 Feb 2004 05:04:49 -0000
+Received: from localhost.hyperreal.org (HELO fez.hyperreal.org) (127.0.0.1)
+  by localhost.hyperreal.org with SMTP; 4 Feb 2004 05:04:49 -0000
+Received: (qmail 29484 invoked by uid 1000); 4 Feb 2004 05:04:38 -0000
+Received: from localhost (sendmail-bs@127.0.0.1)
+  by localhost with SMTP; 4 Feb 2004 05:04:38 -0000
+Date: Tue, 3 Feb 2004 21:04:38 -0800 (PST)
+From: Brian Behlendorf <brian@collab.net>
+X-X-Sender: brian@fez.hyperreal.org
+To: license@apache.org
+Subject: Re: New license and copyright dates
+In-Reply-To: <20040204012929.GA1259@localhost>
+Message-ID: <20040203205256.G23203@fez.hyperreal.org>
+References: <20040202190734.F42170@minotaur.apache.org>
+ <20040202220414.W23203@fez.hyperreal.org> <20040204012929.GA1259@localhost>
+MIME-Version: 1.0
+Content-Type: TEXT/PLAIN; charset=US-ASCII
+X-Spam-Rating: localhost.hyperreal.org 1.6.2 0/1000/N
+X-Spam-Rating: daedalus.apache.org 1.6.2 0/1000/N
+X-Spam-Rating: minotaur-2.apache.org 1.6.2 0/1000/N
+
+On Wed, 4 Feb 2004, Mahesh T. Pai wrote:
+> Brian Behlendorf said on Mon, Feb 02, 2004 at 10:05:44PM -0800,:
+>
+>  > I personally  don't see  why a file  with "Copyright  1999-2004" is
+>  > going to be materially more or less effective
+>
+> You are  disabled from saying `I  published that before  you did' when
+> faced  wiah a  suit by  somebody saying  that your  code  infringes on
+> theirs.
+
+Uh, but the artifact being published was published in 2004, not 1998.
+Simply putting "1998" into the license does nothing to prove I actually
+wrote any of that code in 1998, and it certainly doesn't mean all of it
+was available in 1998.  If faced with such a suit, we'd reach back into
+the CVS history and/or archive.org and/or our own release packages in our
+archive to show what was published when.  Older releases don't suddenly
+vanish when a newer release comes out.
+
+> > than having a CVS tree with time stamps going that far back.
+>
+> The most important record of publication of a document is the document
+> itself,  here  the source  code.   Remember  the  copyright /  version
+> histories somewhere in the first pages of a book?
+
+This is somewhat academic until we've got cases decided in court to set a
+precedent for what's an authoritative claim of date of authorship.  I know
+that I'd rather go in to court with a URL to archive.org with a date
+showing the release of Apache 0.9.1 in 1995 rather than the current code
+showing "copyright 1995-2004".
+
+Books aren't different in publishing their version history.  Most
+software, commercial and open source, have changelogs or release notes
+that detail what changes were made when.  But knowing when a specific
+algorithm or snippet of code is best demonstrated by showing the CVS tree.
+
+In fact, it might behoove us to make regular tape backups of the CVS tree
+and submit them to a records firm like Iron Mountain, which can timestamp
+them and store them in perpetuity in a way that is irrefutable.  I
+understand some companies have done this with the copy of Linux they
+downloaded from SCO under the GPL, just in case SCO's lawyers send them a
+pay-up letter.
+
+IANAL, TINLA, if it's convenient to keep the year ranges when updating the
+license there's probably no harm in doing so.  But I don't see a need to
+mandate it.  If others in the ASF disagree, please speak up, I don't want
+to be the last word on this.
+
+>  > For  the purposes of anyone trying to follow
+>  > the terms of the license, the most recent date is all that matters.
+>
+> Terms of license, yes. But when it comes to copyright ownerhship and
+> infringement claims, it is a different story.
+
+And nothing you put in the license can change that story.  :)
+
+	Brian
+
+
+From license-return-152-apmail-license-archive=apache.org@apache.org Mon Feb 16 19:52:42 2004
+Return-Path: <license-return-152-apmail-license-archive=apache.org@apache.org>
+Delivered-To: apmail-license-archive@www.apache.org
+Received: (qmail 33093 invoked from network); 16 Feb 2004 19:52:42 -0000
+Received: from daedalus.apache.org (HELO mail.apache.org) (208.185.179.12)
+  by minotaur-2.apache.org with SMTP; 16 Feb 2004 19:52:42 -0000
+Received: (qmail 26529 invoked by uid 500); 16 Feb 2004 19:52:32 -0000
+Delivered-To: apmail-license-archive@apache.org
+Received: (qmail 26457 invoked by uid 500); 16 Feb 2004 19:52:31 -0000
+Mailing-List: contact license-help@apache.org; run by ezmlm
+Reply-To: license@apache.org
+list-help: <mailto:license-help@apache.org>
+list-unsubscribe: <mailto:license-unsubscribe@apache.org>
+list-post: <mailto:license@apache.org>
+Precedence: bulk
+Delivered-To: mailing list license@apache.org
+Delivered-To: moderator for license@apache.org
+Received: (qmail 14260 invoked from network); 16 Feb 2004 14:27:44 -0000
+Message-ID: <4030D2C8.4050302@apache.org>
+Date: Mon, 16 Feb 2004 15:25:12 +0100
+From: =?ISO-8859-1?Q?Antoine_L=E9vy-Lambert?= <antoine@apache.org>
+User-Agent: Mozilla/5.0 (Windows; U; Windows NT 5.0; en-US; rv:1.6b) Gecko/20031205 Thunderbird/0.4
+X-Accept-Language: en-us, en
+MIME-Version: 1.0
+To: license@apache.org
+CC: Ant PMC <pmc@ant.apache.org>
+Subject: Apache License 2.0
+X-Enigmail-Version: 0.82.4.0
+X-Enigmail-Supports: pgp-inline, pgp-mime
+Content-Type: text/plain; charset=us-ascii; format=flowed
+Content-Transfer-Encoding: 7bit
+X-Spam-Rating: daedalus.apache.org 1.6.2 0/1000/N
+X-Spam-Rating: minotaur-2.apache.org 1.6.2 0/1000/N
+
+Hi,
+
+this link http://opensource.org/licenses/apachepl.html points to a 
+description of the Apache License 1.1.
+
+Do we want opensource.org to publish a different article about the 
+Apache License 2.0 ?
+
+Or do we want them to upgrade this link ?
+
+I am asking you this in the context of the Ant 1.6.1 release.
+
+I did not announce this release on freshmeat yet because of the fact 
+that they refer indirectly to the Apache License 1.1 only under 
+http://freshmeat.net/faq/view/48/#833.
+
+
+
+Cheers,
+
+Antoine
+
+
+
+From license-return-153-apmail-license-archive=apache.org@apache.org Mon Feb 16 22:25:20 2004
+Return-Path: <license-return-153-apmail-license-archive=apache.org@apache.org>
+Delivered-To: apmail-license-archive@www.apache.org
+Received: (qmail 23676 invoked from network); 16 Feb 2004 22:25:20 -0000
+Received: from daedalus.apache.org (HELO mail.apache.org) (208.185.179.12)
+  by minotaur-2.apache.org with SMTP; 16 Feb 2004 22:25:20 -0000
+Received: (qmail 551 invoked by uid 500); 16 Feb 2004 22:25:06 -0000
+Delivered-To: apmail-license-archive@apache.org
+Received: (qmail 491 invoked by uid 500); 16 Feb 2004 22:25:06 -0000
+Mailing-List: contact license-help@apache.org; run by ezmlm
+Reply-To: license@apache.org
+list-help: <mailto:license-help@apache.org>
+list-unsubscribe: <mailto:license-unsubscribe@apache.org>
+list-post: <mailto:license@apache.org>
+Precedence: bulk
+Delivered-To: mailing list license@apache.org
+Received: (qmail 467 invoked from network); 16 Feb 2004 22:25:06 -0000
+Received: from unknown (HELO relay.t-online-com.de) (62.156.147.74)
+  by daedalus.apache.org with SMTP; 16 Feb 2004 22:25:06 -0000
+Received: from apache.org (p5080e6fa.dip0.t-ipconnect.de [80.128.230.250])
+	by relay.t-online-com.de (SMTPSVC(1.0.0.2)) with ESMTP
+	id 97A8A14CBA8; Mon, 16 Feb 2004 23:02:08 +0100 (CET)
+Message-ID: <403142C6.1080004@apache.org>
+Date: Mon, 16 Feb 2004 23:23:02 +0100
+From: =?ISO-8859-1?Q?Antoine_L=E9vy-Lambert?= <antoine@apache.org>
+User-Agent: Mozilla/5.0 (Windows; U; Windows NT 5.0; en-US; rv:1.6b) Gecko/20031205 Thunderbird/0.4
+X-Accept-Language: en-us, en
+MIME-Version: 1.0
+To: Patrick Lenz via RT <news-admins@freshmeat.net>
+Cc: license@apache.org, Ant PMC <pmc@ant.apache.org>
+Subject: Re: [fm #36060] (news-admins) [fmII/contact] Ant 1.6.1 released
+References: <20040216221153.46183CBB04@mail.freshmeat.net>
+In-Reply-To: <20040216221153.46183CBB04@mail.freshmeat.net>
+X-Enigmail-Version: 0.82.4.0
+X-Enigmail-Supports: pgp-inline, pgp-mime
+Content-Type: text/plain; charset=us-ascii; format=flowed
+Content-Transfer-Encoding: 7bit
+X-Spam-Rating: daedalus.apache.org 1.6.2 0/1000/N
+X-Spam-Rating: minotaur-2.apache.org 1.6.2 0/1000/N
+
+Patrick Lenz via RT wrote:
+
+>On Feb 16, 2004, at 17:08, Antoine Levy-Lambert via RT wrote:
+>
+>  
+>
+>>I would like to announce the release of ant 1.6.1 but I have the 
+>>problem
+>>that ant 1.6.1 is under the Apache Software License 2.0 which is not
+>>listed in your list of known licenses.
+>>    
+>>
+>
+>The Apache License 2.0 has been added.
+>
+>  
+>
+Thanks Patrick,
+
+
+Antoine
+
+see http://freshmeat.net/faq/view/48/#833
+now showing Apache License 2.0
+
+
+From license-return-154-apmail-license-archive=apache.org@apache.org Tue Feb 17 13:04:00 2004
+Return-Path: <license-return-154-apmail-license-archive=apache.org@apache.org>
+Delivered-To: apmail-license-archive@www.apache.org
+Received: (qmail 8288 invoked from network); 17 Feb 2004 13:04:00 -0000
+Received: from daedalus.apache.org (HELO mail.apache.org) (208.185.179.12)
+  by minotaur-2.apache.org with SMTP; 17 Feb 2004 13:04:00 -0000
+Received: (qmail 38414 invoked by uid 500); 17 Feb 2004 13:03:58 -0000
+Delivered-To: apmail-license-archive@apache.org
+Received: (qmail 38360 invoked by uid 500); 17 Feb 2004 13:03:57 -0000
+Mailing-List: contact license-help@apache.org; run by ezmlm
+Reply-To: license@apache.org
+list-help: <mailto:license-help@apache.org>
+list-unsubscribe: <mailto:license-unsubscribe@apache.org>
+list-post: <mailto:license@apache.org>
+Precedence: bulk
+Delivered-To: mailing list license@apache.org
+Received: (qmail 38344 invoked from network); 17 Feb 2004 13:03:56 -0000
+Received: from unknown (HELO nandini.home) (61.1.240.139)
+  by daedalus.apache.org with SMTP; 17 Feb 2004 13:03:56 -0000
+Received: from paivakil by nandini.home with local (Exim 4.30)
+	id 1At4DY-0001F4-6P
+	for license@apache.org; Tue, 17 Feb 2004 17:50:48 +0530
+Date: Tue, 17 Feb 2004 17:50:48 +0530
+From: "Mahesh T. Pai" <paivakil@vsnl.net>
+To: license@apache.org
+Subject: Re: Apache License 2.0
+Message-ID: <20040217122048.GA4688@nandini.home>
+Mail-Followup-To: license@apache.org
+References: <4030D2C8.4050302@apache.org>
+Mime-Version: 1.0
+Content-Type: text/plain; charset=iso-8859-1
+Content-Disposition: inline
+Content-Transfer-Encoding: 8bit
+In-Reply-To: <4030D2C8.4050302@apache.org>
+Sender: "Mahesh T. Pai" <paivakil@vsnl.net>
+X-Spam-Rating: daedalus.apache.org 1.6.2 0/1000/N
+X-Spam-Rating: minotaur-2.apache.org 1.6.2 0/1000/N
+
+Antoine Lévy-Lambert said on Mon, Feb 16, 2004 at 03:25:12PM +0100,:
+
+ > this link http://opensource.org/licenses/apachepl.html points to a 
+ > description of the Apache License 1.1.
+
+That is coz. v. 1.1 license is approved by the OSI as a Open Source
+License.
+ 
+ > Do we want opensource.org to publish a different article about the 
+ > Apache License 2.0 ?
+
+That  requires approval  of the  license by  the OSI  board.  Somebody
+called  `Rodent of  Unusual Size  <Ken.Coar@Golux.Com>'  has submitted
+v. 2.0 of  the license there, and so far, no  responses are there, for
+or against approval.
+
+Is this Ken.Coar@Golux.Com a contributor  to apache codebase or as his
+name suggests err  ...  a rat?  Probably, the unsual  name is a reason
+for people on the license discuss not commenting, but then it also may
+be coz people have nothing *against* approval.
+
+HTH.
+
+-- 
++~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~+
+                                          
+  Mahesh T. Pai, LL.M.,                   
+  'NANDINI', S. R. M. Road,               
+  Ernakulam, Cochin-682018,               
+  Kerala, India.                          
+                                          
+  http://paivakil.port5.com         
+                                          
++~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~+
+
+From license-return-155-apmail-license-archive=apache.org@apache.org Tue Feb 17 18:34:10 2004
+Return-Path: <license-return-155-apmail-license-archive=apache.org@apache.org>
+Delivered-To: apmail-license-archive@www.apache.org
+Received: (qmail 2289 invoked from network); 17 Feb 2004 18:34:09 -0000
+Received: from daedalus.apache.org (HELO mail.apache.org) (208.185.179.12)
+  by minotaur-2.apache.org with SMTP; 17 Feb 2004 18:34:09 -0000
+Received: (qmail 41752 invoked by uid 500); 17 Feb 2004 18:33:59 -0000
+Delivered-To: apmail-license-archive@apache.org
+Received: (qmail 41682 invoked by uid 500); 17 Feb 2004 18:33:58 -0000
+Mailing-List: contact license-help@apache.org; run by ezmlm
+Reply-To: license@apache.org
+list-help: <mailto:license-help@apache.org>
+list-unsubscribe: <mailto:license-unsubscribe@apache.org>
+list-post: <mailto:license@apache.org>
+Precedence: bulk
+Delivered-To: mailing list license@apache.org
+Received: (qmail 41566 invoked from network); 17 Feb 2004 18:33:57 -0000
+Received: from unknown (HELO ms-smtp-03-eri0.southeast.rr.com) (24.25.9.102)
+  by daedalus.apache.org with SMTP; 17 Feb 2004 18:33:57 -0000
+Received: from noel770 (cae88-20-092.sc.rr.com [24.88.20.92])
+	by ms-smtp-03-eri0.southeast.rr.com (8.12.10/8.12.7) with SMTP id i1HIXsaF017393
+	for <license@apache.org>; Tue, 17 Feb 2004 13:33:59 -0500 (EST)
+From: "Noel J. Bergman" <noel@devtech.com>
+To: <license@apache.org>
+Subject: RE: Apache License 2.0
+Date: Tue, 17 Feb 2004 13:33:43 -0500
+Message-ID: <NBBBJGEAGJAKLIDBKJOPCEIHHGAB.noel@devtech.com>
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: 7bit
+X-Priority: 3 (Normal)
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook IMO, Build 9.0.6604 (9.0.2911.0)
+X-MIMEOLE: Produced By Microsoft MimeOLE V6.00.2800.1165
+In-Reply-To: <20040217122048.GA4688@nandini.home>
+Importance: Normal
+X-Virus-Scanned: Symantec AntiVirus Scan Engine
+X-Spam-Rating: daedalus.apache.org 1.6.2 0/1000/N
+X-Spam-Rating: minotaur-2.apache.org 1.6.2 0/1000/N
+
+> Somebody called  `Rodent of  Unusual Size  <Ken.Coar@Golux.Com>'  has
+> submitted v. 2.0 of  the license [to the OSI Board.]
+
+> Is this Ken.Coar@Golux.Com a contributor  to apache codebase
+
+See: http://www.apache.org/foundation/board/
+     http://golux.com/coar/
+
+	--- Noel
+
+From license-return-156-apmail-license-archive=apache.org@apache.org Wed Feb 18 01:29:56 2004
+Return-Path: <license-return-156-apmail-license-archive=apache.org@apache.org>
+Delivered-To: apmail-license-archive@www.apache.org
+Received: (qmail 13009 invoked from network); 18 Feb 2004 01:29:56 -0000
+Received: from daedalus.apache.org (HELO mail.apache.org) (208.185.179.12)
+  by minotaur-2.apache.org with SMTP; 18 Feb 2004 01:29:56 -0000
+Received: (qmail 23715 invoked by uid 500); 18 Feb 2004 01:29:39 -0000
+Delivered-To: apmail-license-archive@apache.org
+Received: (qmail 23614 invoked by uid 500); 18 Feb 2004 01:29:38 -0000
+Mailing-List: contact license-help@apache.org; run by ezmlm
+Reply-To: license@apache.org
+list-help: <mailto:license-help@apache.org>
+list-unsubscribe: <mailto:license-unsubscribe@apache.org>
+list-post: <mailto:license@apache.org>
+Precedence: bulk
+Delivered-To: mailing list license@apache.org
+Received: (qmail 23596 invoked from network); 18 Feb 2004 01:29:37 -0000
+Received: from unknown (HELO nandini.home) (61.1.241.90)
+  by daedalus.apache.org with SMTP; 18 Feb 2004 01:29:37 -0000
+Received: from paivakil by nandini.home with local (Exim 4.30)
+	id 1AtGYf-0000SE-2W
+	for license@apache.org; Wed, 18 Feb 2004 07:01:25 +0530
+Date: Wed, 18 Feb 2004 07:01:25 +0530
+From: "Mahesh T. Pai" <paivakil@vsnl.net>
+To: license@apache.org
+Subject: [Fwd]: License Committee report
+Message-ID: <20040218013125.GA1696@nandini.home>
+Mail-Followup-To: license@apache.org
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Disposition: inline
+Sender: "Mahesh T. Pai" <paivakil@vsnl.net>
+X-Spam-Rating: daedalus.apache.org 1.6.2 0/1000/N
+X-Spam-Rating: minotaur-2.apache.org 1.6.2 0/1000/N
+
+Forwarding the relevant portions from  the license-discuss list.
+
+----- Forwarded message from Russell Nelson <nelson@crynwr.com> -----
+
+ > Date: Tue, 17 Feb 2004 20:20:49 -0500
+ > From: Russell Nelson <nelson@crynwr.com>
+ > Subject: License Committee report
+ > To: osi@opensource.org
+ > CC: license-discuss@opensource.org
+ > X-Mailer: VM 7.07 under 21.4 (patch 8) "Honest Recruiter" XEmacs Lucid
+ > 
+ > I'm the chair of the license approval committee.  This is my report
+ > for the current set of licenses under discussion.  If anybody
+ > disagrees with my assessment of the committee's conclusions, say so
+ > promptly.
+
+<snip>
+
+ > 
+ > --
+ > 
+ > Revisions to the currently-approved apache license.  They tried
+ > introducing a defensive patent license clause, but too many people
+ > shot at that flag.
+ > 
+ > Title: Apache License 2.0 
+ > Submission: http://crynwr.com/cgi-bin/ezmlm-cgi?3:mss:7655:200402:jjibkpabgkibfkdpildd
+ > License: 
+ > Comments:
+ >   Brian Behlendorf: http://crynwr.com/cgi-bin/ezmlm-cgi?3:mss:7781:200402:jjibkpabgkibfkdpildd
+ >   John Cowan: http://crynwr.com/cgi-bin/ezmlm-cgi?3:mss:7797:200402:jjibkpabgkibfkdpildd
+ > Recommend: approval.
+ > 
+ > --
+<snip>
+ > license-discuss archive is at http://crynwr.com/cgi-bin/ezmlm-cgi?3
+
+----- End forwarded message -----
+
+-- 
++~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~+
+                                          
+  Mahesh T. Pai, LL.M.,                   
+  'NANDINI', S. R. M. Road,               
+  Ernakulam, Cochin-682018,               
+  Kerala, India.                          
+                                          
+  http://paivakil.port5.com         
+                                          
++~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~+
+
+From license-return-157-apmail-license-archive=apache.org@apache.org Thu Feb 19 13:56:31 2004
+Return-Path: <license-return-157-apmail-license-archive=apache.org@apache.org>
+Delivered-To: apmail-license-archive@www.apache.org
+Received: (qmail 33970 invoked from network); 19 Feb 2004 13:56:31 -0000
+Received: from daedalus.apache.org (HELO mail.apache.org) (208.185.179.12)
+  by minotaur-2.apache.org with SMTP; 19 Feb 2004 13:56:31 -0000
+Received: (qmail 64119 invoked by uid 500); 19 Feb 2004 13:56:27 -0000
+Delivered-To: apmail-license-archive@apache.org
+Received: (qmail 64014 invoked by uid 500); 19 Feb 2004 13:56:26 -0000
+Mailing-List: contact license-help@apache.org; run by ezmlm
+Reply-To: license@apache.org
+list-help: <mailto:license-help@apache.org>
+list-unsubscribe: <mailto:license-unsubscribe@apache.org>
+list-post: <mailto:license@apache.org>
+Precedence: bulk
+Delivered-To: mailing list license@apache.org
+Received: (qmail 63994 invoked from network); 19 Feb 2004 13:56:26 -0000
+Received: from unknown (HELO smtp1.kodak.com) (192.232.121.200)
+  by daedalus.apache.org with SMTP; 19 Feb 2004 13:56:26 -0000
+Received: from mailgate-x.kodak.com (mailgate-x.kodak.com [192.232.121.211])
+	by smtp1.kodak.com (8.11.3/8.11.1) with SMTP id i1JDuRA29685
+	for <license@apache.org>; Thu, 19 Feb 2004 08:56:27 -0500 (EST)
+Received: from nodnsquery(150.220.57.168) by mailgate-x.kodak.com via csmap 
+	 id 20408; Thu, 19 Feb 2004 08:56:27 -0500 (EST)
+Message-ID: <4034C08A.9090903@Kodak.com>
+Date: Thu, 19 Feb 2004 08:56:26 -0500
+From: Thomas DeWeese <Thomas.DeWeese@Kodak.com>
+Organization: Eastman Kodak Company
+User-Agent: Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.6) Gecko/20040113
+X-Accept-Language: en-us, en
+MIME-Version: 1.0
+To: license@apache.org
+Subject: Question on The Apache License 2.0
+Content-Type: text/plain; charset=us-ascii; format=flowed
+Content-Transfer-Encoding: 7bit
+X-Spam-Rating: daedalus.apache.org 1.6.2 0/1000/N
+X-Spam-Rating: minotaur-2.apache.org 1.6.2 0/1000/N
+
+Hi all,
+
+     We were going over the new license and noticed something that
+looked really kind of odd to us, in section 3 it says:
+
+        [...] where such license applies only to those patent claims
+        licensable by such Contributor that are necessarily infringed
+        by their Contribution(s) alone or by combination of their
+        Contribution(s) with the Work to which such Contribution(s) was
+        submitted.
+
+     The troubling part of this is the 'by combination of their
+Contributions(s) with the Work to which such Contribution(s) was
+submitted.'  The question is does this apply retroactively?
+
+     So taking the following example:
+
+Company A contributes to project P.
+
+Company B the contributes code that necessarily infringes Company A's
+patents to project P.
+
+     Now at this point Company A is now in the position of having
+the "combination of their Contribution(s) with the Work to which such
+Contribution(s) was submitted" necessarily infringe it's patents.
+Meaning in at least some reading of the Apache License that they must
+grant a license for the patent.
+
+     I hope this was not the intent as it means that any committer can
+instantly gain a license for any patent, expressible in software, held
+by another contributor. Simply contribute the infringing code, check
+it out and then use that code in what ever product they want to.
+
+     I suspect that there is an intention of limiting 'the Work' to
+"the Work as it existed at the time the Contribution(s) was
+submitted".
+
+     So going back to the example above Company A would only
+be granting the license if it contributed code _after_ Company B
+contributed the infringing code, because the Work it submitted the
+contribution to did not infringe it's patent, a "newer version" of the
+Work does.
+
+     Is there any chance of getting this clarified?
+
+
+From license-return-158-apmail-license-archive=apache.org@apache.org Thu Feb 19 14:04:08 2004
+Return-Path: <license-return-158-apmail-license-archive=apache.org@apache.org>
+Delivered-To: apmail-license-archive@www.apache.org
+Received: (qmail 38225 invoked from network); 19 Feb 2004 14:04:08 -0000
+Received: from daedalus.apache.org (HELO mail.apache.org) (208.185.179.12)
+  by minotaur-2.apache.org with SMTP; 19 Feb 2004 14:04:08 -0000
+Received: (qmail 80536 invoked by uid 500); 19 Feb 2004 14:04:05 -0000
+Delivered-To: apmail-license-archive@apache.org
+Received: (qmail 80433 invoked by uid 500); 19 Feb 2004 14:04:04 -0000
+Mailing-List: contact license-help@apache.org; run by ezmlm
+Reply-To: license@apache.org
+list-help: <mailto:license-help@apache.org>
+list-unsubscribe: <mailto:license-unsubscribe@apache.org>
+list-post: <mailto:license@apache.org>
+Precedence: bulk
+Delivered-To: mailing list license@apache.org
+Received: (qmail 80420 invoked from network); 19 Feb 2004 14:04:04 -0000
+Received: from unknown (HELO hexagon.stack.nl) (131.155.140.144)
+  by daedalus.apache.org with SMTP; 19 Feb 2004 14:04:04 -0000
+Received: from toad.stack.nl (zen.stack.nl [IPv6:2001:610:1108:5010::130])
+	by hexagon.stack.nl (Postfix) with ESMTP id 4034C255#29E6D51EE
+	for <license@apache.org>; Thu, 19 Feb 2004 15:04:05 +0100 (CET)
+Received: by toad.stack.nl (Postfix, from userid 488)
+	id EDAB18A; Thu, 19 Feb 2004 15:04:04 +0100 (CET)
+Date: Thu, 19 Feb 2004 15:04:04 +0100
+From: Arnoud Engelfriet <galactus@stack.nl>
+To: license@apache.org
+Subject: Re: Question on The Apache License 2.0
+Message-ID: <20040219140404.GB40708@stack.nl>
+References: <4034C08A.9090903@Kodak.com>
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Disposition: inline
+In-Reply-To: <4034C08A.9090903@Kodak.com>
+User-Agent: Mutt/1.5.5.1i
+X-Spam-Rating: daedalus.apache.org 1.6.2 0/1000/N
+X-Spam-Rating: minotaur-2.apache.org 1.6.2 0/1000/N
+
+Thomas DeWeese wrote:
+>        [...] where such license applies only to those patent claims
+>        licensable by such Contributor that are necessarily infringed
+>        by their Contribution(s) alone or by combination of their
+>        Contribution(s) with the Work to which such Contribution(s) was
+>        submitted.
+> 
+>     The troubling part of this is the 'by combination of their
+> Contributions(s) with the Work to which such Contribution(s) was
+> submitted.'  The question is does this apply retroactively?
+
+My reading of that phrase is only the patents embodied in the 
+Contribution are licensed. The license permits combining the
+Contribution with the Work, but does not require licensing of
+patents in the (rest of the) Work.
+
+Arnoud
+
+-- 
+Arnoud Engelfriet, Dutch patent attorney - Speaking only for myself
+Patents, copyright and IPR explained for techies: http://www.iusmentis.com/
+

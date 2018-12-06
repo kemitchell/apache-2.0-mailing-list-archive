@@ -1,0 +1,864 @@
+From license-return-116-apmail-license-archive=apache.org@apache.org Wed Dec 03 16:32:43 2003
+Return-Path: <license-return-116-apmail-license-archive=apache.org@apache.org>
+Delivered-To: apmail-license-archive@www.apache.org
+Received: (qmail 66026 invoked from network); 3 Dec 2003 16:32:42 -0000
+Received: from daedalus.apache.org (HELO mail.apache.org) (208.185.179.12)
+  by minotaur-2.apache.org with SMTP; 3 Dec 2003 16:32:42 -0000
+Received: (qmail 51778 invoked by uid 500); 3 Dec 2003 16:32:24 -0000
+Delivered-To: apmail-license-archive@apache.org
+Received: (qmail 51689 invoked by uid 500); 3 Dec 2003 16:32:23 -0000
+Mailing-List: contact license-help@apache.org; run by ezmlm
+Reply-To: license@apache.org
+list-help: <mailto:license-help@apache.org>
+list-unsubscribe: <mailto:license-unsubscribe@apache.org>
+list-post: <mailto:license@apache.org>
+Precedence: bulk
+Delivered-To: mailing list license@apache.org
+Received: (qmail 51676 invoked from network); 3 Dec 2003 16:32:23 -0000
+Received: from unknown (HELO ussjmh01.bea.com) (63.96.162.5)
+  by daedalus.apache.org with SMTP; 3 Dec 2003 16:32:23 -0000
+Received: from ussjex04.amer.bea.com (ussjex04b.bea.com [172.16.120.57])
+	by ussjmh01.bea.com (Switch-3.0.5/Switch-3.0.0) with ESMTP id hB3GWPfv022723
+	for <license@apache.org>; Wed, 3 Dec 2003 08:32:25 -0800
+Received: from USSEEX01.amer.bea.com ([172.17.64.15]) by ussjex04.amer.bea.com with Microsoft SMTPSVC(5.0.2195.6713);
+	 Wed, 3 Dec 2003 08:32:24 -0800
+X-MimeOLE: Produced By Microsoft Exchange V6.0.6375.0
+content-class: urn:content-classes:message
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+Subject: Corporate CLA is now official?
+Date: Wed, 3 Dec 2003 08:32:25 -0800
+Message-ID: <4C2F1577F2EF2840A9AE9EC61860C8810A10CF@usseex01.amer.bea.com>
+X-MS-Has-Attach: 
+X-MS-TNEF-Correlator: 
+Thread-Topic: Corporate CLA is now official?
+Thread-Index: AcO5uwNQ+oTVNUEEQhCmPyWy59odGA==
+From: "Cliff Schmidt" <cliff@bea.com>
+To: <license@apache.org>
+X-OriginalArrivalTime: 03 Dec 2003 16:32:25.0088 (UTC) FILETIME=[089AA000:01C3B9BB]
+X-Spam-Rating: daedalus.apache.org 1.6.2 0/1000/N
+X-Spam-Rating: minotaur-2.apache.org 1.6.2 0/1000/N
+
+Sorry if I missed this, but did the Corporate CLA already move=20
+beyond draft to final?  I had seen it [0] linked from the proposed=20
+licenses page [1] (note the big disclaimer at the top), but now=20
+there appears to be a final version [2] (without the disclaimer)
+linked from the main licenses page [3].
+
+Cliff
+
+[0] http://apache.org/licenses/proposed/cla-corporate.txt
+[1] http://apache.org/licenses/proposed/
+[2] http://apache.org/licenses/cla-corporate.txt
+[3] http://apache.org/licenses/
+
+From license-return-117-apmail-license-archive=apache.org@apache.org Wed Dec 03 23:22:44 2003
+Return-Path: <license-return-117-apmail-license-archive=apache.org@apache.org>
+Delivered-To: apmail-license-archive@www.apache.org
+Received: (qmail 325 invoked from network); 3 Dec 2003 23:22:42 -0000
+Received: from daedalus.apache.org (HELO mail.apache.org) (208.185.179.12)
+  by minotaur-2.apache.org with SMTP; 3 Dec 2003 23:22:42 -0000
+Received: (qmail 42581 invoked by uid 500); 3 Dec 2003 23:22:16 -0000
+Delivered-To: apmail-license-archive@apache.org
+Received: (qmail 42503 invoked by uid 500); 3 Dec 2003 23:22:15 -0000
+Mailing-List: contact license-help@apache.org; run by ezmlm
+Reply-To: license@apache.org
+list-help: <mailto:license-help@apache.org>
+list-unsubscribe: <mailto:license-unsubscribe@apache.org>
+list-post: <mailto:license@apache.org>
+Precedence: bulk
+Delivered-To: mailing list license@apache.org
+Received: (qmail 42490 invoked from network); 3 Dec 2003 23:22:15 -0000
+Received: from unknown (HELO hyperreal.org) (209.237.226.90)
+  by daedalus.apache.org with SMTP; 3 Dec 2003 23:22:15 -0000
+Received: (qmail 47227 invoked from network); 3 Dec 2003 23:22:25 -0000
+Received: from localhost.hyperreal.org (HELO fez.hyperreal.org) (127.0.0.1)
+  by localhost.hyperreal.org with SMTP; 3 Dec 2003 23:22:25 -0000
+Received: (qmail 61255 invoked by uid 1000); 3 Dec 2003 23:22:21 -0000
+Received: from localhost (sendmail-bs@127.0.0.1)
+  by localhost with SMTP; 3 Dec 2003 23:22:21 -0000
+Date: Wed, 3 Dec 2003 15:22:21 -0800 (PST)
+From: Brian Behlendorf <brian@collab.net>
+X-X-Sender: brian@fez.hyperreal.org
+To: license@apache.org
+Subject: Re: Corporate CLA is now official?
+In-Reply-To: <4C2F1577F2EF2840A9AE9EC61860C8810A10CF@usseex01.amer.bea.com>
+Message-ID: <20031203151638.J60122@fez.hyperreal.org>
+References: <4C2F1577F2EF2840A9AE9EC61860C8810A10CF@usseex01.amer.bea.com>
+MIME-Version: 1.0
+Content-Type: TEXT/PLAIN; charset=US-ASCII
+X-Spam-Rating: localhost.hyperreal.org 1.6.2 0/1000/N
+X-Spam-Rating: daedalus.apache.org 1.6.2 0/1000/N
+X-Spam-Rating: minotaur-2.apache.org 1.6.2 0/1000/N
+
+
+I suspect you inadvertantly posted this to the right place.  :)
+
+"license@apache.org" was set up to discuss the Apache 2.0 license and the
+other proposed docs associated with it.  "licensing@apache.org" was the
+more free-form list for discussion Apache licensing issues in general
+(including donation forms, etc).  Anyways, the document at
+
+  http://apache.org/licenses/cla-corporate.txt
+
+is older than the one we used with BEA, and I'm not sure it's been used
+with any company.  The document at
+
+  http://apache.org/licenses/proposed/cla-corporate.txt
+
+is the newer one used with BEA, and slightly modified to make it
+consistant with the language in the Apache 2.0 license.  Though it should
+also work for us today, if there are other companies looking for a similar
+sort of document.
+
+	Brian
+
+On Wed, 3 Dec 2003, Cliff Schmidt wrote:
+> Sorry if I missed this, but did the Corporate CLA already move
+> beyond draft to final?  I had seen it [0] linked from the proposed
+> licenses page [1] (note the big disclaimer at the top), but now
+> there appears to be a final version [2] (without the disclaimer)
+> linked from the main licenses page [3].
+>
+> Cliff
+>
+> [0] http://apache.org/licenses/proposed/cla-corporate.txt
+> [1] http://apache.org/licenses/proposed/
+> [2] http://apache.org/licenses/cla-corporate.txt
+> [3] http://apache.org/licenses/
+>
+
+From license-return-118-apmail-license-archive=apache.org@apache.org Wed Dec 03 23:28:13 2003
+Return-Path: <license-return-118-apmail-license-archive=apache.org@apache.org>
+Delivered-To: apmail-license-archive@www.apache.org
+Received: (qmail 4099 invoked from network); 3 Dec 2003 23:28:13 -0000
+Received: from daedalus.apache.org (HELO mail.apache.org) (208.185.179.12)
+  by minotaur-2.apache.org with SMTP; 3 Dec 2003 23:28:13 -0000
+Received: (qmail 49533 invoked by uid 500); 3 Dec 2003 23:27:46 -0000
+Delivered-To: apmail-license-archive@apache.org
+Received: (qmail 49483 invoked by uid 500); 3 Dec 2003 23:27:46 -0000
+Mailing-List: contact license-help@apache.org; run by ezmlm
+Reply-To: license@apache.org
+list-help: <mailto:license-help@apache.org>
+list-unsubscribe: <mailto:license-unsubscribe@apache.org>
+list-post: <mailto:license@apache.org>
+Precedence: bulk
+Delivered-To: mailing list license@apache.org
+Received: (qmail 49470 invoked from network); 3 Dec 2003 23:27:46 -0000
+Received: from unknown (HELO mac.wakasoft.com) (65.208.153.194)
+  by daedalus.apache.org with SMTP; 3 Dec 2003 23:27:46 -0000
+Received: from apache.org (localhost [127.0.0.1])
+	by mac.wakasoft.com (8.12.9/8.12.9) with ESMTP id hB3NGUYf023204
+	for <license@apache.org>; Wed, 3 Dec 2003 15:16:30 -0800 (PST)
+Date: Wed, 3 Dec 2003 15:16:29 -0800
+Subject: Re: Corporate CLA is now official?
+Content-Type: text/plain; charset=US-ASCII; format=flowed
+Mime-Version: 1.0 (Apple Message framework v553)
+From: "Roy T. Fielding" <fielding@apache.org>
+To: license@apache.org
+Content-Transfer-Encoding: 7bit
+In-Reply-To: <4C2F1577F2EF2840A9AE9EC61860C8810A10CF@usseex01.amer.bea.com>
+Message-Id: <B9947739-25E6-11D8-960B-000393753936@apache.org>
+X-Mailer: Apple Mail (2.553)
+X-Spam-Rating: daedalus.apache.org 1.6.2 0/1000/N
+X-Spam-Rating: minotaur-2.apache.org 1.6.2 0/1000/N
+
+> Sorry if I missed this, but did the Corporate CLA already move
+> beyond draft to final?  I had seen it [0] linked from the proposed
+> licenses page [1] (note the big disclaimer at the top), but now
+> there appears to be a final version [2] (without the disclaimer)
+> linked from the main licenses page [3].
+
+They have both been up there ever since I moved all of the licenses
+to those directories.  The one under proposed is different from the
+one that was approved and signed (the one in licenses).
+
+....Roy
+
+
+From license-return-119-apmail-license-archive=apache.org@apache.org Wed Dec 24 02:38:53 2003
+Return-Path: <license-return-119-apmail-license-archive=apache.org@apache.org>
+Delivered-To: apmail-license-archive@www.apache.org
+Received: (qmail 70794 invoked from network); 24 Dec 2003 02:38:52 -0000
+Received: from daedalus.apache.org (HELO mail.apache.org) (208.185.179.12)
+  by minotaur-2.apache.org with SMTP; 24 Dec 2003 02:38:52 -0000
+Received: (qmail 94241 invoked by uid 500); 24 Dec 2003 02:38:35 -0000
+Delivered-To: apmail-license-archive@apache.org
+Received: (qmail 94193 invoked by uid 500); 24 Dec 2003 02:38:34 -0000
+Mailing-List: contact license-help@apache.org; run by ezmlm
+Reply-To: license@apache.org
+list-help: <mailto:license-help@apache.org>
+list-unsubscribe: <mailto:license-unsubscribe@apache.org>
+list-post: <mailto:license@apache.org>
+Precedence: bulk
+Delivered-To: mailing list license@apache.org
+Received: (qmail 94173 invoked from network); 24 Dec 2003 02:38:34 -0000
+Received: from unknown (HELO ms-smtp-01.nyroc.rr.com) (24.24.2.55)
+  by daedalus.apache.org with SMTP; 24 Dec 2003 02:38:34 -0000
+Received: from twcny.rr.com (syr-24-58-124-230.twcny.rr.com [24.58.124.230])
+	by ms-smtp-01.nyroc.rr.com (8.12.10/8.12.10) with ESMTP id hBO2ceHN003428
+	for <license@apache.org>; Tue, 23 Dec 2003 21:38:41 -0500 (EST)
+Message-ID: <3FE8FC33.8050005@twcny.rr.com>
+Date: Tue, 23 Dec 2003 21:38:43 -0500
+From: Nathanael Nerode <neroden@twcny.rr.com>
+User-Agent: Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.3) Gecko/20030312
+X-Accept-Language: en-us, en
+MIME-Version: 1.0
+To: license@apache.org
+Subject: Proposed Apache License 2.0: When can we expect the second draft?
+Content-Type: text/plain; charset=us-ascii; format=flowed
+Content-Transfer-Encoding: 7bit
+X-Virus-Scanned: Symantec AntiVirus Scan Engine
+X-Spam-Rating: daedalus.apache.org 1.6.2 0/1000/N
+X-Spam-Rating: minotaur-2.apache.org 1.6.2 0/1000/N
+
+I remember that the following issues were raised:
+
+* License for the license is insufficiently permissive.
+Thread starting: 
+http://nagoya.apache.org/eyebrowse/ReadMsg?listName=license@apache.org&msgNo=38
+Everyone agreed that there was a better way to write what was intended, 
+so this should be uncontroversial.
+
+* Clause 3C is overbroad, apparently by accident.
+Everyone seemed to agree that it should be narrowed; Eben Moglen wrote a 
+good fix in his message:
+http://nagoya.apache.org/eyebrowse/ReadMsg?listName=license@apache.org&msgNo=69
+
+* NOTICE clause is written unclearly, and may be overbroad as written, 
+although the intention is correct.  Most notably, it doesn't allow the 
+removal of notices which *never* applied to the work in question.  It 
+also never defines 'notices'; it should specify that these are supposed 
+to be legal notices.  (Among other threads, mine at 
+http://nagoya.apache.org/eyebrowse/ReadMsg?listName=license@apache.org&msgId=1125924.)
+
+* Clause 5 sentence one is considered overbroad and dangerous by many 
+including HP, the FSF, and Debian -- insofar as it may impact entirely 
+unrelated patent lawsuits having nothing to do with the work in 
+question, even for patents having little to do with software but 
+theoretically "applicable to software".  (Although I guess a few people 
+supported it.)  In contrast, Clause 5 sentence 2 is supported and 
+approved by everyone.  (And some people felt that it should be broadened 
+to terminate copyright licenses as well, although that would render it 
+GPL-incompatible.)
+
+I might have missed some, but I don't think so. :-)
+
+So I guess someone should be working up a second draft.  But the first 
+draft is still the one on the webpage.  Is there an estimated time for a 
+second draft to come out for commentary?  (January? March? June?)  Just 
+so we know when to start thinking about it again.
+
+
+
+From license-return-120-apmail-license-archive=apache.org@apache.org Wed Dec 24 11:28:25 2003
+Return-Path: <license-return-120-apmail-license-archive=apache.org@apache.org>
+Delivered-To: apmail-license-archive@www.apache.org
+Received: (qmail 62298 invoked from network); 24 Dec 2003 11:28:25 -0000
+Received: from daedalus.apache.org (HELO mail.apache.org) (208.185.179.12)
+  by minotaur-2.apache.org with SMTP; 24 Dec 2003 11:28:24 -0000
+Received: (qmail 32813 invoked by uid 500); 24 Dec 2003 11:27:52 -0000
+Delivered-To: apmail-license-archive@apache.org
+Received: (qmail 32755 invoked by uid 500); 24 Dec 2003 11:27:52 -0000
+Mailing-List: contact license-help@apache.org; run by ezmlm
+Reply-To: license@apache.org
+list-help: <mailto:license-help@apache.org>
+list-unsubscribe: <mailto:license-unsubscribe@apache.org>
+list-post: <mailto:license@apache.org>
+Precedence: bulk
+Delivered-To: mailing list license@apache.org
+Received: (qmail 32683 invoked from network); 24 Dec 2003 11:27:52 -0000
+Received: from unknown (HELO smtp4.global.net.uk) (80.189.92.92)
+  by daedalus.apache.org with SMTP; 24 Dec 2003 11:27:52 -0000
+Received: from 253.126.adsl.brightview.com ([80.189.126.253] helo=dmh.org.uk)
+	by smtp4.global.net.uk with esmtp (Exim 4.20)
+	id 1AZ7BN-000PeZ-6V
+	for license@apache.org; Wed, 24 Dec 2003 11:28:05 +0000
+Message-ID: <3FE97840.4090303@dmh.org.uk>
+Date: Wed, 24 Dec 2003 11:28:00 +0000
+From: Dave Hodder <dmh@dmh.org.uk>
+Organization: dmh.org.uk
+User-Agent: Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.4) Gecko/20030624
+X-Accept-Language: en-gb, en
+MIME-Version: 1.0
+To:  license@apache.org
+Subject: Re: Proposed Apache License 2.0: When can we expect the second draft?
+References: <3FE8FC33.8050005@twcny.rr.com>
+In-Reply-To: <3FE8FC33.8050005@twcny.rr.com>
+X-Enigmail-Version: 0.76.7.0
+X-Enigmail-Supports: pgp-inline, pgp-mime
+Content-Type: text/plain; charset=us-ascii; format=flowed
+Content-Transfer-Encoding: 7bit
+Authenticated-Sender: 
+X-Spam-Rating: daedalus.apache.org 1.6.2 0/1000/N
+X-Spam-Rating: minotaur-2.apache.org 1.6.2 0/1000/N
+
+IANAL but I do wonder if Clause 7 ("Redistribution with Modification") 
+could state more clearly that both source and binary-only Derivative 
+Works are permitted.
+
+In addition shouldn't 7(c) -- "You must cause any modified files to 
+carry prominent notices..." be more along the lines of "You must cause 
+the source code of any modified files to carry prominent notices..."? 
+Otherwise would one not have to somehow include a prominent notice in 
+every modified binary?
+
+Regards,
+
+Dave
+
+
+From license-return-121-apmail-license-archive=apache.org@apache.org Wed Dec 24 11:28:26 2003
+Return-Path: <license-return-121-apmail-license-archive=apache.org@apache.org>
+Delivered-To: apmail-license-archive@www.apache.org
+Received: (qmail 62526 invoked from network); 24 Dec 2003 11:28:26 -0000
+Received: from daedalus.apache.org (HELO mail.apache.org) (208.185.179.12)
+  by minotaur-2.apache.org with SMTP; 24 Dec 2003 11:28:26 -0000
+Received: (qmail 33457 invoked by uid 500); 24 Dec 2003 11:27:58 -0000
+Delivered-To: apmail-license-archive@apache.org
+Received: (qmail 33399 invoked by uid 500); 24 Dec 2003 11:27:57 -0000
+Mailing-List: contact license-help@apache.org; run by ezmlm
+Reply-To: license@apache.org
+list-help: <mailto:license-help@apache.org>
+list-unsubscribe: <mailto:license-unsubscribe@apache.org>
+list-post: <mailto:license@apache.org>
+Precedence: bulk
+Delivered-To: mailing list license@apache.org
+Received: (qmail 33385 invoked from network); 24 Dec 2003 11:27:57 -0000
+Received: from unknown (HELO fed1mtao01.cox.net) (68.6.19.244)
+  by daedalus.apache.org with SMTP; 24 Dec 2003 11:27:57 -0000
+Received: from mac.wakasoft.com ([68.5.5.20]) by fed1mtao01.cox.net
+          (InterMail vM.5.01.06.05 201-253-122-130-105-20030824) with ESMTP
+          id <20031224112812.XMWJ3322.fed1mtao01.cox.net@mac.wakasoft.com>
+          for <license@apache.org>; Wed, 24 Dec 2003 06:28:12 -0500
+Received: from apache.org (localhost [127.0.0.1])
+	by mac.wakasoft.com (8.12.9/8.12.9) with ESMTP id hBOBSK7F001423
+	for <license@apache.org>; Wed, 24 Dec 2003 03:28:20 -0800 (PST)
+Date: Wed, 24 Dec 2003 03:28:19 -0800
+Subject: Re: Proposed Apache License 2.0: When can we expect the second draft?
+Content-Type: text/plain; charset=US-ASCII; format=flowed
+Mime-Version: 1.0 (Apple Message framework v553)
+From: "Roy T. Fielding" <fielding@apache.org>
+To: license@apache.org
+Content-Transfer-Encoding: 7bit
+In-Reply-To: <3FE8FC33.8050005@twcny.rr.com>
+Message-Id: <464B4006-3604-11D8-9A9F-000393753936@apache.org>
+X-Mailer: Apple Mail (2.553)
+X-Spam-Rating: daedalus.apache.org 1.6.2 0/1000/N
+X-Spam-Rating: minotaur-2.apache.org 1.6.2 0/1000/N
+
+> So I guess someone should be working up a second draft.  But the first 
+> draft is still the one on the webpage.  Is there an estimated time for 
+> a second draft to come out for commentary?  (January? March? June?)  
+> Just so we know when to start thinking about it again.
+
+Yesterday, or at least that was the idea before the power failed.
+I'll send it in a minute.  Since the changes were extensive, they
+required internal review first.
+
+....Roy
+
+
+From license-return-122-apmail-license-archive=apache.org@apache.org Wed Dec 24 12:16:02 2003
+Return-Path: <license-return-122-apmail-license-archive=apache.org@apache.org>
+Delivered-To: apmail-license-archive@www.apache.org
+Received: (qmail 73824 invoked from network); 24 Dec 2003 12:16:02 -0000
+Received: from daedalus.apache.org (HELO mail.apache.org) (208.185.179.12)
+  by minotaur-2.apache.org with SMTP; 24 Dec 2003 12:16:01 -0000
+Received: (qmail 61416 invoked by uid 500); 24 Dec 2003 12:15:59 -0000
+Delivered-To: apmail-license-archive@apache.org
+Received: (qmail 61353 invoked by uid 500); 24 Dec 2003 12:15:59 -0000
+Mailing-List: contact license-help@apache.org; run by ezmlm
+Reply-To: license@apache.org
+list-help: <mailto:license-help@apache.org>
+list-unsubscribe: <mailto:license-unsubscribe@apache.org>
+list-post: <mailto:license@apache.org>
+Precedence: bulk
+Delivered-To: mailing list license@apache.org
+Received: (qmail 61340 invoked from network); 24 Dec 2003 12:15:59 -0000
+Received: from unknown (HELO fed1mtao03.cox.net) (68.6.19.242)
+  by daedalus.apache.org with SMTP; 24 Dec 2003 12:15:59 -0000
+Received: from mac.wakasoft.com ([68.5.5.20]) by fed1mtao03.cox.net
+          (InterMail vM.5.01.06.05 201-253-122-130-105-20030824) with ESMTP
+          id <20031224121559.GIPY28419.fed1mtao03.cox.net@mac.wakasoft.com>
+          for <license@apache.org>; Wed, 24 Dec 2003 07:15:59 -0500
+Received: from apache.org (localhost [127.0.0.1])
+	by mac.wakasoft.com (8.12.9/8.12.9) with ESMTP id hBOC5L7F001466
+	for <license@apache.org>; Wed, 24 Dec 2003 04:05:21 -0800 (PST)
+Date: Wed, 24 Dec 2003 04:05:20 -0800
+Subject: Re: Proposed Apache License 2.0: When can we expect the second draft?
+Content-Type: text/plain; charset=US-ASCII; format=flowed
+Mime-Version: 1.0 (Apple Message framework v553)
+From: "Roy T. Fielding" <fielding@apache.org>
+To: license@apache.org
+Content-Transfer-Encoding: 7bit
+In-Reply-To: <3FE97840.4090303@dmh.org.uk>
+Message-Id: <7222DBF1-3609-11D8-9A9F-000393753936@apache.org>
+X-Mailer: Apple Mail (2.553)
+X-Spam-Rating: daedalus.apache.org 1.6.2 0/1000/N
+X-Spam-Rating: minotaur-2.apache.org 1.6.2 0/1000/N
+
+> IANAL but I do wonder if Clause 7 ("Redistribution with Modification") 
+> could state more clearly that both source and binary-only Derivative 
+> Works are permitted.
+
+It should be clearer in the updated version I just posted.
+
+> In addition shouldn't 7(c) -- "You must cause any modified files to 
+> carry prominent notices..." be more along the lines of "You must cause 
+> the source code of any modified files to carry prominent notices..."? 
+> Otherwise would one not have to somehow include a prominent notice in 
+> every modified binary?
+
+Yes, if the binary was modified. In general, though, the source is
+modified and the binary is simply replaced, in which case the compiler
+will note that automatically.
+
+....Roy
+
+
+From license-return-123-apmail-license-archive=apache.org@apache.org Wed Dec 24 12:16:03 2003
+Return-Path: <license-return-123-apmail-license-archive=apache.org@apache.org>
+Delivered-To: apmail-license-archive@www.apache.org
+Received: (qmail 73961 invoked from network); 24 Dec 2003 12:16:03 -0000
+Received: from daedalus.apache.org (HELO mail.apache.org) (208.185.179.12)
+  by minotaur-2.apache.org with SMTP; 24 Dec 2003 12:16:03 -0000
+Received: (qmail 61590 invoked by uid 500); 24 Dec 2003 12:16:01 -0000
+Delivered-To: apmail-license-archive@apache.org
+Received: (qmail 61501 invoked by uid 500); 24 Dec 2003 12:16:01 -0000
+Mailing-List: contact license-help@apache.org; run by ezmlm
+Reply-To: license@apache.org
+list-help: <mailto:license-help@apache.org>
+list-unsubscribe: <mailto:license-unsubscribe@apache.org>
+list-post: <mailto:license@apache.org>
+Precedence: bulk
+Delivered-To: mailing list license@apache.org
+Received: (qmail 61445 invoked from network); 24 Dec 2003 12:16:00 -0000
+Received: from unknown (HELO fed1mtao03.cox.net) (68.6.19.242)
+  by daedalus.apache.org with SMTP; 24 Dec 2003 12:16:00 -0000
+Received: from mac.wakasoft.com ([68.5.5.20]) by fed1mtao03.cox.net
+          (InterMail vM.5.01.06.05 201-253-122-130-105-20030824) with ESMTP
+          id <20031224121600.GIPZ28419.fed1mtao03.cox.net@mac.wakasoft.com>
+          for <license@apache.org>; Wed, 24 Dec 2003 07:16:00 -0500
+Received: from apache.org (localhost [127.0.0.1])
+	by mac.wakasoft.com (8.12.9/8.12.9) with ESMTP id hBOCG77F001477
+	for <license@apache.org>; Wed, 24 Dec 2003 04:16:07 -0800 (PST)
+Date: Wed, 24 Dec 2003 04:16:06 -0800
+Subject: Re: Review of proposed Apache License, version 2.0
+Content-Type: text/plain; delsp=yes; charset=US-ASCII; format=flowed
+Mime-Version: 1.0 (Apple Message framework v553)
+From: "Roy T. Fielding" <fielding@apache.org>
+To: license@apache.org
+Content-Transfer-Encoding: quoted-printable
+In-Reply-To: <BA05B60E-11BC-11D8-AE39-000393753936@apache.org>
+Message-Id: <F31D2468-360A-11D8-9A9F-000393753936@apache.org>
+X-Mailer: Apple Mail (2.553)
+X-Spam-Rating: daedalus.apache.org 1.6.2 0/1000/N
+X-Spam-Rating: minotaur-2.apache.org 1.6.2 0/1000/N
+
+Thank you all for your comments on the proposed license.  I have
+incorporated as much of the changes as possible and posted a new
+version on the site
+
+     http://www.apache.org/licenses/proposed/
+
+Note that I have only updated the proposed 2.0 and Individual CLA
+licenses so far -- the others will have to wait until I find some
+time during the holidays.  I include the current revision (1.23)
+below for your convenience.
+
+Cheers,
+
+Roy T. Fielding, co-founder, The Apache Software Foundation
+                  (fielding@apache.org)  <http://roy.gbiv.com/>
+
+
+    =20
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=20
+=3D
+    =3D=3D  DO NOT PANIC!  This is a draft for discussion purposes only. =
+    =20
+   =3D=3D
+    =3D=3D  It has not yet been approved. It does not yet apply to any   =
+    =20
+   =3D=3D
+    =3D=3D  software distributed by the Apache Software Foundation.      =
+    =20
+   =3D=3D
+    =3D=3D                                                               =
+    =20
+   =3D=3D
+    =3D=3D  This version combines a contributor license with the =
+copyright   =20
+   =3D=3D
+    =3D=3D  license, allowing us to describe the patent license given by =
+    =20
+   =3D=3D
+    =3D=3D  contributors to the ASF and users of their contributions, =
+and    =20
+   =3D=3D
+    =3D=3D  explicitly stating the community's expectation on submittal  =
+    =20
+   =3D=3D
+    =3D=3D  of future contributions.                                     =
+    =20
+   =3D=3D
+    =20
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=20
+=3D
+
+                                  Apache License
+                            Version 2.0, December 2003
+                         http://www.apache.org/licenses/
+
+    TERMS AND CONDITIONS FOR USE, REPRODUCTION, AND DISTRIBUTION
+
+    1. Definitions.
+
+       "License" shall mean the terms and conditions for use, =20
+reproduction,
+       and distribution as defined by Sections 1 through 9 of this =20
+document.
+
+       "Licensor" shall mean the copyright owner or entity authorized by
+       the copyright owner that is granting the License.
+
+       "Legal Entity" shall mean the union of the acting entity and all
+       other entities that control, are controlled by, or are under =20
+common
+       control with that entity. For the purposes of this definition,
+       "control" means (i) the power, direct or indirect, to cause the
+       direction or management of such entity, whether by contract or
+       otherwise, or (ii) ownership of fifty percent (50%) or more of =
+the
+       outstanding shares, or (iii) beneficial ownership of such entity.
+
+       "You" (or "Your") shall mean an individual or Legal Entity
+       exercising permissions granted by this License.
+
+       "Source" form shall mean the preferred form for making =20
+modifications,
+       including but not limited to software source code, documentation
+       source, and configuration files.
+
+       "Object" form shall mean any form resulting from mechanical
+       transformation or translation of a Source form, including but
+       not limited to compiled object code, generated documentation,
+       and conversions to other media types.
+
+       "Work" shall mean the work of authorship, whether in Source or
+       Object form, made available under the License, as indicated by a
+       copyright notice that is included in or attached to the work
+       (an example is provided in the Appendix below).
+
+       "Derivative Works" shall mean any work, whether in Source or =20
+Object
+       form, that is based on (or derived from) the Work and for which =20=
+
+the
+       editorial revisions, annotations, elaborations, or other =20
+modifications
+       represent, as a whole, an original work of authorship. For the =20=
+
+purposes
+       of this License, Derivative Works shall not include works that =20=
+
+remain
+       separable from, or merely link (or bind by name) to the =20
+interfaces of,
+       the Work and Derivative Works thereof.
+
+       "Contribution" shall mean any original work of authorship, =20
+including
+       the original version of the Work and any modifications or =20
+additions
+       to that Work or Derivative Works thereof, that is intentionally
+       submitted to Licensor for inclusion in the Work by the copyright =20=
+
+owner
+       or by an individual or Legal Entity authorized to submit on =20
+behalf of
+       the copyright owner. For the purposes of this definition, =20
+"submitted"
+       means any form of electronic, verbal, or written communication =20=
+
+sent
+       to the Licensor or its representatives, including but not limited =
+=20
+to
+       communication on electronic mailing lists, source code control =20=
+
+systems,
+       and issue tracking systems that are managed by, or on behalf of, =20=
+
+the
+       Licensor for the purpose of discussing and improving the Work, =
+but
+       excluding communication that is conspicuously marked or otherwise
+       designated in writing by the copyright owner as "Not a =20
+Contribution."
+
+       "Contributor" shall mean Licensor and any individual or Legal =20
+Entity
+       on behalf of whom a Contribution has been received by Licensor =
+and
+       subsequently incorporated within the Work.
+
+    2. Grant of Copyright License. Subject to the terms and conditions =
+of
+       this License, each Contributor hereby grants to You a perpetual,
+       worldwide, non-exclusive, no-charge, royalty-free, irrevocable
+       copyright license to reproduce, prepare Derivative Works of,
+       publicly display, publicly perform, sublicense, and distribute =
+the
+       Work and such Derivative Works in Source or Object form.
+
+    3. Grant of Patent License. Subject to the terms and conditions of
+       this License, each Contributor hereby grants to You a perpetual,
+       worldwide, non-exclusive, no-charge, royalty-free, irrevocable
+       (except as stated in this section) patent license to make, have =20=
+
+made,
+       use, offer to sell, sell, import, and otherwise transfer the =
+Work,
+       where such license applies only to those patent claims licensable
+       by such Contributor that are necessarily infringed by their
+       Contribution(s) alone or by combination of their Contribution(s)
+       with the Work to which such Contribution(s) was submitted. If You
+       institute patent litigation against any entity (including a
+       cross-claim or counterclaim in a lawsuit) alleging that the Work
+       or a Contribution incorporated within the Work constitutes direct
+       or contributory patent infringement, then any patent licenses
+       granted to You under this License for that Work shall terminate
+       as of the date such litigation is filed.
+
+    4. Redistribution. You may reproduce and distribute copies of the
+       Work or Derivative Works thereof in any medium, with or without
+       modifications, and in Source or Object form, provided that You
+       meet the following conditions:
+
+       (a) You must give any other recipients of the Work or
+           Derivative Works a copy of this License; and
+
+       (b) You must cause any modified files to carry prominent notices
+           stating that You changed the files; and
+
+       (c) You must retain, in the Source form of any Derivative Works
+           that You distribute, all copyright, patent, trademark, and
+           attribution notices from the Source form of the Work,
+           excluding those notices that do not pertain to any part of
+           the Derivative Works; and
+
+       (d) If the Work includes a "NOTICE" text file as part of its
+           distribution, then any Derivative Works that You distribute =20=
+
+must
+           include a readable copy of the attribution notices contained
+           within such NOTICE file, excluding those notices that do not
+           pertain to any part of the Derivative Works, in at least one
+           of the following places: within a NOTICE text file =
+distributed
+           as part of the Derivative Works; within the Source form or
+           documentation, if provided along with the Derivative Works; =20=
+
+or,
+           within a display generated by the Derivative Works, if and
+           wherever such third-party notices normally appear. The =20
+contents
+           of the NOTICE file are for informational purposes only and
+           do not modify the License. You may add Your own attribution
+           notices within Derivative Works that You distribute, =
+alongside
+           or as an addendum to the NOTICE text from the Work, provided
+           that such additional attribution notices cannot be construed
+           as modifying the License.
+
+       You may add Your own copyright statement to Your modifications =
+and
+       may provide additional or different license terms and conditions
+       for use, reproduction, or distribution of Your modifications, or
+       for any such Derivative Works as a whole, provided Your use,
+       reproduction, and distribution of the Work otherwise complies =
+with
+       the conditions stated in this License.
+
+    5. Submission of Contributions. Unless You explicitly state =20
+otherwise,
+       any Contribution intentionally submitted for inclusion in the =
+Work
+       by You to the Licensor shall be under the terms and conditions of
+       this License, without any additional terms or conditions.
+       Notwithstanding the above, nothing herein shall supersede or =20
+modify
+       the terms of any separate license agreement you may have executed
+       with Licensor regarding such Contributions. You should not submit
+       as a "Contribution" any work that is not Your original creation.
+
+    6. Trademarks. This License does not grant permission to use the =20
+trade
+       names, trademarks, service marks, or product names of the =20
+Licensor,
+       except as required for reasonable and customary use in describing =
+=20
+the
+       origin of the Work and reproducing the content of the NOTICE =
+file.
+
+    7. Disclaimer of Warranty. Unless required by applicable law or
+       agreed to in writing, Licensor provides the Work (and each
+       Contributor provides its Contributions) on an "AS IS" BASIS,
+       WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or
+       implied, including, without limitation, any warranties or =20
+conditions
+       of TITLE, NON-INFRINGEMENT, MERCHANTABILITY, or FITNESS FOR A
+       PARTICULAR PURPOSE. You are solely responsible for determining =
+the
+       appropriateness of using or redistributing the Work and assume =
+any
+       risks associated with Your exercise of permissions under this =20
+License.
+
+    8. Limitation of Liability. In no event and under no legal theory,
+       whether in tort (including negligence), contract, or otherwise,
+       unless required by applicable law (such as deliberate and grossly
+       negligent acts) or agreed to in writing, shall any Contributor be
+       liable to You for damages, including any direct, indirect, =20
+special,
+       incidental, or consequential damages of any character arising as =
+a
+       result of this License or out of the use or inability to use the
+       Work (including but not limited to damages for loss of goodwill,
+       work stoppage, computer failure or malfunction, or any and all
+       other commercial damages or losses), even if such Contributor
+       has been advised of the possibility of such damages.
+
+    9. Accepting Warranty or Additional Liability. While redistributing
+       the Work or Derivative Works thereof, You may choose to offer,
+       and charge a fee for, acceptance of support, warranty, indemnity,
+       or other liability obligations and/or rights consistent with this
+       License. However, in accepting such obligations, You may act only
+       on Your own behalf and on Your sole responsibility, not on behalf
+       of any other Contributor, and only if You agree to indemnify,
+       defend, and hold each Contributor harmless for any liability
+       incurred by, or claims asserted against, such Contributor by =20
+reason
+       of your accepting any such warranty or additional liability.
+
+    END OF TERMS AND CONDITIONS
+
+    APPENDIX: How to apply the Apache License to your work.
+
+       To apply the Apache License to your work, attach the following
+       boilerplate notice, with the fields enclosed by brackets "[]"
+       replaced with your own identifying information. (Don't include
+       the brackets!)  The text should be enclosed in the appropriate
+       comment syntax for the file format. We also recommend that a
+       file or class name and description of purpose be included on the
+       same "printed page" as the copyright notice for easier
+       identification within third-party archives.
+
+    Copyright (C) [yyyy]  [name of copyright owner]
+
+    Licensed under the Apache License, Version 2.0 (the "License");
+    you may not use this file except in compliance with the License.
+    You may obtain a copy of the License at
+
+        http://www.apache.org/licenses/LICENSE-2.0
+
+    Unless required by applicable law or agreed to in writing, software
+    distributed under the License is distributed on an "AS IS" BASIS,
+    WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or =20
+implied.
+    See the License for the specific language governing permissions and
+    limitations under the License.
+=0C   =
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D
+    =3D=3D  Sample NOTICE file, in this case for Apache httpd-2.0        =
+ =3D=3D
+    =3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D
+
+    This product includes software developed by
+    The Apache Software Foundation (http://www.apache.org/).
+
+    Portions of this software were developed at the National Center
+    for Supercomputing Applications (NCSA) at the University of
+    Illinois at Urbana-Champaign.
+
+    This software contains code derived from the RSA Data Security
+    Inc. MD5 Message-Digest Algorithm, including various
+    modifications by Spyglass Inc., Carnegie Mellon University, and
+    Bell Communications Research, Inc (Bellcore).
+
+    Regular expression support is provided by the PCRE library package,
+    which is open source software, written by Philip Hazel, and =
+copyright
+    by the University of Cambridge, England. The original software is
+    available from
+       ftp://ftp.csx.cam.ac.uk/pub/software/programming/pcre/
+
+
+From license-return-124-apmail-license-archive=apache.org@apache.org Wed Dec 24 13:22:46 2003
+Return-Path: <license-return-124-apmail-license-archive=apache.org@apache.org>
+Delivered-To: apmail-license-archive@www.apache.org
+Received: (qmail 93704 invoked from network); 24 Dec 2003 13:22:45 -0000
+Received: from daedalus.apache.org (HELO mail.apache.org) (208.185.179.12)
+  by minotaur-2.apache.org with SMTP; 24 Dec 2003 13:22:45 -0000
+Received: (qmail 27315 invoked by uid 500); 24 Dec 2003 13:22:42 -0000
+Delivered-To: apmail-license-archive@apache.org
+Received: (qmail 27243 invoked by uid 500); 24 Dec 2003 13:22:42 -0000
+Mailing-List: contact license-help@apache.org; run by ezmlm
+Reply-To: license@apache.org
+list-help: <mailto:license-help@apache.org>
+list-unsubscribe: <mailto:license-unsubscribe@apache.org>
+list-post: <mailto:license@apache.org>
+Precedence: bulk
+Delivered-To: mailing list license@apache.org
+Received: (qmail 27230 invoked from network); 24 Dec 2003 13:22:41 -0000
+Received: from unknown (HELO smtp4.global.net.uk) (80.189.92.92)
+  by daedalus.apache.org with SMTP; 24 Dec 2003 13:22:41 -0000
+Received: from 253.126.adsl.brightview.com ([80.189.126.253] helo=dmh.org.uk)
+	by smtp4.global.net.uk with esmtp (Exim 4.20)
+	id 1AZ8yI-0003sE-5V
+	for license@apache.org; Wed, 24 Dec 2003 13:22:42 +0000
+Message-ID: <3FE9931F.1000000@dmh.org.uk>
+Date: Wed, 24 Dec 2003 13:22:39 +0000
+From: Dave Hodder <dmh@dmh.org.uk>
+Organization: dmh.org.uk
+User-Agent: Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.4) Gecko/20030624
+X-Accept-Language: en-gb, en
+MIME-Version: 1.0
+To:  license@apache.org
+Subject: Re: Proposed Apache License 2.0: When can we expect the second draft?
+References: <7222DBF1-3609-11D8-9A9F-000393753936@apache.org>
+In-Reply-To: <7222DBF1-3609-11D8-9A9F-000393753936@apache.org>
+X-Enigmail-Version: 0.76.7.0
+X-Enigmail-Supports: pgp-inline, pgp-mime
+Content-Type: text/plain; charset=us-ascii; format=flowed
+Content-Transfer-Encoding: 7bit
+Authenticated-Sender: 
+X-Spam-Rating: daedalus.apache.org 1.6.2 0/1000/N
+X-Spam-Rating: minotaur-2.apache.org 1.6.2 0/1000/N
+
+Roy T. Fielding wrote:
+
+>> IANAL but I do wonder if Clause 7 ("Redistribution with Modification") 
+>> could state more clearly that both source and binary-only Derivative 
+>> Works are permitted.
+> 
+> It should be clearer in the updated version I just posted.
+
+Yes, as a layperson it seems much clearer to me now.  Many thanks.
+
+Dave
+
+
