@@ -1,0 +1,30 @@
+--- LICENSE-2.0.txt     24 Dec 2003 12:06:34 -0000      1.23
++++ LICENSE-2.0.txt     14 Jan 2004 20:18:32 -0000      1.24
+@@ -11,7 +11,7 @@
+     ====================================+====================================
+ 
+                                  Apache License
+-                           Version 2.0, December 2003
++                           Version 2.0, January 2004
+                         http://www.apache.org/licenses/
+ 
+    TERMS AND CONDITIONS FOR USE, REPRODUCTION, AND DISTRIBUTION
+@@ -57,7 +57,7 @@
+       separable from, or merely link (or bind by name) to the interfaces of,
+       the Work and Derivative Works thereof.
+ 
+-      "Contribution" shall mean any original work of authorship, including
++      "Contribution" shall mean any work of authorship, including
+       the original version of the Work and any modifications or additions
+       to that Work or Derivative Works thereof, that is intentionally
+       submitted to Licensor for inclusion in the Work by the copyright owner
+@@ -145,8 +145,7 @@
+       this License, without any additional terms or conditions.
+       Notwithstanding the above, nothing herein shall supersede or modify
+       the terms of any separate license agreement you may have executed
+-      with Licensor regarding such Contributions. You should not submit
+-      as a "Contribution" any work that is not Your original creation.
++      with Licensor regarding such Contributions.
+ 
+ 
+ 
